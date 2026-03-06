@@ -56,8 +56,9 @@ PRIMA:
 /* 2) Se l'HTML conserva type */
 
 .popover .popover_trigger i.evt_note > span.lac,
-.popover .popover_trigger i.evt_note > span.cap,
+.popover .popover_trigger i.evt_note > span.ric,
 .popover .popover_trigger i.evt_note > span.jacob,
+.popover .popover_trigger i.evt_note > span.autoCorr,
 .popover .popover_trigger i.evt_note > span.corrSim{
   /* kill barra */
   border: none !important;
@@ -88,10 +89,37 @@ PRIMA:
 
 /* colori */
 .popover .popover_trigger i.evt_note > span.lac     { background-color:#000000 !important; }
-.popover .popover_trigger i.evt_note > span.autocorr   { background-color:#1565c0 !important; }
+.popover .popover_trigger i.evt_note > span.ric   { background-color:#1565c0 !important; }
 .popover .popover_trigger i.evt_note > span.jacob  { background-color:#c62828 !important; }
+.popover .popover_trigger i.evt_note > span.autoCorr     { background-color:#ce00fc !important; }
 .popover .popover_trigger i.evt_note > span.corrSim { background-color:#2e7d32 !important; } 
 
+/* LETTERA NOTE correzioni del copista */
+.evt_note .autoCorr {
+  font-size: 0;   /* nasconde il testo senza eliminarlo */
+}
+
+/* Stile comune del badge (una sola volta) */
+.evt_note .autoCorr::before {
+  content: "C";   /* <- lettera desiderata */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 1em;
+  height: 1em;
+  border-radius: 30%;
+
+  font-size: 0.90rem;
+  font-weight: 999;
+  font-style: normal;
+  line-height: 1;
+
+  color: #ffffff;
+  background-color: #ff8c00;
+
+  vertical-align: super;
+}
 /* LETTERA NOTE lacune */
 .evt_note .lac {
   font-size: 0;   /* nasconde il testo senza eliminarlo */
@@ -125,7 +153,7 @@ PRIMA:
 }
 
 .evt_note .corrSim::before {
-  content: "S";   /* <- lettera desiderata */
+  content: "E";   /* <- lettera desiderata */
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -173,13 +201,13 @@ PRIMA:
 }
 
 /* LETTERA NOTA autocorrezioni copista */
-.evt_note .autocorr {
+.evt_note .ric {
   font-size: 0;   /* nasconde il testo senza eliminarlo */
 }
 
 /* Stile comune del badge (una sola volta) */
-.evt_note .autocorr::before {
-  content: "J";   /* <- lettera desiderata */
+.evt_note .ric::before {
+  content: "R";   /* <- lettera desiderata */
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -204,3 +232,14 @@ PRIMA:
   color: #c62828;
 }
 
+/* Quando il contenitore ha classe 'interpretative', nascondi i tag 'orig' */
+.interpretative .orig, 
+.interpretative [data-containertag="orig"] {
+    display: none !important;
+}
+
+/* Per sicurezza, assicurati che siano visibili in diplomatica (comportamento standard) */
+.diplomatic .orig, 
+.diplomatic [data-containertag="orig"] {
+    display: inline !important;
+}
