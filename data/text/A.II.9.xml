@@ -4388,98 +4388,116 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <charDecl>
-            <char xml:id="amacr">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER A WITH MACRON"/>
-               <mapping type="codepoint">U+0101</mapping>
-               <mapping type="diplomatic">ā</mapping>
-               <mapping type="normalized">a</mapping>
-            </char>
-            <char xml:id="itilde">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER I WITH TILDE"/>
-               <mapping type="codepoint">U+0129</mapping>
-               <mapping type="diplomatic">ĩ</mapping>
-               <mapping type="normalized">i</mapping>
-            </char>
-            <char xml:id="omacr">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER O WITH MACRON"/>
-               <mapping type="codepoint">U+014D</mapping>
-               <mapping type="diplomatic">ō</mapping>
-               <mapping type="normalized">o</mapping>
-            </char>
-            <char xml:id="pmacr">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER P WITH MACRON"/>
-               <mapping subtype="composed" type="codepoint">E665</mapping>
-               <mapping type="diplomatic"></mapping>
-               <mapping type="normalized">p</mapping>
-            </char>
-            <char xml:id="emacr">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER E WITH MACRON"/>
-               <mapping type="codepoint">U+0113</mapping>
-               <mapping type="diplomatic">ē</mapping>
-               <mapping type="normalized">e</mapping>
-            </char>
-            <char xml:id="pbardes">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER"/>
-               <mapping type="codepoint">U+A751</mapping>
-               <mapping type="diplomatic">ꝑ</mapping>
-               <mapping type="normalized">p</mapping>
-            </char>
-            <char xml:id="umacr">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER U WITH MACRON"/>
-               <mapping type="codepoint">U+016B</mapping>
-               <mapping type="diplomatic">ū</mapping>
-               <mapping type="normalized">u</mapping>
-            </char>
-            <char xml:id="imacr">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER I WITH MACRON"/>
-               <mapping type="codepoint">U+012B</mapping>
-               <mapping type="diplomatic">ī</mapping>
-               <mapping type="normalized">i</mapping>
-            </char>
-            <char xml:id="otilde">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER O WITH TILDE"/>
-               <mapping type="codepoint">U+00F5</mapping>
-               <mapping type="diplomatic">õ</mapping>
-               <mapping type="normalized">o</mapping>
-            </char>
-            <char xml:id="etilde">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER E WITH TILDE"/>
-               <mapping type="codepoint">U+0065 + U+0303</mapping>
-               <mapping type="diplomatic">ẽ</mapping>
-               <mapping type="normalized">e</mapping>
-            </char>
-            <char xml:id="atilde">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER A WITH TILDE"/>
-               <mapping type="codepoint">U+00E3</mapping>
-               <mapping type="diplomatic">ã</mapping>
-               <mapping type="normalized">a</mapping>
-            </char>
-            <char xml:id="hstrok">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER H WITH STROKE"/>
-               <mapping subtype="composed" type="codepoint">U+0180</mapping>
-               <mapping type="diplomatic">ħ</mapping>
-               <mapping type="normalized">h</mapping>
-            </char>
-            <char xml:id="qmacr">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER Q WITH MACRON"/>
-               <mapping subtype="composed" type="codepoint">E681</mapping>
-               <mapping type="diplomatic"></mapping>
-               <mapping type="normalized">q</mapping>
-            </char>
-            <char xml:id="gmacr">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER G WITH MACRON"/>
-               <mapping subtype="composed" type="codepoint">U+1E21</mapping>
-               <mapping type="diplomatic">ḡ</mapping>
-               <mapping type="normalized">g</mapping>
-            </char>
-            <char xml:id="utilde">
-               <unicodeProp name="Name" value="LATIN SMALL LETTER U WITH TILDE"/>
-               <mapping type="codepoint">U+0065 + U+0303</mapping>
-               <mapping type="diplomatic">ũ</mapping>
-               <mapping type="normalized">u</mapping>
-            </char>
-         </charDecl>
+      	<charDecl>
+      		<char xml:id="amacr">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER A WITH MACRON"/>
+      			<mapping type="codepoint">U+0101</mapping>
+      			<mapping type="diplomatic">ā</mapping>
+      			<mapping type="normalized">a</mapping>
+      		</char>
+      		<char xml:id="itilde">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER I WITH TILDE"/>
+      			<mapping type="codepoint">U+0129</mapping>
+      			<mapping type="diplomatic">ĩ</mapping>
+      			<mapping type="normalized">i</mapping>
+      		</char>
+      		<char xml:id="omacr">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER O WITH MACRON"/>
+      			<mapping type="codepoint">U+014D</mapping>
+      			<mapping type="diplomatic">ō</mapping>
+      			<mapping type="normalized">o</mapping>
+      		</char>
+      		<char xml:id="pmacr">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER P WITH MACRON"/>
+      			<mapping subtype="composed" type="codepoint">E665</mapping>
+      			<mapping type="diplomatic"></mapping>
+      			<mapping type="normalized">p</mapping>
+      		</char>
+      		<char xml:id="emacr">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER E WITH MACRON"/>
+      			<mapping type="codepoint">U+0113</mapping>
+      			<mapping type="diplomatic">ē</mapping>
+      			<mapping type="normalized">e</mapping>
+      		</char>
+      		<char xml:id="pbardes">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER"/>
+      			<mapping type="codepoint">U+A751</mapping>
+      			<mapping type="diplomatic">ꝑ</mapping>
+      			<mapping type="normalized">p</mapping>
+      		</char>
+      		<char xml:id="umacr">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER U WITH MACRON"/>
+      			<mapping type="codepoint">U+016B</mapping>
+      			<mapping type="diplomatic">ū</mapping>
+      			<mapping type="normalized">u</mapping>
+      		</char>
+      		<char xml:id="imacr">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER I WITH MACRON"/>
+      			<mapping type="codepoint">U+012B</mapping>
+      			<mapping type="diplomatic">ī</mapping>
+      			<mapping type="normalized">i</mapping>
+      		</char>
+      		<char xml:id="otilde">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER O WITH TILDE"/>
+      			<mapping type="codepoint">U+00F5</mapping>
+      			<mapping type="diplomatic">õ</mapping>
+      			<mapping type="normalized">o</mapping>
+      		</char>
+      		<char xml:id="etilde">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER E WITH TILDE"/>
+      			<mapping type="codepoint">U+0065 + U+0303</mapping>
+      			<mapping type="diplomatic">ẽ</mapping>
+      			<mapping type="normalized">e</mapping>
+      		</char>
+      		<char xml:id="atilde">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER A WITH TILDE"/>
+      			<mapping type="codepoint">U+00E3</mapping>
+      			<mapping type="diplomatic">ã</mapping>
+      			<mapping type="normalized">a</mapping>
+      		</char>
+      		<char xml:id="hstrok">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER H WITH STROKE"/>
+      			<mapping subtype="composed" type="codepoint">U+0180</mapping>
+      			<mapping type="diplomatic">ħ</mapping>
+      			<mapping type="normalized">h</mapping>
+      		</char>
+      		<char xml:id="qmacr">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER Q WITH MACRON"/>
+      			<mapping subtype="composed" type="codepoint">E681</mapping>
+      			<mapping type="diplomatic"></mapping>
+      			<mapping type="normalized">q</mapping>
+      		</char>
+      		<char xml:id="gmacr">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER G WITH MACRON"/>
+      			<mapping subtype="composed" type="codepoint">U+1E21</mapping>
+      			<mapping type="diplomatic">ḡ</mapping>
+      			<mapping type="normalized">g</mapping>
+      		</char>
+      		<char xml:id="utilde">
+      			<unicodeProp name="Name" value="LATIN SMALL LETTER U WITH TILDE"/>
+      			<mapping type="codepoint">U+0065 + U+0303</mapping>
+      			<mapping type="diplomatic">ũ</mapping>
+      			<mapping type="normalized">u</mapping>
+      		</char>
+      		<char xml:id="Csuper">
+      			<unicodeProp name="Name" value="LATIN CAPITAL LETTER C SUPERSCRIPT"/>
+      			<mapping type="codepoint">U+A7F2</mapping>
+      			<mapping type="diplomatic">C</mapping>
+      			<mapping type="normalized">ꟲ</mapping>
+      		</char>
+      		<char xml:id="Msuper">
+      			<unicodeProp name="Name" value="LATIN CAPITAL LETTER M SUPERSCRIPT"/>
+      			<mapping type="codepoint">U+1D39</mapping>
+      			<mapping type="diplomatic">M</mapping>
+      			<mapping type="normalized">ᴹ</mapping>
+      		</char>
+      		<char xml:id="dagger">
+      			<unicodeProp name="Name" value="DAGGER"/>
+      			<mapping type="codepoint">U+2020</mapping>
+      			<mapping type="diplomatic">&#8224;</mapping>
+      			<mapping type="normalized">&#8224;</mapping>
+      		</char>
+      	</charDecl>
       </encodingDesc>
    </teiHeader>
    <!-- ##### FACSIMILE #####-->
