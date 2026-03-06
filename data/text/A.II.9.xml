@@ -9056,18 +9056,64 @@
                		<reg>molti<lb n="24" xml:id="A.II.9_lb_08v_24_reg" facs="#A.II.9_line_08v_24_reg"/></reg>
                	</choice> <term ref="#drap">drapy</term><reg>.</reg></seg>
                <seg n="5">
-                  <reg>[5] </reg>quando lomo sie deseso quelle do c<g ref="#otilde"/>
-                  <lb n="25" xml:id="A.II.9_lb_08v_25" facs="#A.II.9_line_08v_25"/>nate chio veo
-                  dito desora lomo sitruova una <lb n="26" xml:id="A.II.9_lb_08v_26"
-                     facs="#A.II.9_line_08v_26"/>gran pianura e achomencamento dequelo pi <lb n="27"
-                     xml:id="A.II.9_lb_08v_27" facs="#A.II.9_line_08v_27"/>ano sie una citade che
-                  anome <placeName ref="#camandi">chomandi</placeName> laqu <lb n="28"
-                     xml:id="A.II.9_lb_08v_28" facs="#A.II.9_line_08v_28"/>al fo in antigo tenpo
-                  nobele Egranda molto <lb n="29" xml:id="A.II.9_lb_08v_29"
-                     facs="#A.II.9_line_08v_29"/>mopar mo none chosi perche li <term ref="#tartars"
-                     >tartary</term> de lal <lb n="30" xml:id="A.II.9_lb_08v_30"
-                     facs="#A.II.9_line_08v_30"/>tro paise liano fato spese fiade grando mal
-                     <reg>.</reg></seg>
+                  <reg>[5] </reg><choice>
+                  	<orig>quando</orig>
+                  	<reg>Quando</reg>
+                  </choice> l<reg>'</reg>omo si<reg>&#173; </reg><choice>
+                  	<orig>e</orig>
+                  	<reg>è</reg>
+                  </choice> deseso quelle do 
+               	<choice>
+               		<orig><abbr>c<am><g ref="#otilde"/></am><lb n="25" xml:id="A.II.9_lb_08v_25_orig" facs="#A.II.9_line_08v_25_orig"/>nate</abbr></orig>
+               		<reg><expan>c<g ref="#otilde"/><ex>r</ex>nate</expan><lb n="25" xml:id="A.II.9_lb_08v_25_reg" facs="#A.II.9_line_08v_25_reg"/></reg>
+               	</choice> ch<reg>'</reg>io ve<reg>&#173; </reg><choice>
+               		<orig>o</orig>
+               		<reg>ò</reg>
+               	</choice>
+               	dito de<reg>&#173; </reg>sora<reg>,</reg> l<reg>'</reg>omo si<reg>&#173; </reg>truova una <lb n="26" xml:id="A.II.9_lb_08v_26"
+               		facs="#A.II.9_line_08v_26"/>gran pianura<reg>,</reg> e a<reg>&#173; </reg>chomencamento de<reg>&#173; </reg>quelo 
+               	<choice>
+               		<orig>pi<lb n="27" xml:id="A.II.9_lb_08v_27_orig" facs="#A.II.9_line_08v_27_orig"/>ano</orig>
+               		<reg>piano<lb n="27" xml:id="A.II.9_lb_08v_27_reg" facs="#A.II.9_line_08v_27_reg"/></reg>
+               	</choice> si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> una citade che
+               	<choice>
+               		<orig>a</orig>
+               		<reg>à</reg>
+               	</choice><reg>&#173; </reg>nome <placeName ref="#camandi"><choice>
+               			<orig>chomandi</orig>
+               			<reg>Chomandi</reg>
+               	</choice></placeName> la<reg>&#173; </reg><choice>
+               		<orig>qu<lb n="28" xml:id="A.II.9_lb_08v_28_orig" facs="#A.II.9_line_08v_28_orig"/>al</orig>
+               		<reg>qual<lb n="28" xml:id="A.II.9_lb_08v_28_reg" facs="#A.II.9_line_08v_28_reg"/></reg>
+               	</choice> fo in antigo tenpo
+               	nobele <choice>
+               		<orig>E</orig>
+               		<reg>e</reg>
+               	</choice><reg>&#173; </reg>granda molto<reg>,</reg> <lb n="29" xml:id="A.II.9_lb_08v_29"
+               		facs="#A.II.9_line_08v_29"/>mo<reg>&#173; </reg>par mo<reg>'</reg> non<reg>&#173; </reg><choice>
+               			<orig>e</orig>
+               			<reg>è</reg>
+               		</choice> <choice>
+               			<orig>chosi</orig>
+               			<reg>chosì</reg>
+               		</choice><reg>:</reg> <choice>
+               			<orig>perche</orig>
+               			<reg>perchè</reg>
+               		</choice> li <term ref="#tartars"
+                     ><choice>
+                     	<orig>tartary</orig>
+                     	<reg>Tartary</reg>
+                     </choice></term> 
+               	de<orig>&#173; </orig>l<reg>&#173; </reg><choice>
+               		<orig>al<lb n="30" xml:id="A.II.9_lb_08v_30_orig" facs="#A.II.9_line_08v_30_orig"/>tro</orig>
+               		<reg>altro<lb n="30" xml:id="A.II.9_lb_08v_30_reg" facs="#A.II.9_line_08v_30_reg"/></reg>
+               	</choice> paise li<reg>&#173; </reg><choice>
+               		<orig>ano</orig>
+               		<reg>àno</reg>
+               	</choice> fato spese fiade grando mal<reg>.</reg></seg>
                <seg n="6">
                   <reg>[6] </reg>qu <lb n="31" xml:id="A.II.9_lb_08v_31" facs="#A.II.9_line_08v_31"
                   />ello piano sie molto chaldo luogo <reg>.</reg></seg>
