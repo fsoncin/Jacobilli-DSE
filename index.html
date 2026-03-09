@@ -308,6 +308,78 @@
 	</section>
 	<evt-dialog data-id="errorMsg" data-type="error" data-title="ERROR"></evt-dialog>
 	<footer>Footer</footer>
-<script type="text/javascript" src="scripts/main.bundle.js"></script></body>
+<script type="text/javascript" src="scripts/main.bundle.js"></script>
+<!-- PORZIONE AGGIUNTA 9.3.26 PER CAMBIO LINGUA IT/EN msDesc-->
+<script>
+(function () {
+    function getAngularServices() {
+        try {
+            var injector = angular.element(document.body).injector();
+            if (!injector) return null;
+            return {
+                $translate: injector.get('$translate'),
+                $rootScope: injector.get('$rootScope')
+            };
+        } catch (e) {
+            return null;
+        }
+    }
+
+    function getCurrentLanguage() {
+        var services = getAngularServices();
+        if (!services || !services.$translate) return 'it';
+        return services.$translate.use() || services.$translate.preferredLanguage() || 'it';
+    }
+
+    function updateProjectInfoLanguage() {
+        var lang = getCurrentLanguage();
+
+        document.querySelectorAll('[data-xml-lang]').forEach(function (node) {
+            var nodeLang = (node.getAttribute('data-xml-lang') || '').toLowerCase();
+
+            if (!nodeLang) {
+                node.style.display = '';
+                return;
+            }
+
+            if (nodeLang === lang.toLowerCase()) {
+                node.style.display = '';
+            } else {
+                node.style.display = 'none';
+            }
+        });
+    }
+
+    function initLanguageSync() {
+        var services = getAngularServices();
+        if (!services) {
+            setTimeout(initLanguageSync, 300);
+            return;
+        }
+
+        updateProjectInfoLanguage();
+
+        services.$rootScope.$on('$translateChangeSuccess', function () {
+            setTimeout(updateProjectInfoLanguage, 0);
+        });
+
+        var observer = new MutationObserver(function () {
+            updateProjectInfoLanguage();
+        });
+
+        observer.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initLanguageSync);
+    } else {
+        initLanguageSync();
+    }
+})();
+</script>
+</body>
 
 </html>

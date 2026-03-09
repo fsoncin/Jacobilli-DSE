@@ -48,7 +48,8 @@
                   <msItem>
                      <locus>1r-110r</locus>
                   	<title>Devisement dou monde</title>
-                  	<note>Redazione VA</note>
+                  	<note xml:lang="it">Redazione VA</note>
+                  	<note xml:lang="en">VA redaction</note>
                   	<author>Marco Polo</author>
                   	<author>Rustichello da Pisa</author>
                   	<lb/><incipit><seg rend="bold">Inc. <locus target="#A.II.9_fol_01r">(f.1r)</locus></seg>: 
@@ -66,18 +67,27 @@
                <physDesc>
                   <objectDesc>
                      <supportDesc>
-                        <support>Carta.</support>
-                     	<extent><seg rend="bold">Composizione e dimensioni</seg>
+                        <support xml:lang="it"><p xml:lang="it">Carta</p>
+                        <p xml:lang="en">Paper</p></support>
+                     	<extent>
+                     		<lb/><seg xml:lang="it"><seg rend="bold">Composizione e dimensioni</seg>
                      		<lb/>Il manoscritto consta di 110 cc. (I, 110, I’),  
                      		con fascicolazione irregolare e alcune carte mancanti. 
                      		Misura mm <dimensions type="leaf" unit="millimeters">
                               <height>208 x</height>
                               <width>140</width>
-                           </dimensions> (misurazione effettuata sulla c. 78). 
+                           </dimensions> (misurazione effettuata sulla c. 78).</seg> 
+                     		<lb/><seg xml:lang="en"><seg rend="bold">Collation and Dimensions</seg>
+                     		<lb/>The manuscript comprises 110 folios (I, 110, I′), 
+                     			with irregular quiring and several missing leaves. 
+                     			It measures <dimensions>
+                     				<height>208 x</height> 
+                     				<width>140</width></dimensions> mm (measurement taken from fol. 78).
+                     		</seg>
                         </extent>
                      </supportDesc>
                      <layoutDesc>
-                     	<p>
+                     	<p xml:lang="it">
                      		<seg rend="bold">Datazione</seg>
                      		<lb/><seg>Fine del XIV-primo quarto del XV secolo. 
                      			La datazione può essere meglio precisata grazie all’analisi 
@@ -94,7 +104,23 @@
                      			genericamente nel XV secolo.
                      		</seg>
                      	</p>
-                     	<p>
+                     	<p xml:lang="en">
+                     		<seg rend="bold">Date</seg>
+                     		<lb/><seg>Late fourteenth to first quarter of the fifteenth century.
+                     			The dating can be refined on the basis of watermark analysis. 
+                     			Up to fol. 30, a compass motif with a double-contoured arc is 
+                     			visible; it does not correspond to any of the types recorded 
+                     			in Briquet (vol. 2: nos. 4460-4467). From fol. 39 onwards, a 
+                     			dragon or basilisk watermark appears, likewise without exact 
+                     			parallels in Briquet (vol. 1: nos. 2617-2714, Italian group 
+                     			nos. 2617.2698). The closest analogues for both motifs fall 
+                     			between the 1380s and the first quarter of the fifteenth 
+                     			century, allowing for a more precise dating than earlier 
+                     			descriptions, which generically assigned the codex to the 
+                     			fifteenth century.
+                     		</seg>
+                     	</p>
+                     	<p xml:lang="it">
                      		<seg rend="bold">Fascicolazione</seg>
                      		<lb/><seg>Il codice è acefalo ed è composto da 8 
                      			fascicoli irregolari: I⁸-¹ (cc. 1-7; 
@@ -113,16 +139,35 @@
                      			34r, 35r, 36r, 37r, 38r, 39r, 40r, 52r, 64v e 65r. 
                      			Sul verso di ogni carta è presente un richiamo al 
                      			centro del margine inferiore.</seg></p>
-                     	
-                     	<p>
+                     	<p xml:lang="en">
+                     		<seg rend="bold">Collation</seg>
+                     		<lb/><seg>The codex is acephalous and consists of eight irregular quires:
+                     			<lb/>•	I⁸-1 (fols. 1-7; one leaf missing after fol. 2)
+                     			<lb/>•	II¹⁶ (fols. 8-23)
+                     			<lb/>•	III¹⁴ (fols. 24-37)
+                     			<lb/>•	IV¹⁶-1? (fols. 38-52; one leaf missing after fol. 37, probably at the beginning of the quire, and another after fol. 52, at the boundary with quire V)
+                     			<lb/>•	V¹⁶ (fols. 53-68)
+                     			<lb/>•	VI¹⁶ (fols. 69-84)
+                     			<lb/>•	VII¹⁶-1 (fols. 85-99; one leaf missing after fol. 84)
+                     			<lb/>•	VIII¹²-1 (fols. 100-110; leaves missing after fols. 102 and 108)
+                     			<lb/>The missing leaves were already lost before the most recent foliation, which proceeds without interruption. Traces of an earlier foliation are visible on fols. 34r, 35r, 36r, 37r, 38r, 39r, 40r, 52r, 64v, and 65r. A catchword appears at the centre of the lower margin on the verso of each folio.
+                     		</seg></p>
+                     	<p xml:lang="it">
                      		<seg rend="bold">Cartulazione</seg>
                      		<lb/><seg>Presenta una cartulazione moderna; sono tuttavia 
                      			visibili tracce di una numerazione più antica alle 
                      			cc. 35r, 36r, 37r, 52r, 64v, 65r. Annotazioni sono
                      			presenti nell’angolo inferiore destro delle cc. 69r-76r,
-                     			100r, 102r-104r. </seg>
+                     			100r, 102r-104r.</seg>
                      	</p>
-                     	<p>
+                     	<p xml:lang="en">
+                     		<seg rend="bold">Foliation</seg>
+                     		<lb/><seg>Modern foliation; traces of an earlier numbering system 
+                     			are visible on fols. 35r, 36r, 37r, 52r, 64v, and 65r. Additional 
+                     			annotations appear in the lower right-hand corner of fols. 69r-76r, 
+                     			100r, and 102r-104r.</seg>
+                     	</p>
+                     	<p xml:lang="it">
                      		<seg rend="bold">Rigatura e specchio di scrittura</seg>
                      		<lb/><seg>Rigatura a mina di piombo, sia per le linee di 
                      			giustifcazione sia per le rettrici. Il numero 
@@ -130,21 +175,39 @@
                      			è disposto a piena pagina entro uno specchio di scrittura 
                      			variabile (alla c. 78r mm 172 × 107).</seg>
                      	</p>
-                     	<p>
+                     	<p xml:lang="en">
+                     		<seg rend="bold">Ruling and Layout</seg>
+                     		<lb/><seg>Ruling in leadpoint for both bounding lines and horizontal 
+                     			rulings. The number of lines per page ranges from 27 to 33. 
+                     			The text is written in a single column within a variable written 
+                     			area (fol. 78r: 172 × 107 mm).</seg>
+                     	</p>
+                     	<p xml:lang="it">
                      		<seg rend="bold">Disposizione del testo</seg>
                      		<lb/><seg>A piena pagina.</seg>
+                     	</p>
+                     	<p xml:lang="en">
+                     		<seg rend="bold">Textual layout</seg>
+                     		<lb/><seg>Single column.</seg>
                      	</p>
                      </layoutDesc>
                   </objectDesc>
                	<handDesc>
-               		<p><seg rend="bold">Scrittura e mani</seg>
+               		<p xml:lang="it"><seg rend="bold">Scrittura e mani</seg>
                			<lb/><seg>La copia è attribuibile a un’unica mano, che adopera una 
                			scrittura ibrida dal ductus semi-corsivo, di base 
                			cancelleresca con elementi di littera textualis. La scrittura 
                			è ben spaziata, dal tratteggio marcato, appena sollevata dal 
                			rigo e complessivamente regolare, pur con alcune variazioni 
                			nel modulo e nell’interlineo.</seg></p>
-               		<p><seg rend="bold">Richiami</seg>
+               		<p xml:lang="en"><seg rend="bold">Script and Hands</seg>
+               			<lb/><seg>The manuscript is written throughout by a single scribe 
+               				employing a hybrid script with a semi-cursive ductus, essentially 
+               				chancery-based but incorporating elements of <seg rend="italic">littera textualis</seg>. 
+               				The writing is well spaced, firmly executed, slightly raised above 
+               				the line, and generally regular, though with some variation in module 
+               				and interlinear spacing.</seg></p>
+               		<p xml:lang="it"><seg rend="bold">Richiami</seg>
                			<lb/><seg>Ogni carta presenta sul verso un richiamo, collocato al centro 
                			del margine inferiore, elemento che suggerisce che il codice 
                			non fosse originariamente destinato a una legatura definitiva. 
@@ -152,28 +215,48 @@
                			supporto cartaceo, la semplicità della decorazione e la scrittura 
                			priva di ambizioni grafiche suggeriscono che la copia non sia opera 
                			di un copista di professione.</seg></p>
+               		<p xml:lang="en"><seg rend="bold">Catchwords</seg>
+               			<lb/><seg>Each verso bears a catchword at the centre of the lower margin, 
+               				indicating that the manuscript was not intended for a permanent binding. 
+               				The modest production, plain paper, simple decoration, and unadorned script 
+               				suggest that it was not made by a professional scribe.</seg></p>
                	</handDesc>
                	<decoDesc>
-               		<p><seg rend="bold">Decorazione</seg>
+               		<p xml:lang="it"><seg rend="bold">Decorazione</seg>
                			<lb/><seg>La decorazione è limitata a iniziali maggiori calligrafiche 
                			semplici, eseguite in inchiostro rosso, accompagnate da lettere 
                			guida.</seg></p>
+               		<p xml:lang="en"><seg rend="bold">Decoration</seg>
+               			<lb/><seg>Decoration is limited to simple calligraphic initials in red 
+               				ink, accompanied by guide letters.</seg></p>
                	</decoDesc>
                	<bindingDesc>
-               		<p><seg rend="bold">Legatura</seg>
+               		<p xml:lang="it"><seg rend="bold">Legatura</seg>
                			<lb/><seg>La legatura, su quadranti in cartone scoperto, presenta un dorso 
                			a tre nervi ed è in pelle di capra allumata, con brachette di 
                			supporto pergamenacee (le informazioni sono disponibili, con le 
                			fotografie scattate durante il restauro, avvenuto nel settembre 
                			2024, nella pagina Facebook dell’Archivio di Stato di Perugia. <!-- Qui c'era il link ma qualcosa non va, https://www.facebook.com/story.php/?story_fbid=928823882614120&id=100064595499056&_rdr) -->
-               			Il manoscritto si trova in buono stato di conservazione. Sono visibili macchie di umidità, 
+               			<lb/>Il manoscritto si trova in buono stato di conservazione. Sono visibili macchie di umidità, 
                			alcune tracce di muffa e fori di tarli; le poche carte staccate dal dorso 
                			sono state sistemate durante l’intervento. La c. 3 è stata staccata durante 
                			il restauro ed è conservata separatamente.</seg></p>
+               		<p xml:lang="en"><seg rend="bold">Binding</seg>
+               			<lb/><seg>The binding, over exposed pasteboards, has a three-cord 
+               				spine and is covered in alum-tawed goatskin, with parchment 
+               				spine linings. Information and photographs taken during the 
+               				restoration (September 2024) are available on the Facebook page
+               				of the Archivio di Stato di Perugia.
+               				<lb/>The manuscript is in good condition overall. There are 
+               				visible damp stains, some traces of mould, and wormholes; 
+               				the few leaves detached from the spine were secured during 
+               				the restoration. Fol. 3 was removed during the restoration 
+               				and is now preserved separately.
+               			</seg></p>
                	</bindingDesc>
                </physDesc>
                <history>
-               	<p>Il codice appartenne all’erudito Ludovico Jacobilli (1598-1664), 
+               	<p xml:lang="it">Il codice appartenne all’erudito Ludovico Jacobilli (1598-1664), 
                		come attestano sia i segni materiali di possesso sia la documentazione 
                		inventariale. La segnatura antica «S.6.D», visibile sul dorso della 
                		coperta (accanto ad altre due scritte oggi illeggibili), risale probabilmente 
@@ -182,7 +265,15 @@
                		segnatura compare, a penna, sul piatto anteriore della custodia e sul 
                		dorso, sul quale è applicato un cartellino con l’indicazione: «BIBLIOTECA | SEMINARIALE | I. IACOBILLI | 
                		FOLIGNO | Sala A | Scaffale A | Palchetto II | Num. 9».</p>
-               	<p>Il manoscritto conserva inoltre brevi postille marginali e interlineari 
+               	<p xml:lang="en">The codex belonged to the scholar Ludovico Jacobilli (1598-1664), 
+               		as attested both by material evidence of ownership and by inventory 
+               		documentation. The old shelfmark “S.6.D”, visible on the spine (alongside two 
+               		now illegible inscriptions), probably dates from the manuscript’s entry into 
+               		the Biblioteca del Seminario di Foligno, which received numerous volumes from 
+               		the Jacobilli collection. The same shelfmark appears in ink on the front board 
+               		of the case and on the spine, where a label reads: “BIBLIOTECA | SEMINARIALE | 
+               		I. IACOBILLI | FOLIGNO | Sala A | Scaffale A | Palchetto II | Num. 9”.</p>
+               	<p xml:lang="it">Il manoscritto conserva inoltre brevi postille marginali e interlineari 
                			di mano di Jacobilli, concentrate soprattutto in corrispondenza di 
                			capitoli di contenuto religioso; tali annotazioni documentano una 
                			lettura effettiva del testo e si inseriscono coerentemente nel profilo 
@@ -193,7 +284,16 @@
                			collezione, dal <seg rend="italic">Livre</seg> di Mandeville a resoconti di pellegrinaggi. 
                			L’intervento più esteso sul codice è l’attribuzione di un titolo, 
                			vergato alla c. Ir e ripetuto, con lievi varianti, a c. 1r.</p>
-               	<p>Non è noto dove e quando Jacobilli si sia procurato questo esemplare
+               	<p xml:lang="en">The manuscript also preserves brief marginal and interlinear annotations 
+               		in Jacobilli’s hand, especially in chapters of religious content. These notes 
+               		attest to an active reading of the text and align coherently with the 
+               		intellectual profile of its owner. Within Jacobilli’s extensive library—rich 
+               		in hagiographical and theological works—travel literature also had a place, 
+               		as shown by other travel texts in the collection, from the Livre de Mandeville 
+               		to pilgrimage accounts. The most substantial intervention in the codex is the 
+               		addition of a title, written on fol. Ir and repeated, with slight variations, 
+               		on fol. 1r.</p>
+               	<p xml:lang="it">Non è noto dove e quando Jacobilli si sia procurato questo esemplare
                		del <seg rend="italic">Devisement dou monde</seg>; la sua presenza nella biblioteca è tuttavia 
                		documentata da più inventari, come comunicatoci dal bibliotecario, il dott. 
                		Ivan Petrini. Nell’inventario autografo A.VIII.21, redatto nel 1654 con 
@@ -206,13 +306,32 @@
                		lettera M; nella voce il copista ha tuttavia erroneamente scritto 
                		«America» invece di «Armenia», errore successivamente corretto a penna 
                		rossa da mons. Francesco Conti, direttore della biblioteca fino al 2003 
-               		e revisore degli inventari. Un’ulteriore attestazione indiretta proviene 
+               		e revisore degli inventari. </p>  
+               	<p xml:lang="en">It is not known where or when Jacobilli acquired this copy of the Devisement 
+               		dou monde. Its presence in his library is, however, documented in several 
+               		inventories, as communicated by the librarian, Mr Ivan Petrini. In the 
+               		autograph inventory A.VIII.21, drawn up in 1654 with additions up to 1657, 
+               		the manuscript appears in the “Index of Manuscript Books” (item 187). In a 
+               		second inventory, C.V.13 of 1662, it is listed among the “Books Written by 
+               		Hand Kept in the Red-Painted Chest” (item 145). The library also preserves a 
+               		further alphabetical catalogue, undated but certainly compiled after the 
+               		Jacobilli bequest, in which the Milione is listed under the letter M; however, 
+               		the copyist mistakenly wrote “America” instead of “Armenia”, an error later 
+               		corrected in red ink by Monsignor Francesco Conti, director of the library 
+               		until 2003 and reviser of the inventories.</p>
+               	<p xml:lang="it">Un’ulteriore attestazione indiretta proviene 
                		dal registro B.VIII.8, un piccolo libro contabile relativo ad acquisti e 
                		vendite di libri, nel quale è stato individuato un riferimento a contatti 
                		con Venezia. Le voci, posteriori alla morte di Jacobilli, testimoniano come 
                		il Seminario, al fine di incrementare e aggiornare il patrimonio librario, 
                		abbia probabilmente venduto o scambiato esemplari doppi provenienti dalla 
-               		donazione, in conformità con le disposizioni testamentarie dello stesso Jacobilli.</p>   
+               		donazione, in conformità con le disposizioni testamentarie dello stesso Jacobilli.</p>
+               	<p xml:lang="en">A further indirect attestation is found in register B.VIII.8, a small account 
+               		book recording purchases and sales of books, in which a reference to contacts with Venice has been 
+               		identified. These entries, dating from after Jacobilli’s death, suggest that the Seminary, 
+               		in order to expand and update its holdings, may have sold or exchanged 
+               		duplicate copies from the bequest, in accordance with Jacobilli’s testamentary 
+               		provisions.</p>
                </history>
             </msDesc>
             <!-- Elenco degli antroponimi -->
