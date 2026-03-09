@@ -15,7 +15,7 @@
     "visCollImageList": "",
     "visCollDataModel": "",
 
-    "defaultViewMode": "txtTxt",
+    "defaultViewMode": "imgTxt",
     "availableViewModes": [
         {
             "label": "READING_TEXT",
@@ -72,14 +72,14 @@
         },
         {
             "value": "diplomatic",
-            "label": "Diplomatic",
-            "title": "Diplomatic edition",
+            "label": "Diplomatica",
+            "title": "Edizione diplomatica",
             "visible": true
         },
         {
             "value": "interpretative",
-            "label": "Interpretative",
-            "title": "Interpretative edition",
+            "label": "Interpretativa",
+            "title": "Edizione interpretativa",
             "visible": true
         }
     ],
@@ -136,14 +136,11 @@
     "showInlineCriticalApparatus": false,
     "showInlineSources": false,
     "showInlineAnalogues": false,
-    "showReadingExponent": true,
+    "showReadingExponent": false,
 
     "toolHeatMap": true,
 
     "versions": [
-        "rec2",
-        "rec1",
-        "rec3"
     ],
 
     "listDef": "<listWit>, <listChange>",
@@ -200,7 +197,7 @@
         "showRotationControl": true,
         "showNavigator": true,
         "visibilityRatio": 1,
-        "defaultZoomLevel": 0.7,
+        "defaultZoomLevel": 1,
         "panHorizontal": true,
         "constrainDuringPan": true,
         "minZoomLevel": 0.7,
