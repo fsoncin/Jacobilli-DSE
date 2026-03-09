@@ -5832,6 +5832,7 @@
       </surface>
    </facsimile>
    <text n="Devisement dou Monde" type="prose" xml:id="DEDM">
+   	<!-- numeri per apici:  ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹  -->
       <front>
          <div type="title">
          	<head rend="italic">«Milione settentrionale». Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9 
@@ -5879,18 +5880,99 @@
       	</div>
       	<div type="p2">
       		<head>La redazione VA nella tradizione del <seg rend="italic">Devisement dou monde</seg></head>
-      		<p>Text</p>
+      		<p>La redazione VA occupa una posizione di rilievo nella storia del 
+      			<seg rend="italic">Devisement dou monde</seg>: pur essendo trasmessa da cinque soli testimoni 
+      			diretti (un sesto, VA⁴, è irreperibile dalla fine della seconda guerra 
+      			mondiale), essa è la versione più rappresentata nella tradizione grazie 
+      			alle numerose traduzioni in altre lingue, tra cui quattro diverse 
+      			latinizzazioni (siglate P, LB, LA, LT: cf. <ref target="#andreose-mascherpa2024">Andreose, Mascherpa 2024</ref>).</p>
+      		<p>
+      			I caratteri distintivi di VA all’interno della tradizione poliana, 
+      			delineati da Benedetto 
+      			(<ref target="#benedetto1928">1928</ref>, C-CXXXII) e successivamente approfonditi da 
+      			<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999</ref> (30-51), 
+      			<ref target="#andreose2021">Andreose (2021)</ref>, 
+      			<ref target="#simion2025">Simion (2025, 142-5)</ref>, 
+      			possono essere così sintetizzati. Malgrado la sua importanza culturale, 
+      			VA occupa un ruolo secondario nella ricostruzione dell’archetipo del 
+      			<seg rend="italic">Devisement dou monde</seg>. Tradotta da un esemplare franco-italiano perduto 
+      			(F³ secondo Benedetto 1928, CXIII), la redazione VA presenta nel complesso
+      			una forte fedeltà al modello, che non va tuttavia intesa come adesione 
+      			passiva. Il redattore interviene infatti attivamente sul testo attraverso 
+      			abbreviazioni, riscritture e occasionali amplificazioni. La riduzione della 
+      			materia si manifesta sia a livello macrostrutturale che microtestuale 
+      			(vedi «La redazione VA», nell’«Introduzione» al Ramusio 
+      			digitale: 
+      			<ref target="https://risorse-esterne.edizionicafoscari.it/main/intro_02.html">https://risorse-esterne.edizionicafoscari.it/main/intro_02.html</ref>; 
+      			e cf. 
+      			<ref target="#simion2025">Simion 2025, 142-5</ref>). Oltre a registrare un numero minore di capitoli 
+      			(155, contro i 233 della redazione franco-italiana di riferimento, F, su cui 
+      			cf. 
+      			<ref>Eusebi, Burgio 2018</ref>), VA opera talvolta sull’assetto informativo, 
+      			modificando l’ordine delle informazioni secondo una logica più o meno 
+      			riconoscibile (attuando, per esempio, accorpamenti su base tematica). 
+      			A livello microtestuale, lo sfrondamento è realizzato soprattutto tramite 
+      			la riduzione del sistema formulare (apostrofi ai lettori, interrogative 
+      			retoriche, transizioni tra schede geografiche, interventi veridittivi). 
+      			Parallelamente, il redattore elimina o riscrive contenuti potenzialmente 
+      			problematici o eterodossi, in particolare quelli relativi al corpo, alle 
+      			religioni o alle informazioni di tradizione trattatistico-enciclopedica che 
+      			Polo smentisce (per esempio nei casi della salamandra-amianto o 
+      			dell’unicorno-rinoceronte: cf. <ref target="#calloni2024">Calloni 2024-25, 68-70</ref>). Tali interventi 
+      			suggeriscono un’origine prossima a contesti clericali, forse ambienti 
+      			confraternali. 
+      		</p>
+      		<p>
+      			Infine, VA mostra una tendenza all’interpolazione, realizzata soprattutto 
+      			attraverso piccole aggiunte e glosse a funzione esegetica, volte a 
+      			parafrasare il modello, chiarire significati impliciti o precisare il 
+      			contesto. Questi innesti ricorrono con maggiore frequenza nei testimoni 
+      			VA³, VA⁵ e VA⁶, che costituiscono un sottogruppo derivante da un capostipite
+      			più attivo rispetto ai collaterali VA¹ e VA². 
+      		</p>
+      		<p>
+      			Sul piano linguistico, 
+      			<ref target="#andreose2002">Andreose (2002)</ref> ha messo in discussione l’idea 
+      			di una provenienza veneta di VA, sostenuta da 
+      			<ref target="#pelaez1906">Pelaez (1906)</ref> e da 
+      			<ref target="#benedetto1928">Benedetto (1928)</ref>, proponendo una definizione più cauta di 
+      			«Milione veneto-emiliano», «lombardico» o «settentrionale» e individuando
+      			nel testimone più antico del gruppo (VA¹) tratti linguistici emiliani. 
+      		</p>
       	</div>
       	<div type="p3">
       		<head>La famiglia VA</head>
-      		<p>(<ref target="#andreose2002">Andreose 2002</ref>)</p>
+      		<p>
+      			Pur essendo possibile riconoscere alcuni tratti distintivi della 
+      			redazione VA, la ricostruzione della sua fisionomia originaria resta 
+      			difficile, perché i testimoni diretti superstiti sono tardi o frammentari:
+      			<lb/>•	VA¹: il codice Roma, Biblioteca Casanatense 3999, pergamenaceo del 
+      			primo Trecento edito da 
+      			<ref target="#barbieri2001">Barbieri (2001)</ref>, è il testimone più autorevole 
+      			e antico e quello che, con i suoi tratti linguistici emiliani, forse bolognesi, 
+      			riflette meglio la lingua originaria della redazione 
+      			(<ref target="#andreose2002">Andreose 2002</ref>). 
+      			Il suo stato frammentario (conserva solo 30 capitoli a fronte dei 155 
+      			del testimone più completo, VA³) ne impedisce tuttavia l’adozione come testo
+      			base per un’edizione critica;
+      			<lb/>•	VA²: il codice Firenze, Riccardiana, 1924 è un cartaceo della 
+      			metà del XIV secolo. È acefalo, mutilo e lacunoso, e conserva in tutto 
+      			83 capitoli. <ref target="#benedetto1928">Benedetto (1928, CIV)</ref> 
+      			ne riscontrava il «disordine» strutturale, dovuto ad alcuni spostamenti 
+      			di capitoli nella parte centrale del testo; tuttavia il testimone è 
+      			significativo sia per la qualità media della sua lezione, sia perché da un 
+      			codice affine derivano la traduzione toscana TB e il gruppo 
+      			VL. <ref target="#andreose2002">Andreose (2002, 666-7)</ref> ne ha proposto 
+      			una localizzazione lombardo-orientale (area Bergamo-Brescia). 
+      			Nell’edizione è stato utilizzato il testo allestito da <ref target="#dinale1989">Dinale 1989-90</ref>.
+      		</p>
       	</div>
       	<div type="p4">
-      		<head>La posizione di VA6 all'interno della famiglia VA</head>
+      		<head>La posizione di VA⁶ all'interno della famiglia VA</head>
       		<p>Text</p>
       	</div>
       	<div type="p5">
-      		<head>Perché un'edizione digitale di VA6</head>
+      		<head>Perché un'edizione digitale di VA⁶</head>
       		<p>Text</p>
       	</div>
       	<div type="p6">
@@ -5900,6 +5982,24 @@
       	<div type="p7">
       		<head>Criteri di Edizione</head>
       		<p>Text</p>
+      		<p>
+      			Si offre di seguito una legenda delle tipologie di note espandibili:
+      			<lb/>(1) <note type="autoCorr">Questa nota indica gli <hi rend="bold">interventi 
+      				di autocorrezione del copista principale</hi></note> 
+      			la nota di colore giallo, contrassegnata dalla lettera C, 
+      			indica gli interventi di autocorrezione del copista principale;
+      			<lb/>(2) <note type="jacob">Questa nota indica gli interventi della 
+      				seconda mano e del proprietario del codice, Ludovico 
+      				Jacobilli</note> la nota di colore blu, contrassegnata dalla 
+      			lettera J, indica gli interventi della seconda mano e del proprietario 
+      			del codice, Ludovico Jacobilli;
+      			<lb/>(3) <note type="ric">Questa nota indica i richiami presenti sul 
+      				verso di ogni carta</note> la nota di colore rosa, contrassegnata 
+      			dalla lettera L, indica i richiami presenti sul verso di ogni carta;
+      			<lb/>(4) <note type="corrSim">Questa note indica le note di commento filologico dell’editore</note> 
+      			la nota di colore verde, contrassegnata dalla lettera E, 
+      			indica le note di commento filologico dell’editore.
+      		</p>
       	</div>
       	<div type="p8">
       		<head>Istituzioni e Team di Progetto</head>

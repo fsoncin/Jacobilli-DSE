@@ -243,3 +243,11 @@ PRIMA:
 .diplomatic [data-containertag="orig"] {
     display: inline !important;
 }
+
+.popover {
+    font-family: "Garamond", serif;
+    font-size: 18px;
+    line-height: 1;
+    max-width: 500px;
+    border-radius: 50px;
+}
