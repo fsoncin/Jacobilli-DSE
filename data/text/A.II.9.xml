@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Edizione Digitale del Devisement dou Monde (A.II.9, Foligno)</title>
+         	<title>«Milione settentrionale». Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9</title>
             <respStmt>
                <resp>Edizione digitale a cura di</resp>
                <name xml:id="samuela">Samuela Simion</name>
@@ -131,7 +131,7 @@
                      			<lb/>•	V¹⁶ (cc. 53-68), VI¹⁶ (cc. 69-84)
                      			<lb/>•	VII¹⁶-¹ (cc. 85-99; perdita di una carta dopo la c. 84), 
                      			<lb/>•	VIII¹²-¹ (cc. 100-110; mancano carte dopo le cc. 102 e 108). 
-                     			<lb/>•	La perdita delle carte mancanti è avvenuta prima della 
+                     			<lb/>La perdita delle carte mancanti è avvenuta prima della 
                      			cartulazione più recente, che procede senza salti; si rilevano inoltre 
                      			tracce di una cartulazione più antica alle cc. 34r, 35r, 36r, 37r, 
                      			38r, 39r, 40r, 52r, 64v e 65r. Sul verso di ogni carta è presente un 
@@ -334,6 +334,174 @@
                		provisions.</p>
                </history>
             </msDesc>
+         	<listBibl>
+         		<bibl xml:id="andreose2002">
+         			<author>
+         				<surname>Andreose</surname>,
+         				<forename>A.</forename>
+         			</author>
+         			(<date>2002</date>).
+         			«<title>La prima attestazione della versione VA del ‘Milione’ (ms. 3999 della Biblioteca Casanatense di Roma). Studio linguistico</title>».
+         			<title rend="italic">Critica del testo</title>,
+         			<biblScope unit="volume">5</biblScope>,
+         			<biblScope unit="page">655-68</biblScope>.
+         		</bibl>
+         		<bibl xml:id="andreose2021">
+         				<author><surname>Andreose</surname>, <forename>A.</forename></author>
+         				(<date>2021</date>).
+         				«<title>Il ‘cantiere poliano’ di Lorenzo Renzi (con particolare attenzione agli studi sulla famiglia VA del «Devisement dou monde»)</title>».
+         				In: <editor><surname>Oniga</surname>, <forename>R.</forename></editor> (a cura di),
+         				<title rend="italic">La biblioteca di Lorenzo Renzi: nel laboratorio di un umanista</title>.
+         				<pubPlace>Udine</pubPlace>: <publisher>Forum Editrice Universitaria</publisher>,
+         				<biblScope unit="page">00-00</biblScope>.
+         		</bibl>
+         		<bibl xml:id="andreose-mascherpa2024">
+         				<author><surname>Andreose</surname>, <forename>A.</forename></author>;
+         				<author><surname>Mascherpa</surname>, <forename>G.</forename></author>
+         				(<date>2024</date>).
+         				«<title>Il “Devisement dou monde” come problema filologico</title>».
+         				In: <title rend="italic">Simion, Burgio 2024</title>,
+         				<biblScope unit="page">131-63</biblScope>.
+         		</bibl>
+         		<bibl xml:id="barbieri2001">
+         				<author><surname>Barbieri</surname>, <forename>A.</forename></author>
+         				(<date>2001</date>).
+         				«<title>La prima attestazione della versione VA del “Milione” (ms. 3999 della Biblioteca Casanatense di Roma). Edizione del testo</title>».
+         				<title rend="italic">Critica del testo</title>,
+         				<biblScope unit="volume">4</biblScope>,
+         				<biblScope unit="page">493-526</biblScope>.
+         		</bibl>
+         		<bibl xml:id="barbieri-andreose1999">
+         				<editor><surname>Barbieri</surname>, <forename>A.</forename></editor>;
+         				<editor><surname>Andreose</surname>, <forename>A.</forename></editor>
+         				(a cura di) (<date>1999</date>).
+         				<title rend="italic">Marco Polo: Il “Milione” veneto. Ms. CM 211 della Biblioteca Civica di Padova</title>.
+         				Premessa di L. Renzi.
+         				<pubPlace>Venezia</pubPlace>: <publisher>Marsilio</publisher>.
+         		</bibl>
+         		<bibl xml:id="benedetto1928">
+         				<editor><surname>Benedetto</surname>, <forename>L.F.</forename></editor>
+         				(a cura di) (<date>1928</date>).
+         				<title rend="italic">Marco Polo: Il Milione. Prima edizione integrale</title>.
+         				<pubPlace>Firenze</pubPlace>: <publisher>L.S. Olschki</publisher>.
+         		</bibl>
+         		<bibl xml:id="bernardi1993">
+         				<author><surname>Bernardi</surname>, <forename>K.</forename></author>
+         				(<date>1993-94</date>).
+         				<title rend="italic">Il “Milione” veneto del ms. 557 della Biblioteca Civica di Berna</title>
+         				[tesi di laurea].
+         				<pubPlace>Padova</pubPlace>: <publisher>Università degli Studi</publisher>.
+         			</bibl>
+         		<bibl xml:id="bertolucci1983">
+         				<author><surname>Bertolucci Pizzorusso</surname>, <forename>V.</forename></author>
+         				(<date>1983</date>).
+         				«<title>Recuperi (e smarrimenti) di manoscritti veneti del “Milione”</title>».
+         				In: <title rend="italic">Scritti in onore di Giovan Battista Pellegrini</title>,
+         				<biblScope unit="volume">1</biblScope>.
+         				<pubPlace>Pisa</pubPlace>: <publisher>Pacini Editore</publisher>,
+         				<biblScope unit="page">357-70</biblScope>.
+         		</bibl>
+         		<bibl xml:id="buzzoni2024">
+         				<author><surname>Buzzoni</surname>, <forename>M.</forename></author>
+         				(<date>2024</date>).
+         				«<title>Il <seg rend="italic">Devisement dou monde</seg> in forma digitale</title>».
+         				In: <title rend="italic">Simion, Burgio 2024</title>,
+         				<biblScope unit="page">165-79</biblScope>.
+         		</bibl>
+         		<bibl xml:id="calloni2024">
+         				<author><surname>Calloni</surname>, <forename>C.G.</forename></author>
+         				(<date>2024-25</date>).
+         				<title rend="italic">Per un’edizione critica della traduzione latina del “Devisement dou monde” di Francesco Pipino. Rapporto con la fonte, recensio della tradizione manoscritta e parziale saggio d’edizione</title>
+         				[tesi di dottorato].
+         				<pubPlace>Venezia</pubPlace>: <publisher>Università Ca’ Foscari Venezia</publisher>.
+         			</bibl>
+         		<bibl xml:id="dinale1989">
+         				<author><surname>Dinale</surname>, <forename>M.T.</forename></author>
+         				(<date>1989-90</date>).
+         				<title rend="italic">Il “Milione” veneto del ms. 1924 della Biblioteca Riccardiana di Firenze</title>
+         				[tesi di laurea].
+         				<pubPlace>Padova</pubPlace>: <publisher>Università degli Studi</publisher>.
+         			</bibl>
+         		<bibl xml:id="dutschke1993">
+         				<author><surname>Dutschke</surname>, <forename>C.W.</forename></author>
+         				(<date>1993</date>).
+         				<title rend="italic">Francesco Pipino and the Manuscripts of Marco Polo’s “Travels”</title>
+         				[PhD diss.].
+         				<publisher>University of Los Angeles</publisher>, UMI.
+         			</bibl>
+         		<bibl xml:id="folena1990">
+         				<author><surname>Folena</surname>, <forename>G.</forename></author>
+         				(<date>1990</date>).
+         				«<title>La cultura volgare e l’“umanesimo cavalleresco” nel Veneto</title>».
+         				In: <editor><surname>Folena</surname>, <forename>G.</forename></editor> (a cura di),
+         				<title rend="italic">Culture e lingue nel Veneto medievale</title>.
+         				<pubPlace>Padova</pubPlace>: <publisher>Editoriale Programma</publisher>,
+         				<biblScope unit="page">377-94</biblScope>.
+         			</bibl>
+         		<bibl xml:id="mazzatinti1930">
+         				<editor><surname>Mazzatinti</surname>, <forename>G.</forename></editor>
+         				(a cura di) (<date>1930</date>).
+         				<title rend="italic">Inventario dei manoscritti delle biblioteche d’Italia</title>.
+         				<pubPlace>Firenze</pubPlace>: <publisher>Olschki</publisher>,
+         				<biblScope unit="volume">41</biblScope>.
+         			</bibl>
+         		<bibl xml:id="pelaez1906">
+         				<author><surname>Pelaez</surname>, <forename>M.</forename></author>
+         				(<date>1906</date>).
+         				«<title>Un nuovo testo veneto del “Milione” di Marco Polo</title>».
+         				<title rend="italic">Studj romanzi</title>,
+         				<biblScope unit="volume">4</biblScope>,
+         				<biblScope unit="page">5-65</biblScope>.
+         			</bibl>
+         		<bibl xml:id="renzi1987">
+         				<author><surname>Renzi</surname>, <forename>L.</forename></author>
+         				(<date>1987-90</date>).
+         				«<title>Le versioni venete del “Milione” di Marco Polo</title>».
+         				<title rend="italic">Odeo Olimpico</title>,
+         				<biblScope unit="volume">20</biblScope>,
+         				<biblScope unit="page">55-65</biblScope>.
+         			</bibl>
+         		<bibl xml:id="sarto2024">
+         				<author><surname>Sarto</surname>, <forename>E.</forename></author>
+         				(<date>2024-25</date>).
+         				<title rend="italic">Il «Milione» veneto (VA): edizione interpretativa del codice Bern, Burgerbibliothek, 557 (sec. XV)</title>
+         				[tesi di laurea].
+         				<pubPlace>Verona</pubPlace>: <publisher>Università degli Studi</publisher>.
+         			</bibl>
+         		<bibl xml:id="simion2019">
+         				<editor><surname>Simion</surname>, <forename>S.</forename></editor>
+         				(a cura di) (<date>2019</date>).
+         				<title rend="italic">Marco Polo: Il “Devisement dou monde” nella redazione veneziana V (cod. Hamilton 424 della Staatsbibliothek di Berlino)</title>.
+         				<pubPlace>Venezia</pubPlace>: <publisher>Edizioni Ca’ Foscari</publisher>.
+         			</bibl>
+         		<bibl xml:id="simion2020">
+         				<author><surname>Simion</surname>, <forename>S.</forename></author>
+         				(<date>2020</date>).
+         				«<title>«Gerarchie del riferibile» nella redazione P del “Devisement dou monde”</title>».
+         				In: <editor><surname>Conte</surname>, <forename>M.</forename></editor>;
+         				<editor><surname>Montefusco</surname>, <forename>A.</forename></editor>;
+         				<editor><surname>Simion</surname>, <forename>S.</forename></editor> (a cura di),
+         				<title rend="italic">«Ad consolationem legentium». Il Marco Polo dei Domenicani</title>.
+         				<pubPlace>Venezia</pubPlace>: <publisher>Edizioni Ca’ Foscari</publisher>,
+         			<biblScope unit="page">117-42</biblScope>. <ref target="http://doi.org/10.30687/978-88-6969-439-4">http://doi.org/10.30687/978-88-6969-439-4</ref>
+         			</bibl>
+         		<bibl xml:id="simion2025">
+         				<author><surname>Simion</surname>, <forename>S.</forename></author>
+         				(<date>2025</date>).
+         				«<title>Un testimone ritrovato del Devisement dou monde (VA): il codice Foligno, Biblioteca “Lodovico Jacobilli”, A.II.9</title>».
+         				<title rend="italic">Medioevo Romanzo</title>,
+         				<biblScope unit="volume">49</biblScope>(1),
+         				<biblScope unit="page">139-64</biblScope>.
+         			</bibl>
+         		<bibl xml:id="simion-burgio2024">
+         				<editor><surname>Simion</surname>, <forename>S.</forename></editor>;
+         				<editor><surname>Burgio</surname>, <forename>E.</forename></editor>
+         				(a cura di) (<date>2024</date>).
+         				<title rend="italic">Marco Polo. Storia e mito di un viaggio e di un libro</title>.
+         				<pubPlace>Roma</pubPlace>: <publisher>Carocci</publisher>.
+         			</bibl>
+         			
+         	</listBibl>
             <!-- Elenco degli antroponimi -->
             <listPerson>
                <person xml:id="abaga">
@@ -4638,8 +4806,10 @@
             </list>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-      	<charDecl>
+      
+   	<encodingDesc>
+      	
+   		<charDecl>
       		<char xml:id="amacr">
       			<unicodeProp name="Name" value="LATIN SMALL LETTER A WITH MACRON"/>
       			<mapping type="codepoint">U+0101</mapping>
@@ -5663,7 +5833,252 @@
    </facsimile>
    <text n="Devisement dou Monde" type="prose" xml:id="DEDM">
       <front>
-         <p>Info ms.</p>
+         <div type="title">
+         	<head rend="italic">«Milione settentrionale». Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9 
+         		<seg rend="normal">(a cura di Samuela Simion. Cura editoriale digitale di Marina Buzzoni, Giulia Fabbris, Fabio Soncin
+         			Venezia: ECF – Edizioni Ca’ Foscari / Venice University Press, 2026)</seg></head>
+         </div>
+      	<div type="p1">
+      		<head>Il progetto</head>
+      		<p>
+      			L’edizione digitale offre per la prima volta il testo del manoscritto 
+      			A.II.9 della Biblioteca «Lodovico Jacobilli» di Foligno, relatore di
+      			una recensione fino ad ora mai studiata del <seg rend="italic">Devisement dou monde</seg>. 
+      			Si tratta di una delle copie (VA6) che conservano la versione in
+      			volgare settentrionale italiano che fu il principale vettore di
+      			diffusione dell’opera in Europa tra Medioevo ed età moderna. 
+      		</p>
+      		<p>
+      			L’edizione mette a disposizione una riproduzione ad alta definizione 
+      			dell’intero manoscritto, affiancata dalla trascrizione diplomatica 
+      			del testo e dalla sua edizione interpretativa, accompagnate da un essenziale 
+      			commento filologico.
+      		</p>
+      		<p>
+      			La storia del manoscritto è piuttosto singolare: sebbene la sua esistenza 
+      			fosse nota dal 1930 (nell’<seg rend="italic"><ref target="#mazzatinti1930">Inventario dei manoscritti delle biblioteche 
+      			d’Italia</ref></seg> di Mazzatinti) ed esistesse dal 2018 una descrizione dell’oggetto-libro 
+      			(in <seg rend="italic">Manus Online</seg>: <ref target="https://manus.iccu.sbn.it/en/">https://manus.iccu.sbn.it/en/</ref>), 
+      			il ms. Jacobilli è tornato 
+      			al centro dell’interesse filologico solo nel 2024, grazie alla segnalazione 
+      			di Fabio Soncin, che ne ha permesso il restauro grazie alla collaborazione 
+      			tra l’Archivio di Stato di Perugia, della Soprintendenza Archivistica e 
+      			Bibliografica dell’Umbria e del Nucleo Carabinieri T.P.C. di Perugia, e la 
+      			sua inclusione tra i manufatti esposti nella Mostra <seg rend="italic">Marco Polo 1324-2024. 
+      			La via dell’Oriente e ... dell’America</seg> (Roma, Accademia dei Lincei-Palazzo 
+      			Corsini, 24/10/2024 – 26/01/2025). La segnalazione del codice è stata pure 
+      			l’occasione del progetto editoriale, finanziato dal Progetto PNRR CHANGES, 
+      			all’interno dello Spoke 9 – CREST (<seg rend="italic">Cultural Resources for Sustainable Tourism</seg>) 
+      			dell’Università Ca’ Foscari Venezia (P.I. Monica Calcagno e Diego Calaon), e 
+      			sviluppato grazie alla collaborazione con Ca’ Foscari della Fondazione CHANGES, 
+      			della Biblioteca «Lodovico Jacobilli», della Soprintendenza Archivistica e 
+      			Bibliografica dell’Umbria e del portale <seg rend="italic">Manus Online</seg>. Il progetto è compreso 
+      			tra le iniziative riconosciute dal «Comitato Nazionale per le celebrazioni del 
+      			settimo centenario della morte di Marco Polo».
+      		</p>
+      	</div>
+      	<div type="p2">
+      		<head>La redazione VA nella tradizione del <seg rend="italic">Devisement dou monde</seg></head>
+      		<p>Text</p>
+      	</div>
+      	<div type="p3">
+      		<head>La famiglia VA</head>
+      		<p>(<ref target="#andreose2002">Andreose 2002</ref>)</p>
+      	</div>
+      	<div type="p4">
+      		<head>La posizione di VA6 all'interno della famiglia VA</head>
+      		<p>Text</p>
+      	</div>
+      	<div type="p5">
+      		<head>Perché un'edizione digitale di VA6</head>
+      		<p>Text</p>
+      	</div>
+      	<div type="p6">
+      		<head>La famiglia VA</head>
+      		<p>Text</p>
+      	</div>
+      	<div type="p7">
+      		<head>Criteri di Edizione</head>
+      		<p>Text</p>
+      	</div>
+      	<div type="p8">
+      		<head>Istituzioni e Team di Progetto</head>
+      		<p>Text</p>
+      	</div>
+      	<div type="p9">
+      		<head>Ringraziamenti</head>
+      		<p>Text</p>
+      	</div>
+      	<div type="p10">
+      		<head>Riferimenti bibliografici</head>
+      		
+      			<p><bibl ref="#andreose2002">
+      				<author>
+      					<surname>Andreose</surname>,
+      					<forename>A.</forename>
+      				</author>
+      				(<date>2002</date>).
+      				«<title>La prima attestazione della versione VA del ‘Milione’ (ms. 3999 della Biblioteca Casanatense di Roma). Studio linguistico</title>».
+      				<title rend="italic">Critica del testo</title>,
+      				<biblScope unit="volume">5</biblScope>,
+      				<biblScope unit="page">655-68</biblScope>.
+      			</bibl>
+      				</p>
+      			<p><bibl ref="#andreose2021">
+      				<author><surname>Andreose</surname>, <forename>A.</forename></author>
+      				(<date>2021</date>).
+      				«<title>Il ‘cantiere poliano’ di Lorenzo Renzi (con particolare attenzione agli studi sulla famiglia VA del «Devisement dou monde»)</title>».
+      				In: <editor><surname>Oniga</surname>, <forename>R.</forename></editor> (a cura di),
+      				<title rend="italic">La biblioteca di Lorenzo Renzi: nel laboratorio di un umanista</title>.
+      				<pubPlace>Udine</pubPlace>: <publisher>Forum Editrice Universitaria</publisher>,
+      				<biblScope unit="page">00-00</biblScope>.
+      			</bibl></p>
+      			<p><bibl ref="#andreose-mascherpa2024">
+      				<author><surname>Andreose</surname>, <forename>A.</forename></author>;
+      				<author><surname>Mascherpa</surname>, <forename>G.</forename></author>
+      				(<date>2024</date>).
+      				«<title>Il “Devisement dou monde” come problema filologico</title>».
+      				In: <title rend="italic">Simion, Burgio 2024</title>,
+      				<biblScope unit="page">131-63</biblScope>.
+      			</bibl></p>
+      			<p><bibl ref="#barbieri2001">
+      				<author><surname>Barbieri</surname>, <forename>A.</forename></author>
+      				(<date>2001</date>).
+      				«<title>La prima attestazione della versione VA del “Milione” (ms. 3999 della Biblioteca Casanatense di Roma). Edizione del testo</title>».
+      				<title rend="italic">Critica del testo</title>,
+      				<biblScope unit="volume">4</biblScope>,
+      				<biblScope unit="page">493-526</biblScope>.
+      			</bibl></p>
+      			<p><bibl ref="#barbieri-andreose1999">
+      				<editor><surname>Barbieri</surname>, <forename>A.</forename></editor>;
+      				<editor><surname>Andreose</surname>, <forename>A.</forename></editor>
+      				(a cura di) (<date>1999</date>).
+      				<title rend="italic">Marco Polo: Il “Milione” veneto. Ms. CM 211 della Biblioteca Civica di Padova</title>.
+      				Premessa di L. Renzi.
+      				<pubPlace>Venezia</pubPlace>: <publisher>Marsilio</publisher>.
+      			</bibl></p>
+      			<p><bibl ref="#benedetto1928">
+      				<editor><surname>Benedetto</surname>, <forename>L.F.</forename></editor>
+      				(a cura di) (<date>1928</date>).
+      				<title rend="italic">Marco Polo: Il Milione. Prima edizione integrale</title>.
+      				<pubPlace>Firenze</pubPlace>: <publisher>L.S. Olschki</publisher>.
+      			</bibl></p>
+      			<p><bibl ref="#bernardi1993">
+      				<author><surname>Bernardi</surname>, <forename>K.</forename></author>
+      				(<date>1993-94</date>).
+      				<title rend="italic">Il “Milione” veneto del ms. 557 della Biblioteca Civica di Berna</title>
+      				[tesi di laurea].
+      				<pubPlace>Padova</pubPlace>: <publisher>Università degli Studi</publisher>.
+      			</bibl></p>
+      			<p><bibl ref="#bertolucci1983">
+      				<author><surname>Bertolucci Pizzorusso</surname>, <forename>V.</forename></author>
+      				(<date>1983</date>).
+      				«<title>Recuperi (e smarrimenti) di manoscritti veneti del “Milione”</title>».
+      				In: <title rend="italic">Scritti in onore di Giovan Battista Pellegrini</title>,
+      				<biblScope unit="volume">1</biblScope>.
+      				<pubPlace>Pisa</pubPlace>: <publisher>Pacini Editore</publisher>,
+      				<biblScope unit="page">357-70</biblScope>.
+      			</bibl></p>
+      			<p><bibl ref="#buzzoni2024">
+      				<author><surname>Buzzoni</surname>, <forename>M.</forename></author>
+      				(<date>2024</date>).
+      				«<title>Il <seg rend="italic">Devisement dou monde</seg> in forma digitale</title>».
+      				In: <title rend="italic">Simion, Burgio 2024</title>,
+      				<biblScope unit="page">165-79</biblScope>.
+      			</bibl></p>
+      			<p><bibl ref="#calloni2024">
+      				<author><surname>Calloni</surname>, <forename>C.G.</forename></author>
+      				(<date>2024-25</date>).
+      				<title rend="italic">Per un’edizione critica della traduzione latina del “Devisement dou monde” di Francesco Pipino. Rapporto con la fonte, recensio della tradizione manoscritta e parziale saggio d’edizione</title>
+      				[tesi di dottorato].
+      				<pubPlace>Venezia</pubPlace>: <publisher>Università Ca’ Foscari Venezia</publisher>.
+      			</bibl></p>
+      			<p><bibl ref="#dinale1989">
+      				<author><surname>Dinale</surname>, <forename>M.T.</forename></author>
+      				(<date>1989-90</date>).
+      				<title rend="italic">Il “Milione” veneto del ms. 1924 della Biblioteca Riccardiana di Firenze</title>
+      				[tesi di laurea].
+      				<pubPlace>Padova</pubPlace>: <publisher>Università degli Studi</publisher>.
+      			</bibl></p>
+      			<p><bibl ref="#dutschke1993">
+      				<author><surname>Dutschke</surname>, <forename>C.W.</forename></author>
+      				(<date>1993</date>).
+      				<title rend="italic">Francesco Pipino and the Manuscripts of Marco Polo’s “Travels”</title>
+      				[PhD diss.].
+      				<publisher>University of Los Angeles</publisher>, UMI.
+      			</bibl></p>
+      			<p><bibl ref="#folena1990">
+      				<author><surname>Folena</surname>, <forename>G.</forename></author>
+      				(<date>1990</date>).
+      				«<title>La cultura volgare e l’“umanesimo cavalleresco” nel Veneto</title>».
+      				In: <editor><surname>Folena</surname>, <forename>G.</forename></editor> (a cura di),
+      				<title rend="italic">Culture e lingue nel Veneto medievale</title>.
+      				<pubPlace>Padova</pubPlace>: <publisher>Editoriale Programma</publisher>,
+      				<biblScope unit="page">377-94</biblScope>.
+      			</bibl></p>
+      			<p><bibl ref="#mazzatinti1930">
+      				<editor><surname>Mazzatinti</surname>, <forename>G.</forename></editor>
+      				(a cura di) (<date>1930</date>).
+      				<title rend="italic">Inventario dei manoscritti delle biblioteche d’Italia</title>.
+      				<pubPlace>Firenze</pubPlace>: <publisher>Olschki</publisher>,
+      				<biblScope unit="volume">41</biblScope>.
+      			</bibl></p>
+      			<p><bibl ref="#pelaez1906">
+      				<author><surname>Pelaez</surname>, <forename>M.</forename></author>
+      				(<date>1906</date>).
+      				«<title>Un nuovo testo veneto del “Milione” di Marco Polo</title>».
+      				<title rend="italic">Studj romanzi</title>,
+      				<biblScope unit="volume">4</biblScope>,
+      				<biblScope unit="page">5-65</biblScope>.
+      			</bibl></p>
+      			<p><bibl ref="#renzi1987">
+      				<author><surname>Renzi</surname>, <forename>L.</forename></author>
+      				(<date>1987-90</date>).
+      				«<title>Le versioni venete del “Milione” di Marco Polo</title>».
+      				<title rend="italic">Odeo Olimpico</title>,
+      				<biblScope unit="volume">20</biblScope>,
+      				<biblScope unit="page">55-65</biblScope>.
+      			</bibl></p>
+      			<p><bibl ref="#sarto2024">
+      				<author><surname>Sarto</surname>, <forename>E.</forename></author>
+      				(<date>2024-25</date>).
+      				<title rend="italic">Il «Milione» veneto (VA): edizione interpretativa del codice Bern, Burgerbibliothek, 557 (sec. XV)</title>
+      				[tesi di laurea].
+      				<pubPlace>Verona</pubPlace>: <publisher>Università degli Studi</publisher>.
+      			</bibl></p>
+      			<p><bibl ref="#simion2019">
+      				<editor><surname>Simion</surname>, <forename>S.</forename></editor>
+      				(a cura di) (<date>2019</date>).
+      				<title rend="italic">Marco Polo: Il “Devisement dou monde” nella redazione veneziana V (cod. Hamilton 424 della Staatsbibliothek di Berlino)</title>.
+      				<pubPlace>Venezia</pubPlace>: <publisher>Edizioni Ca’ Foscari</publisher>.
+      			</bibl></p>
+      			<p><bibl ref="#simion2020">
+      				<author><surname>Simion</surname>, <forename>S.</forename></author>
+      				(<date>2020</date>).
+      				«<title>«Gerarchie del riferibile» nella redazione P del “Devisement dou monde”</title>».
+      				In: <editor><surname>Conte</surname>, <forename>M.</forename></editor>;
+      				<editor><surname>Montefusco</surname>, <forename>A.</forename></editor>;
+      				<editor><surname>Simion</surname>, <forename>S.</forename></editor> (a cura di),
+      				<title rend="italic">«Ad consolationem legentium». Il Marco Polo dei Domenicani</title>.
+      				<pubPlace>Venezia</pubPlace>: <publisher>Edizioni Ca’ Foscari</publisher>,
+      				<biblScope unit="page">117-42</biblScope>. <ref target="http://doi.org/10.30687/978-88-6969-439-4">http://doi.org/10.30687/978-88-6969-439-4</ref>
+      			</bibl></p>
+      			<p><bibl ref="#simion2025">
+      				<author><surname>Simion</surname>, <forename>S.</forename></author>
+      				(<date>2025</date>).
+      				«<title>Un testimone ritrovato del Devisement dou monde (VA): il codice Foligno, Biblioteca “Lodovico Jacobilli”, A.II.9</title>».
+      				<title rend="italic">Medioevo Romanzo</title>,
+      				<biblScope unit="volume">49</biblScope>(1),
+      				<biblScope unit="page">139-64</biblScope>.
+      			</bibl></p>
+      			<p><bibl ref="#simion-burgio2024">
+      				<editor><surname>Simion</surname>, <forename>S.</forename></editor>;
+      				<editor><surname>Burgio</surname>, <forename>E.</forename></editor>
+      				(a cura di) (<date>2024</date>).
+      				<title rend="italic">Marco Polo. Storia e mito di un viaggio e di un libro</title>.
+      				<pubPlace>Roma</pubPlace>: <publisher>Carocci</publisher>.
+      			</bibl></p>
+      	</div>
       </front>
       <!-- 
         <pb/> presenta @n (numero folio) e @xml:id (corrispondenza testo-immagine)
