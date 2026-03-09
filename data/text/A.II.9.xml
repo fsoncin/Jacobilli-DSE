@@ -123,22 +123,19 @@
                      	<p xml:lang="it">
                      		<seg rend="bold">Fascicolazione</seg>
                      		<lb/><seg>Il codice è acefalo ed è composto da 8 
-                     			fascicoli irregolari: I⁸-¹ (cc. 1-7; 
-                     			manca una carta dopo la c. 2), II¹⁶ 
-                     			(cc. 8-23), III¹⁴ (cc. 24-37), IV¹⁶-¹? 
-                     			(cc. 38-52; mancano una carta dopo la c. 37, 
-                     			probabilmente all’inizio del fascicolo, e una 
-                     			dopo la c. 52, al confine con il fascicolo V), 
-                     			V¹⁶ (cc. 53-68), VI¹⁶ (cc. 69-84), VII¹⁶-¹ 
-                     			(cc. 85-99; perdita di una carta dopo la c. 84), 
-                     			VIII¹²-¹ (cc. 100-110; mancano carte dopo le 
-                     			cc. 102 e 108). La perdita delle carte mancanti 
-                     			è avvenuta prima della cartulazione più recente, 
-                     			che procede senza salti; si rilevano inoltre 
-                     			tracce di una cartulazione più antica alle cc. 
-                     			34r, 35r, 36r, 37r, 38r, 39r, 40r, 52r, 64v e 65r. 
-                     			Sul verso di ogni carta è presente un richiamo al 
-                     			centro del margine inferiore.</seg></p>
+                     			fascicoli irregolari: 
+                     			<lb/>•	I⁸-¹ (cc. 1-7; manca una carta dopo la c. 2)
+                     			<lb/>•	II¹⁶ (cc. 8-23)
+                     			<lb/>•	III¹⁴ (cc. 24-37)
+                     			<lb/>•	IV¹⁶-¹? (cc. 38-52; mancano una carta dopo la c. 37, probabilmente all’inizio del fascicolo, e una dopo la c. 52, al confine con il fascicolo V)
+                     			<lb/>•	V¹⁶ (cc. 53-68), VI¹⁶ (cc. 69-84)
+                     			<lb/>•	VII¹⁶-¹ (cc. 85-99; perdita di una carta dopo la c. 84), 
+                     			<lb/>•	VIII¹²-¹ (cc. 100-110; mancano carte dopo le cc. 102 e 108). 
+                     			<lb/>•	La perdita delle carte mancanti è avvenuta prima della 
+                     			cartulazione più recente, che procede senza salti; si rilevano inoltre 
+                     			tracce di una cartulazione più antica alle cc. 34r, 35r, 36r, 37r, 
+                     			38r, 39r, 40r, 52r, 64v e 65r. Sul verso di ogni carta è presente un 
+                     			richiamo al centro del margine inferiore.</seg></p>
                      	<p xml:lang="en">
                      		<seg rend="bold">Collation</seg>
                      		<lb/><seg>The codex is acephalous and consists of eight irregular quires:
@@ -150,8 +147,11 @@
                      			<lb/>•	VI¹⁶ (fols. 69-84)
                      			<lb/>•	VII¹⁶-1 (fols. 85-99; one leaf missing after fol. 84)
                      			<lb/>•	VIII¹²-1 (fols. 100-110; leaves missing after fols. 102 and 108)
-                     			<lb/>The missing leaves were already lost before the most recent foliation, which proceeds without interruption. Traces of an earlier foliation are visible on fols. 34r, 35r, 36r, 37r, 38r, 39r, 40r, 52r, 64v, and 65r. A catchword appears at the centre of the lower margin on the verso of each folio.
-                     		</seg></p>
+                     			<lb/>The missing leaves were already lost before the most recent 
+                     			foliation, which proceeds without interruption. Traces of an earlier 
+                     			foliation are visible on fols. 34r, 35r, 36r, 37r, 38r, 39r, 40r, 52r, 
+                     			64v, and 65r. A catchword appears at the centre of the lower margin on 
+                     			the verso of each folio.</seg></p>
                      	<p xml:lang="it">
                      		<seg rend="bold">Cartulazione</seg>
                      		<lb/><seg>Presenta una cartulazione moderna; sono tuttavia 
