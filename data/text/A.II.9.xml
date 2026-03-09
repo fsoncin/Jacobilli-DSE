@@ -5835,8 +5835,8 @@
    	<!-- numeri per apici:  ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹  -->
       <front>
          <div type="title">
-         	<head rend="italic">«Milione settentrionale». Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9 
-         		<seg rend="normal">(a cura di Samuela Simion. Cura editoriale digitale di Marina Buzzoni, Giulia Fabbris, Fabio Soncin
+         	<head><seg rend="italic">«Milione settentrionale». Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9</seg> 
+         		<seg>(a cura di Samuela Simion. Cura editoriale digitale di Marina Buzzoni, Giulia Fabbris, Fabio Soncin
          			Venezia: ECF – Edizioni Ca’ Foscari / Venice University Press, 2026)</seg></head>
          </div>
       	<div type="p1">
@@ -6003,7 +6003,17 @@
       	</div>
       	<div type="p8">
       		<head>Istituzioni e Team di Progetto</head>
-      		<p>Text</p>
+      		<p>
+      			<lb/><seg rend="bold">Coordinamento</seg>: Eugenio Burgio, Marina Buzzoni, Samuela Simion
+      			<lb/><seg rend="bold">Codifica digitale</seg>: Giulia Fabbris, Fabio Soncin
+      			<lb/><seg rend="bold">Allestimento dell’edizione</seg>: Samuela Simion
+      			<lb/><seg rend="bold">Enti e istituzioni partner</seg>:
+      			<lb/>•	Biblioteca “Lodovico Jacobilli” della Diocesi di Foligno 
+      			<lb/>•	Fondazione CHANGES
+      			<lb/>•	Soprintendenza Archivistica e Bibliografica dell’Umbria
+      			<lb/>•	Manus Online 
+      			<lb/>•	Comitato Nazionale per le celebrazioni del settimo centenario della morte di Marco Polo
+      		</p>
       	</div>
       	<div type="p9">
       		<head>Ringraziamenti</head>
@@ -6751,7 +6761,7 @@
 							<reg>podé</reg>
 						</choice> veder e<reg>&#173; </reg>saver quele chosse che se <choice>
 							<orig>scriva<lb n="14" xml:id="A.II.9_lb_02r_14_orig" facs="#A.II.9_line_02r_14_orig"/>no</orig>
-							<reg>scriv‹er›ano<note type="corrSim">integrazione basata su VA3IX, 19. VA5 I 8 18 se contien. Il capitolo manca in VA1 e
+							<reg>scriv‹er›ano<note type="corrSim">Integrazione basata su VA3IX, 19. VA5 I 8 18 se contien. Il capitolo manca in VA1 e
 									VA2.</note><lb n="14" xml:id="A.II.9_lb_02r_14_reg" facs="#A.II.9_line_02r_14_reg"/></reg>
 						</choice> in questo nostro libero<reg>.</reg></seg>
 				</p>
