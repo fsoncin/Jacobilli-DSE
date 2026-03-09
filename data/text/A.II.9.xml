@@ -47,22 +47,30 @@
                <msContents>
                   <msItem>
                      <locus>1r-110r</locus>
-                  	<title>Devisement dou monde (VA)</title>
+                  	<title>Devisement dou monde</title>
                   	<note>Redazione VA</note>
                   	<author>Marco Polo</author>
                   	<author>Rustichello da Pisa</author>
-                  	<incipit>Inc.: «che Eli erano latiny e chosi valenti homeny e | oldando quelo che Eli avevano volutade de | partirse domando per gracia Algran signor»</incipit>
-                  	<explicit>Expl. «in | quelo mar sie arquante isolle in | le quale nase grifalchy falchony | pelegriny liquali seportano per di | verse parte del mondo Amen»</explicit>
+                  	<lb/><incipit><seg rend="bold">Inc. <locus target="#A.II.9_fol_01r">(f.1r)</locus></seg>: 
+                  		«che Eli erano latiny e chosi valenti homeny e |
+                  		oldando quelo che Eli avevano volutade de |
+                  		partirse domando per gracia Algran signor»</incipit>
+                  	<lb/><explicit><seg rend="bold">Expl. <locus target="#A.II.9_surf_110r">(f.110r)</locus></seg>:
+                  		«in |
+                  		quelo mar sie arquante isolle in |
+                  		le quale nase grifalchy falchony |
+                  		pelegriny liquali seportano per di |
+                  		verse parte del mondo Amen»</explicit>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc>
                      <supportDesc>
                         <support>Carta.</support>
-                     	<extent>Il manoscritto consta di 110 cc. (I, 110, I’),  
+                     	<extent><seg rend="bold">Composizione e dimensioni</seg>
+                     		<lb/>Il manoscritto consta di 110 cc. (I, 110, I’),  
                      		con fascicolazione irregolare e alcune carte mancanti. 
-                     		Misura mm 
-                        	<dimensions type="leaf" unit="millimeters">
+                     		Misura mm <dimensions type="leaf" unit="millimeters">
                               <height>208 x</height>
                               <width>140</width>
                            </dimensions> (misurazione effettuata sulla c. 78). 
@@ -70,8 +78,25 @@
                      </supportDesc>
                      <layoutDesc>
                      	<p>
+                     		<seg rend="bold">Datazione</seg>
+                     		<lb/><seg>Fine del XIV-primo quarto del XV secolo. 
+                     			La datazione può essere meglio precisata grazie all’analisi 
+                     			delle filigrane: fino alla c. 30 è visibile un motivo a 
+                     			compasso con arco a contorno doppio, non sovrapponibile 
+                     			ai tipi registrati in Briquet (vol. 2: nr. 4460-4467); 
+                     			dalla c. 39 compare invece una filigrana a drago o basilisco, 
+                     			anch’essa priva di riscontri puntuali in Briquet 
+                     			(vol. 1: nr. 2617-2714, gruppo italiano nr. 2617-2698). 
+                     			I tipi più affini per entrambi i motivi si collocano tra 
+                     			gli anni Ottanta del XIV secolo e il primo quarto del XV, 
+                     			consentendo di restringere la cronologia rispetto alle 
+                     			precedenti descrizioni, che collocavano il codice 
+                     			genericamente nel XV secolo.
+                     		</seg>
+                     	</p>
+                     	<p>
                      		<seg rend="bold">Fascicolazione</seg>
-                     		<seg>Il codice è acefalo ed è composto da 8 
+                     		<lb/><seg>Il codice è acefalo ed è composto da 8 
                      			fascicoli irregolari: I⁸-¹ (cc. 1-7; 
                      			manca una carta dopo la c. 2), II¹⁶ 
                      			(cc. 8-23), III¹⁴ (cc. 24-37), IV¹⁶-¹? 
@@ -88,39 +113,55 @@
                      			34r, 35r, 36r, 37r, 38r, 39r, 40r, 52r, 64v e 65r. 
                      			Sul verso di ogni carta è presente un richiamo al 
                      			centro del margine inferiore.</seg></p>
+                     	
+                     	<p>
+                     		<seg rend="bold">Cartulazione</seg>
+                     		<lb/><seg>Presenta una cartulazione moderna; sono tuttavia 
+                     			visibili tracce di una numerazione più antica alle 
+                     			cc. 35r, 36r, 37r, 52r, 64v, 65r. Annotazioni sono
+                     			presenti nell’angolo inferiore destro delle cc. 69r-76r,
+                     			100r, 102r-104r. </seg>
+                     	</p>
                      	<p>
                      		<seg rend="bold">Rigatura e specchio di scrittura</seg>
-                     		<seg>Rigatura a mina di piombo, sia per le linee di 
+                     		<lb/><seg>Rigatura a mina di piombo, sia per le linee di 
                      			giustifcazione sia per le rettrici. Il numero 
                      			delle righe per carta varia tra 27 e 33. Il testo 
                      			è disposto a piena pagina entro uno specchio di scrittura 
                      			variabile (alla c. 78r mm 172 × 107).</seg>
                      	</p>
                      	<p>
-                     		<seg rend="bold">Cartulazione</seg>
-                     		<seg>Presenta una cartulazione moderna; sono tuttavia 
-                     			visibili tracce di una numerazione più antica alle 
-                     			cc. 35r, 36r, 37r, 52r, 64v, 65r. Annotazioni sono
-                     			presenti nell’angolo inferiore destro delle cc. 69r-76r,
-                     			100r, 102r-104r. </seg>
+                     		<seg rend="bold">Disposizione del testo</seg>
+                     		<lb/><seg>A piena pagina.</seg>
                      	</p>
                      </layoutDesc>
                   </objectDesc>
                	<handDesc>
-               		<p>La copia è attribuibile a un’unica mano, che adopera una 
+               		<p><seg rend="bold">Scrittura e mani</seg>
+               			<lb/><seg>La copia è attribuibile a un’unica mano, che adopera una 
                			scrittura ibrida dal ductus semi-corsivo, di base 
                			cancelleresca con elementi di littera textualis. La scrittura 
                			è ben spaziata, dal tratteggio marcato, appena sollevata dal 
                			rigo e complessivamente regolare, pur con alcune variazioni 
-               			nel modulo e nell’interlineo.</p>
+               			nel modulo e nell’interlineo.</seg></p>
+               		<p><seg rend="bold">Richiami</seg>
+               			<lb/><seg>Ogni carta presenta sul verso un richiamo, collocato al centro 
+               			del margine inferiore, elemento che suggerisce che il codice 
+               			non fosse originariamente destinato a una legatura definitiva. 
+               			Il modesto allestimento del manoscritto, la qualità mediocre del 
+               			supporto cartaceo, la semplicità della decorazione e la scrittura 
+               			priva di ambizioni grafiche suggeriscono che la copia non sia opera 
+               			di un copista di professione.</seg></p>
                	</handDesc>
                	<decoDesc>
-               		<p>La decorazione è limitata a iniziali maggiori calligrafiche 
+               		<p><seg rend="bold">Decorazione</seg>
+               			<lb/><seg>La decorazione è limitata a iniziali maggiori calligrafiche 
                			semplici, eseguite in inchiostro rosso, accompagnate da lettere 
-               			guida.</p>
+               			guida.</seg></p>
                	</decoDesc>
                	<bindingDesc>
-               		<p><seg rend="bold">Legatura</seg>La legatura, su quadranti in cartone scoperto, presenta un dorso 
+               		<p><seg rend="bold">Legatura</seg>
+               			<lb/><seg>La legatura, su quadranti in cartone scoperto, presenta un dorso 
                			a tre nervi ed è in pelle di capra allumata, con brachette di 
                			supporto pergamenacee (le informazioni sono disponibili, con le 
                			fotografie scattate durante il restauro, avvenuto nel settembre 
@@ -128,24 +169,50 @@
                			Il manoscritto si trova in buono stato di conservazione. Sono visibili macchie di umidità, 
                			alcune tracce di muffa e fori di tarli; le poche carte staccate dal dorso 
                			sono state sistemate durante l’intervento. La c. 3 è stata staccata durante 
-               			il restauro ed è conservata separatamente.</p>
+               			il restauro ed è conservata separatamente.</seg></p>
                	</bindingDesc>
                </physDesc>
                <history>
-               	<p>Il codice appartenne all’erudito Ludovico Jacobilli (1598-1664), come attestano sia i segni materiali di possesso sia la documentazione inventariale. La segnatura antica «S.6.D», visibile sul dorso della coperta (accanto ad altre due scritte oggi illeggibili), risale probabilmente all’ingresso del manoscritto nella Biblioteca del Seminario di Foligno, dove confluirono numerosi volumi della collezione Jacobilli. La stessa segnatura compare, a penna, sul piatto anteriore della custodia e sul dorso, sul quale è applicato un cartellino con l’indicazione: «BIBLIOTECA | SEMINARIALE | I. IACOBILLI | FOLIGNO | Sala A | Scaffale A | Palchetto II | Num. 9».
-               		Il manoscritto conserva inoltre brevi postille marginali e interlineari di mano di Jacobilli, concentrate soprattutto in corrispondenza di capitoli di contenuto religioso; tali annotazioni documentano una lettura effettiva del testo e si inseriscono coerentemente nel profilo intellettuale del proprietario. All’interno della ricca biblioteca Jacobilli, contenente molti volumi di interesse agiografico e teologico, trovavano infatti spazio anche opere di carattere odeporico, come attestano altri testi di viaggio presenti nella collezione, dal Livre di Mandeville a resoconti di pellegrinaggi. L’intervento più esteso sul codice è l’attribuzione di un titolo, vergato alla c. Ir e ripetuto, con lievi varianti, a c. 1r.
-               		Non è noto dove e quando Jacobilli si sia procurato questo esemplare del Devisement dou monde; la sua presenza nella biblioteca è tuttavia documentata da più inventari, come comunicatoci dal bibliotecario, il dott. Ivan Petrini. Nell’inventario autografo A.VIII.21, redatto nel 1654 con aggiunte fino al 1657, il manoscritto compare nell’«Indice dei libri manoscritti» (voce 187). In un secondo inventario, C.V.13 del 1662, è registrato nella lista dei «Libri scritti a mano custoditi nella cassa dipinta rossa» (voce 145). La biblioteca conserva inoltre un ulteriore catalogo alfabetico, non datato ma certamente posteriore alla donazione Jacobilli, nel quale il Milione è elencato sotto la lettera M; nella voce il copista ha tuttavia erroneamente scritto «America» invece di «Armenia», errore successivamente corretto a penna rossa da mons. Francesco Conti, direttore della biblioteca fino al 2003 e revisore degli inventari. Un’ulteriore attestazione indiretta proviene dal registro B.VIII.8, un piccolo libro contabile relativo ad acquisti e vendite di libri, nel quale è stato individuato un riferimento a contatti con Venezia. Le voci, posteriori alla morte di Jacobilli, testimoniano come il Seminario, al fine di incrementare e aggiornare il patrimonio librario, abbia probabilmente venduto o scambiato esemplari doppi provenienti dalla donazione, in conformità con le disposizioni testamentarie dello stesso Jacobilli.
-               		
-               	</p>
-                  <origin>
-                     <p/>
-                  </origin>
-                  <provenance>
-                     <p/>
-                  </provenance>
-                  <acquisition>
-                     <p/>
-                  </acquisition>
+               	<p>Il codice appartenne all’erudito Ludovico Jacobilli (1598-1664), 
+               		come attestano sia i segni materiali di possesso sia la documentazione 
+               		inventariale. La segnatura antica «S.6.D», visibile sul dorso della 
+               		coperta (accanto ad altre due scritte oggi illeggibili), risale probabilmente 
+               		all’ingresso del manoscritto nella Biblioteca del Seminario di Foligno, 
+               		dove confluirono numerosi volumi della collezione Jacobilli. La stessa 
+               		segnatura compare, a penna, sul piatto anteriore della custodia e sul 
+               		dorso, sul quale è applicato un cartellino con l’indicazione: «BIBLIOTECA | SEMINARIALE | I. IACOBILLI | 
+               		FOLIGNO | Sala A | Scaffale A | Palchetto II | Num. 9».</p>
+               	<p>Il manoscritto conserva inoltre brevi postille marginali e interlineari 
+               			di mano di Jacobilli, concentrate soprattutto in corrispondenza di 
+               			capitoli di contenuto religioso; tali annotazioni documentano una 
+               			lettura effettiva del testo e si inseriscono coerentemente nel profilo 
+               			intellettuale del proprietario. All’interno della ricca biblioteca 
+               			Jacobilli, contenente molti volumi di interesse agiografico e 
+               			teologico, trovavano infatti spazio anche opere di carattere 
+               			odeporico, come attestano altri testi di viaggio presenti nella 
+               			collezione, dal <seg rend="italic">Livre</seg> di Mandeville a resoconti di pellegrinaggi. 
+               			L’intervento più esteso sul codice è l’attribuzione di un titolo, 
+               			vergato alla c. Ir e ripetuto, con lievi varianti, a c. 1r.</p>
+               	<p>Non è noto dove e quando Jacobilli si sia procurato questo esemplare
+               		del <seg rend="italic">Devisement dou monde</seg>; la sua presenza nella biblioteca è tuttavia 
+               		documentata da più inventari, come comunicatoci dal bibliotecario, il dott. 
+               		Ivan Petrini. Nell’inventario autografo A.VIII.21, redatto nel 1654 con 
+               		aggiunte fino al 1657, il manoscritto compare nell’«Indice dei libri 
+               		manoscritti» (voce 187). In un secondo inventario, C.V.13 del 1662, 
+               		è registrato nella lista dei «Libri scritti a mano custoditi nella 
+               		cassa dipinta rossa» (voce 145). La biblioteca conserva inoltre un 
+               		ulteriore catalogo alfabetico, non datato ma certamente posteriore 
+               		alla donazione Jacobilli, nel quale il Milione è elencato sotto la 
+               		lettera M; nella voce il copista ha tuttavia erroneamente scritto 
+               		«America» invece di «Armenia», errore successivamente corretto a penna 
+               		rossa da mons. Francesco Conti, direttore della biblioteca fino al 2003 
+               		e revisore degli inventari. Un’ulteriore attestazione indiretta proviene 
+               		dal registro B.VIII.8, un piccolo libro contabile relativo ad acquisti e 
+               		vendite di libri, nel quale è stato individuato un riferimento a contatti 
+               		con Venezia. Le voci, posteriori alla morte di Jacobilli, testimoniano come 
+               		il Seminario, al fine di incrementare e aggiornare il patrimonio librario, 
+               		abbia probabilmente venduto o scambiato esemplari doppi provenienti dalla 
+               		donazione, in conformità con le disposizioni testamentarie dello stesso Jacobilli.</p>   
                </history>
             </msDesc>
             <!-- Elenco degli antroponimi -->
