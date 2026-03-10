@@ -12519,46 +12519,144 @@
                   facs="#A.II.9_line_14r_13"/>
                <seg n="1">
                   <reg>[1] </reg>
-                  <hi rend="init3.1">A</hi>No dominice .m°CClxxij.<note>Jacobilli ha sottolineato
+                  <choice>
+                  	<orig><hi rend="init3.1">A</hi>No</orig>
+                  	<reg><hi rend="init3.1">A</hi>no</reg>
+                  </choice> dominice <choice>
+                  	<orig>.m°CClxxij.</orig>
+                  	<reg>.M°CCLXXII.</reg>
+                  </choice><note type="jacob">Jacobilli ha sottolineato
                      l’anno, e lo ha riportato nel margine destro: 1272.</note>
-                  <persName ref="#alau">Aluy</persName> che Era Re deli <term ref="#tartars">tarta
-                        <lb n="14" xml:id="A.II.9_lb_14r_14" facs="#A.II.9_line_14r_14"/>ry
-                     delevante</term> oldando de questa chossa che feva el <lb n="15"
+               	<persName ref="#alau">Aluy<reg>,</reg></persName> che <choice>
+                  	<orig>Era</orig>
+                  	<reg>era</reg>
+                  </choice> <choice>
+                  	<orig>Re</orig>
+                  	<reg>re</reg>
+                  </choice> deli 
+               	<term ref="#tartars"><choice>
+               			<orig>tarta<lb n="14" xml:id="A.II.9_lb_14r_14_orig" facs="#A.II.9_line_14r_14_orig"/>ry</orig>
+               			<reg>Tartary<lb n="14" xml:id="A.II.9_lb_14r_14_reg" facs="#A.II.9_line_14r_14_reg"/></reg>
+               	</choice>
+               		de<reg>&#173; </reg><choice>
+               			<orig>levante</orig>
+               			<reg>Levante</reg>
+               		</choice><reg>,</reg></term> oldando de questa chossa che feva el <lb n="15"
                      xml:id="A.II.9_lb_14r_15" facs="#A.II.9_line_14r_15"/>
-                  <term ref="#viel">vechio</term> dale montagne mando loso hoste sovra Alo <lb
-                     n="16" xml:id="A.II.9_lb_14r_16" facs="#A.II.9_line_14r_16"/>hastello dove
-                  stava el <term ref="#viel">vechio</term>
-                  <reg>.</reg></seg>
+                  <term ref="#viel"><choice>
+                  		<orig>vechio</orig>
+                  		<reg>Vechio</reg>
+                  </choice></term> dale montagne<reg>,</reg> <choice>
+                  	<orig>mando</orig>
+                  	<reg>mandò</reg>
+                  </choice> lo<reg>&#173; </reg>so hoste sovra <choice>
+                  	<orig>Alo</orig>
+                  	<reg>alo</reg>
+                  </choice> <lb
+                     n="16" xml:id="A.II.9_lb_14r_16" facs="#A.II.9_line_14r_16"/>chastello<reg>,</reg> dove
+                  stava el <term ref="#viel"><choice>
+                  		<orig>vechio</orig>
+                  		<reg>Vechio</reg>
+                  </choice></term><reg>.</reg></seg>
                <seg n="2">
-                  <reg>[2] </reg>eduro lo asedio tre <lb n="17" xml:id="A.II.9_lb_14r_17"
-                     facs="#A.II.9_line_14r_17"/>any perche lo chastelo era fortisimo
-                  <reg>.</reg></seg>
+               	<reg>[2] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg><choice>
+               		<orig>duro</orig>
+               		<reg>durò</reg>
+               	</choice> lo asedio tre <lb n="17" xml:id="A.II.9_lb_14r_17"
+                     facs="#A.II.9_line_14r_17"/>any<reg>,</reg> <choice>
+                     	<orig>perche</orig>
+                     	<reg>perché</reg>
+                     </choice> lo chastelo era fortisimo<reg>.</reg></seg>
                <seg n="3">
-                  <reg>[3] </reg>eloste Era defu <lb n="18" xml:id="A.II.9_lb_14r_18"
-                     facs="#A.II.9_line_14r_18"/>ora grandisimo emeraveioso ma perco nolo aver <lb
-                     n="19" xml:id="A.II.9_lb_14r_19" facs="#A.II.9_line_14r_19"/>ave may preso
-                  senon fose chel mancho lavituar <lb n="20" xml:id="A.II.9_lb_14r_20"
-                     facs="#A.II.9_line_14r_20"/>ia Alchastelo inchavo detre any siche perdefeto de
-                     <lb n="21" xml:id="A.II.9_lb_14r_21" facs="#A.II.9_line_14r_21"/>vituaria el
-                  chastelo fopreso et alora fomorto el <lb n="22" xml:id="A.II.9_lb_14r_22"
+               	<reg>[3] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg>l<reg>'</reg>oste <choice>
+               		<orig>Era</orig>
+               		<reg>era</reg>
+               	</choice> de<reg>&#173; </reg><choice>
+               		<orig>fu<lb n="18" xml:id="A.II.9_lb_14r_18_orig" facs="#A.II.9_line_14r_18_orig"/>ora</orig>
+               		<reg>fuora<lb n="18" xml:id="A.II.9_lb_14r_18_reg" facs="#A.II.9_line_14r_18_reg"/></reg>
+               	</choice> grandisimo e<reg>&#173; </reg>meraveioso<reg>,</reg> ma <choice>
+               		<orig>perco</orig>
+               		<reg>percò</reg>
+               	</choice> no<reg>&#173; </reg>lo 
+               	<choice>
+               		<orig>aver<lb n="19" xml:id="A.II.9_lb_14r_19_orig" facs="#A.II.9_line_14r_19_orig"/>ave</orig>
+               		<reg>averave<lb n="19" xml:id="A.II.9_lb_14r_19_reg" facs="#A.II.9_line_14r_19_reg"/></reg>
+               	</choice> may preso
+               	se<reg>&#173; </reg>non fose ch<reg>'</reg>el <choice>
+               		<orig>mancho</orig>
+               		<reg>manchò</reg>
+               	</choice> la<reg>&#173; </reg><choice>
+               		<orig>vituar<lb n="20" xml:id="A.II.9_lb_14r_20_orig" facs="#A.II.9_line_14r_20_orig"/>ia</orig>
+               		<reg>vituaria<lb n="20" xml:id="A.II.9_lb_14r_20_reg" facs="#A.II.9_line_14r_20_reg"/></reg>
+               	</choice> <choice>
+               		<orig>Al</orig>
+               		<reg>al</reg>
+               	</choice><reg>&#173; </reg>chastelo in<reg>&#173; </reg>chavo de<reg>&#173; </reg>tre any<reg>;</reg> <choice>
+               		<orig>si</orig>
+               		<reg>sì</reg>
+               	</choice><reg>&#173; </reg>che<reg>,</reg> per<reg>&#173; </reg>defeto de
+                     <lb n="21" xml:id="A.II.9_lb_14r_21" facs="#A.II.9_line_14r_21"/>vituaria<reg>,</reg> el
+               	chastelo fo<reg>&#173; </reg>preso et alora fo<reg>&#173; </reg>morto el <lb n="22" xml:id="A.II.9_lb_14r_22"
                      facs="#A.II.9_line_14r_22"/>
-                  <term ref="#viel">vechio</term> che aveva nome <persName ref="#alaodin"
-                     >aloadin</persName> elifo morta tu <lb n="23" xml:id="A.II.9_lb_14r_23"
-                     facs="#A.II.9_line_14r_23"/>ta la soa cente Etuty queli <term ref="#asciscin"
-                     >asasiny</term>
-                  <reg>.</reg></seg>
+                  <term ref="#viel"><choice>
+                  		<orig>vechio</orig>
+                  		<reg>Vechio</reg>
+                  </choice></term> che aveva nome <persName ref="#alaodin"
+                     ><choice>
+                     	<orig>aloadin</orig>
+                     	<reg>Aloadin</reg>
+                     </choice></persName> e<reg>&#173; </reg><choice>
+                     	<orig>li</orig>
+                     	<reg>lì</reg>
+                     </choice><reg>&#173; </reg>fo morta 
+               	<choice>
+               		<orig>tu<lb n="23" xml:id="A.II.9_lb_14r_23_orig" facs="#A.II.9_line_14r_23_orig"/>ta</orig>
+               		<reg>tuta<lb n="23" xml:id="A.II.9_lb_14r_23_reg" facs="#A.II.9_line_14r_23_reg"/></reg>
+               	</choice> la soa cente <choice>
+               		<orig>E</orig>
+               		<reg>e</reg>
+               	</choice><reg>&#173; </reg>tuty queli <term ref="#asciscin"
+                     ><choice>
+                     	<orig>asasiny</orig>
+                     	<reg>Asasiny</reg>
+                     </choice></term><reg>.</reg></seg>
                <seg n="4">
-                  <reg>[4] </reg>edaquelo <persName ref="#alaodin">alao <lb n="24"
-                        xml:id="A.II.9_lb_14r_24" facs="#A.II.9_line_14r_24"/>din</persName> in qua
-                  nonfo pluy nesuno <term ref="#viel">vechio</term> ni dequely <lb n="25"
+               	<reg>[4] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg>da<reg>&#173; </reg>quelo 
+               	<persName ref="#alaodin"><choice>
+               			<orig>alao<lb n="24" xml:id="A.II.9_lb_14r_24_orig" facs="#A.II.9_line_14r_24_orig"/>din</orig>
+               			<reg>Alaodin<lb n="24" xml:id="A.II.9_lb_14r_24_reg" facs="#A.II.9_line_14r_24_reg"/></reg>
+               	</choice></persName> in qua
+                  nonfo pluy nesuno <term ref="#viel"><choice>
+                  		<orig>vechio</orig>
+                  		<reg>Vechio</reg>
+                  </choice></term><reg>,</reg> <choice>
+                  	<orig>ni</orig>
+                  	<reg>nì</reg>
+                  </choice> de<reg>&#173; </reg>quely <lb n="25"
                      xml:id="A.II.9_lb_14r_25" facs="#A.II.9_line_14r_25"/>
-                  <term ref="#asciscin">asasiny</term>
-                  <reg>.</reg></seg>
+                  <term ref="#asciscin"><choice>
+                  		<orig>asasiny</orig>
+                  		<reg>Asasiny</reg>
+                  </choice></term><reg>.</reg></seg>
                <seg n="5">
-                  <reg>[5] </reg>et in choluy sifeny lasegnoria de quello <lb n="26"
+                  <reg>[5] </reg><choice>
+                  	<orig>et</orig>
+                  	<reg>Et</reg>
+                  </choice> in choluy si<reg>&#173; </reg>feny la<reg>&#173; </reg>segnoria de quello <lb n="26"
                      xml:id="A.II.9_lb_14r_26" facs="#A.II.9_line_14r_26"/>mal de queli <term
-                     ref="#asciscin">asasiny</term>
-                  <reg>.</reg></seg>
+                     ref="#asciscin"><choice>
+                     	<orig>asasiny</orig>
+                     	<reg>Asasiny</reg>
+                     </choice></term><reg>.</reg></seg>
             </p>
          </div>
          <div type="chapter" n="20" xml:id="VA30_VAvi.20">
