@@ -12664,56 +12664,169 @@
                   facs="#A.II.9_line_14r_27"/>
                <seg n="1">
                   <reg>[1] </reg>
-                  <hi rend="init3.1">Q</hi>Uando lomo separte dequelo chastello lo ch <lb n="28"
-                     xml:id="A.II.9_lb_14r_28" facs="#A.II.9_line_14r_28"/>avalcha per unbelo piano
-                  eper belle cho <lb n="29" xml:id="A.II.9_lb_14r_29" facs="#A.II.9_line_14r_29"/>se
-                  ladove se molto bella erba ebony pascoly em <lb n="30" xml:id="A.II.9_lb_14r_30"
-                     facs="#A.II.9_line_14r_30"/>olte frute Etute chose da vi vere ingranda Abon <lb
-                     n="31" xml:id="A.II.9_lb_14r_31" facs="#A.II.9_line_14r_31"/>ancia
-                  <reg>.</reg></seg>
+                  <choice>
+                  	<orig><hi rend="init3.1">Q</hi>Uando</orig>
+                  	<reg><hi rend="init3.1">Q</hi>uando</reg>
+                  </choice> l<reg>'</reg>omo se<reg>&#173; </reg>parte de<reg>&#173; </reg>quelo chastellore' lo 
+               	<choice>
+               		<orig>ch<lb n="28" xml:id="A.II.9_lb_14r_28_orig" facs="#A.II.9_line_14r_28_orig"/>avalcha</orig>
+               		<reg>chavalcha<lb n="28" xml:id="A.II.9_lb_14r_28_reg" facs="#A.II.9_line_14r_28_reg"/></reg>
+               	</choice> per un<reg>&#173; </reg>belo piano
+                  eper belle 
+                  <choice>
+                  	<orig>cho<lb n="29" xml:id="A.II.9_lb_14r_29_orig" facs="#A.II.9_line_14r_29_orig"/>se</orig>
+                  	<reg>chos<supplied>‹t›</supplied>e<lb n="29" xml:id="A.II.9_lb_14r_29_reg" facs="#A.II.9_line_14r_29_reg"/></reg>
+                  </choice><reg>,</reg>
+               	<choice>
+               		<orig>la</orig>
+               		<reg>là</reg>
+               	</choice><reg>&#173; </reg>dove <choice>
+               		<orig>se</orig>
+               		<reg>sè</reg>
+               	</choice> molto bella erba e<reg>&#173; </reg>bony pascoly 
+               	e<reg>&#173; </reg><choice>
+               		<orig>m<lb n="30" xml:id="A.II.9_lb_14r_30_orig" facs="#A.II.9_line_14r_30_orig"/>olte</orig>
+               		<reg>molte<lb n="30" xml:id="A.II.9_lb_14r_30_reg" facs="#A.II.9_line_14r_30_reg"/></reg>
+               	</choice> frute <choice>
+               		<orig>E</orig>
+               		<reg>e</reg>
+               	</choice><reg>&#173; </reg>tute chose da vi<orig>&#173; </orig>vere in<reg>&#173; </reg>granda 
+               	<choice>
+               		<orig>Abon<lb n="31" xml:id="A.II.9_lb_14r_31" facs="#A.II.9_line_14r_31"/>ancia</orig>
+               		<reg>abondancia<reg>.</reg><lb n="31" xml:id="A.II.9_lb_14r_31" facs="#A.II.9_line_14r_31"/></reg>
+               	</choice>
+               	</seg>
                <seg n="2">
-                  <reg>[2] </reg>Equesta chontrada dura ben sie <term ref="#journee">cornade</term>
-                  <lb n="32" xml:id="A.II.9_lb_14r_32" facs="#A.II.9_line_14r_32"/>elge citade
-                  Echastelli asay <reg>.</reg></seg>
+               	<reg>[2] </reg>E<reg>&#173; </reg>questa chontrada dura ben sie <term ref="#journee">cornade</term><reg>;</reg>
+               	<lb n="32" xml:id="A.II.9_lb_14r_32" facs="#A.II.9_line_14r_32"/>el<reg>&#173; </reg>g<reg>'</reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> citade
+               	<choice>
+               		<orig>E</orig>
+               		<reg>e</reg>
+               	</choice><reg>&#173; </reg>chastelli asay<reg>.</reg></seg>
                <seg n="3">
-                  <reg>[3] </reg>lacente de quela chon <lb n="33" xml:id="A.II.9_lb_14r_33"
-                     facs="#A.II.9_line_14r_33"/>rada Adora <persName ref="#maomet"
-                     >machometo</persName>
-                  <reg>.</reg></seg>
+               	<reg>[3] </reg><choice>
+               		<orig>la</orig>
+               		<reg>La</reg>
+               	</choice><reg>&#173; </reg>cente de quela 
+               	<choice>
+               		<orig>chon<lb n="33" xml:id="A.II.9_lb_14r_33_orig" facs="#A.II.9_line_14r_33_orig"/>trada</orig>
+               		<reg>chontrada<lb n="33" xml:id="A.II.9_lb_14r_33_reg" facs="#A.II.9_line_14r_33_reg"/></reg>
+               	</choice> <choice>
+               		<orig>Adora</orig>
+               		<reg>adora</reg>
+               	</choice> <persName ref="#maomet"
+                     ><choice>
+                     	<orig>machometo</orig>
+                     	<reg>Machometo</reg>
+                     </choice><reg>.</reg></persName>
+                  </seg>
                <seg n="4">
-                  <reg>[4] </reg>et alguna fiada truo <pb n="14v" xml:id="A.II.9_fol_14v"/>
+                  <reg>[4] </reg>et alguna fiada truo<reg>|va</reg><pb n="14v" xml:id="A.II.9_fol_14v"/>
                   <!-- #### FOLIO 14v ##### -->
-                  <lb n="1" xml:id="A.II.9_lb_14v_01" facs="#A.II.9_line_14v_01"/>va lomo deserty de
-                  .xl. <term ref="#mil">meia</term> ede .l. inliqualy nonse aque <lb n="2"
-                     xml:id="A.II.9_lb_14v_02" facs="#A.II.9_line_14v_02"/>machovien cheli viandanty
-                  portono aqua chonlor <reg>.</reg></seg>
+                  <lb n="1" xml:id="A.II.9_lb_14v_01" facs="#A.II.9_line_14v_01"/><orig>va </orig>l<reg>'</reg>omo deserty de
+                  <choice>
+                  	<orig>.xl.</orig>
+                  	<reg>.XL.</reg>
+                  </choice> <term ref="#mil">meia</term> ede <choice>
+                  	<orig>.l.</orig>
+                  	<reg>.L.</reg>
+                  </choice><reg>,</reg> in<reg>&#173; </reg>li<reg>&#173; </reg>qualy non<reg>&#173; </reg><choice>
+                  	<orig>se</orig>
+                  	<reg>sè</reg>
+                  </choice> aque<reg>,</reg> <lb n="2"
+                  	xml:id="A.II.9_lb_14v_02" facs="#A.II.9_line_14v_02"/>ma<reg>&#173; </reg>chovien che<reg>&#173; </reg>li viandanty
+               	portono aqua chon<reg>&#173; </reg>lor<reg>.</reg></seg>
                <seg n="5">
-                  <reg>[5] </reg>ele <lb n="3" xml:id="A.II.9_lb_14v_03" facs="#A.II.9_line_14v_03"
-                  />bestie non ano dabever fina cheli n<g ref="#omacr"/> ese del deserto
-                     <reg>.</reg></seg>
+               	<reg>[5] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg>le <lb n="3" xml:id="A.II.9_lb_14v_03" facs="#A.II.9_line_14v_03"
+                  />bestie non <choice>
+                  	<orig>ano</orig>
+                  	<reg>àno</reg>
+                  </choice> da<reg>&#173; </reg>bever fina ch<reg>'</reg>eli <choice>
+                  	<abbr>n<am><g ref="#omacr"/></am></abbr>
+                  	<expan>n<g ref="#omacr"/><ex>n</ex></expan>
+                  </choice> ese del deserto<reg>.</reg></seg>
                <seg n="6">
-                  <reg>[6] </reg>e <lb n="4" xml:id="A.II.9_lb_14v_04" facs="#A.II.9_line_14v_04"
-                  />quando lomo e chavalchado queste sie <term ref="#journee">cornade</term> Eltruo
-                     <lb n="5" xml:id="A.II.9_lb_14v_05" facs="#A.II.9_line_14v_05"/>va una citade
-                  che anome <placeName ref="#sapurgan">bopurgan</placeName>
-                  <reg>.</reg></seg>
+                  <reg>[6] </reg><choice>
+                  	<orig>e</orig>
+                  	<reg>E</reg>
+                  </choice> <lb n="4" xml:id="A.II.9_lb_14v_04" facs="#A.II.9_line_14v_04"
+                  />quando l<reg>'</reg>omo <choice>
+                  	<orig>e</orig>
+                  	<reg>è</reg>
+                  </choice> chavalchado queste sie <term ref="#journee">cornade</term><reg>,</reg> <choice>
+                  	<orig>El</orig>
+                  	<reg>el</reg>
+                  </choice><reg>&#173; </reg><choice>
+                  	<orig>truo<lb n="5" xml:id="A.II.9_lb_14v_05_orig" facs="#A.II.9_line_14v_05_orig"/>va</orig>
+                  	<reg>truova<lb n="5" xml:id="A.II.9_lb_14v_05_reg" facs="#A.II.9_line_14v_05_reg"/></reg>
+                  </choice> una citade
+               	che <choice>
+               		<orig>a</orig>
+               		<reg>à</reg>
+               	</choice><reg>&#173; </reg>nome <placeName ref="#sapurgan"><choice>
+               			<orig>bopurgan</orig>
+               			<reg>Bopurgan</reg>
+               	</choice><reg>.</reg></placeName>
+                  </seg>
                <seg n="7">
-                  <reg>[7] </reg>quela cente sia <lb n="6" xml:id="A.II.9_lb_14v_06"
-                     facs="#A.II.9_line_14v_06"/>abondancia de tute chose Et anchora sie li mior me
-                     <lb n="7" xml:id="A.II.9_lb_14v_07" facs="#A.II.9_line_14v_07"/>lony del mondo
-                  et ege in grandisima Abondancia <lb n="8" xml:id="A.II.9_lb_14v_08"
-                     facs="#A.II.9_line_14v_08"/>
-                  <reg>.</reg></seg>
+                  <reg>[7] </reg><choice>
+                  	<orig>quela</orig>
+                  	<reg>Quela</reg>
+                  </choice> cente <choice>
+                  	<orig>si</orig>
+                  	<reg>sì</reg>
+                  </choice><reg>&#173; </reg><choice>
+                  	<orig>a</orig>
+                  	<reg>à</reg>
+                  </choice> <lb n="6" xml:id="A.II.9_lb_14v_06"
+                     facs="#A.II.9_line_14v_06"/>abondancia de tute chose<reg>;</reg> <choice>
+                     	<orig>Et</orig>
+                     	<reg>et</reg>
+                     </choice> anchora si<reg>&#173; </reg><choice>
+                     	<orig>e</orig>
+                     	<reg>è</reg>
+                     </choice> li mior <choice>
+                     	<orig>me<lb n="7" xml:id="A.II.9_lb_14v_07_orig" facs="#A.II.9_line_14v_07_orig"/>lony</orig>
+                     	<reg>melony<lb n="7" xml:id="A.II.9_lb_14v_07_reg" facs="#A.II.9_line_14v_07_reg"/></reg>
+                     </choice> del mondo
+               	et <choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice><reg>-</reg>ge in grandisima <choice>
+               		<orig>Abondancia</orig>
+               		<reg>abondancia</reg>
+               	</choice><reg>.</reg></seg>
                <seg n="8">
-                  <reg>[8] </reg>elly litaiano atorno chomo sefa lecuche dasalvar <lb n="9"
-                     xml:id="A.II.9_lb_14v_09" facs="#A.II.9_line_14v_09"/>epuo silimete asechar
-                  alsol edeventano dolce chomo <lb n="10" xml:id="A.II.9_lb_14v_10"
-                     facs="#A.II.9_line_14v_10"/>miel eportaly vendando la perle chontrade datorno
-                     <lb n="11" xml:id="A.II.9_lb_14v_11" facs="#A.II.9_line_14v_11"/>ingranda
-                  Abondancia <reg>.</reg></seg>
+               	<lb n="8" xml:id="A.II.9_lb_14v_08" facs="#A.II.9_line_14v_08"/><reg>[8] </reg><choice>
+               		<orig>elly</orig>
+               		<reg>Elly</reg>
+               	</choice> li<reg>&#173; </reg>taiano atorno chomo se<reg>&#173; </reg>fa le<reg>&#173; </reg>cuche da<reg>&#173; </reg>salvar<reg>,</reg> <lb n="9"
+               		xml:id="A.II.9_lb_14v_09" facs="#A.II.9_line_14v_09"/>e<reg>&#173; </reg>puo<reg>'</reg> si<reg>&#173; </reg>li<reg>&#173; </reg>mete a<reg>&#173; </reg>sechar
+               	al<reg>&#173; </reg>sol e<reg>&#173; </reg>deventano dolce chomo <lb n="10" xml:id="A.II.9_lb_14v_10"
+               		facs="#A.II.9_line_14v_10"/>miel<reg>;</reg> e<reg>&#173; </reg>porta<reg>-</reg>ly vendando <choice>
+               			<orig>la</orig>
+               			<reg>là</reg>
+               		</choice> per<reg>&#173; </reg>le chontrade d<reg>'</reg>atorno
+               	<lb n="11" xml:id="A.II.9_lb_14v_11" facs="#A.II.9_line_14v_11"/>in<reg>&#173; </reg>granda
+                  <choice>
+                  	<orig>Abondancia</orig>
+                  	<reg>abondancia</reg>
+                  </choice><reg>.</reg></seg>
                <seg n="9">
-                  <reg>[9] </reg>esie asay venasone debestie <lb n="12" xml:id="A.II.9_lb_14v_12"
-                     facs="#A.II.9_line_14v_12"/>ede oselly oltra modo <reg>.</reg></seg>
+               	<reg>[9] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg>si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> asay venasone de<reg>&#173; </reg>bestie <lb n="12" xml:id="A.II.9_lb_14v_12"
+               		facs="#A.II.9_line_14v_12"/>e<reg>&#173; </reg>de oselly oltra modo<reg>.</reg></seg>
             </p>
          </div>
          <div type="chapter" n="21" xml:id="VA31_VAvi.21">
