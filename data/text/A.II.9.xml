@@ -12296,87 +12296,222 @@
                      </choice> de<reg>&#173; </reg>fuora
                	dalo<reg>&#173; </reg>cardino<reg>.</reg></seg>
                <seg n="21">
-                  <reg>[21] </reg>equando eli erano <lb n="9" xml:id="A.II.9_lb_13v_09"
-                     facs="#A.II.9_line_13v_09"/>desedady trovavese fuora delo cardino et eli e <lb
-                     n="10" xml:id="A.II.9_lb_13v_10" facs="#A.II.9_line_13v_10"/>rano molto dolenty
+               	<reg>[21] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg>quando eli erano <lb n="9" xml:id="A.II.9_lb_13v_09"
+                     facs="#A.II.9_line_13v_09"/>desedady<reg></reg> trovave<reg>-</reg>se fuora delo cardino et eli 
+               	<choice>
+               		<orig>e<lb n="10" xml:id="A.II.9_lb_13v_10_orig" facs="#A.II.9_line_13v_10_orig"/>rano</orig>
+               		<reg>erano<lb n="10" xml:id="A.II.9_lb_13v_10_reg" facs="#A.II.9_line_13v_10_reg"/></reg>
+               	</choice> molto dolenty
                   e avevano gra voluntade de <lb n="11" xml:id="A.II.9_lb_13v_11"
-                     facs="#A.II.9_line_13v_11"/>tornare in quelo paradiso <reg>.</reg></seg>
+                     facs="#A.II.9_line_13v_11"/>tornare in quelo paradiso<reg>.</reg></seg>
                <seg n="22">
-                  <reg>[22] </reg>eli sise incenochiava <lb n="12" xml:id="A.II.9_lb_13v_12"
-                     facs="#A.II.9_line_13v_12"/>no davanty dal <term ref="#viel">vechio</term> et
-                  elo domandavano d<g ref="#omacr"/>
-                  <lb n="13" xml:id="A.II.9_lb_13v_13" facs="#A.II.9_line_13v_13"/>de cheli veniano
-                  ely disevano tuto quelo che <lb n="14" xml:id="A.II.9_lb_13v_14"
-                     facs="#A.II.9_line_13v_14"/>li aveva trovado ladentro eli altry che n<g
-                     ref="#omacr"/>ge <lb n="15" xml:id="A.II.9_lb_13v_15"
-                     facs="#A.II.9_line_13v_15"/>iera may stady aveano grado desiderio de an <lb
-                     n="16" xml:id="A.II.9_lb_13v_16" facs="#A.II.9_line_13v_16"/>dare aquelo
-                  paradiso segondo che disea lalece <lb n="17" xml:id="A.II.9_lb_13v_17"
-                     facs="#A.II.9_line_13v_17"/>de<persName ref="#maomet">machometo</persName>
-                  <reg>.</reg></seg>
+                  <reg>[22] </reg><choice>
+                  	<orig>eli</orig>
+                  	<reg>Eli</reg>
+                  </choice> <choice>
+                  	<orig>si</orig>
+                  	<reg>sì</reg>
+                  </choice><reg>&#173; </reg>se 
+               	<choice>
+               		<orig>incenochiava<lb n="12" xml:id="A.II.9_lb_13v_12_orig" facs="#A.II.9_line_13v_12_orig"/>no</orig>
+               		<reg>incenochiavano<lb n="12" xml:id="A.II.9_lb_13v_12_reg" facs="#A.II.9_line_13v_12_reg"/></reg>
+               	</choice> davanty dal <term ref="#viel"><choice>
+               			<orig>vechio</orig>
+               			<reg>Vechio</reg>
+               	</choice></term> et
+                  elo <choice>
+                  	<sic>domandavano</sic>
+                  	<corr>domandava{no}</corr>
+                  </choice> 
+               	<choice>
+               		<orig><abbr>d<am><g ref="#omacr"/></am><lb n="13" xml:id="A.II.9_lb_13v_13_orig" facs="#A.II.9_line_13v_13_orig"/>de</abbr></orig>
+               		<reg><expan>d<g ref="#omacr"/><ex>n</ex>de</expan><lb n="13" xml:id="A.II.9_lb_13v_13_reg" facs="#A.II.9_line_13v_13_reg"/></reg>
+               	</choice> ch<reg>'</reg>eli <choice>
+               		<orig>veniano</orig>
+               		<reg>venìano</reg>
+               	</choice><reg>.</reg></seg>
                <seg n="23">
-                  <reg>[23] </reg>ely diseano tuto quello cheli aveva <lb n="18"
-                     xml:id="A.II.9_lb_13v_18" facs="#A.II.9_line_13v_18"/>trovato ladentro
-                     <reg>.</reg></seg>
+            		<reg>[23] </reg><choice>
+            			<orig>ely</orig>
+            			<reg>Ely</reg>
+            		</choice> disevano tuto quelo 
+            		ch<reg>'</reg><choice>
+            			<orig>e<lb n="14" xml:id="A.II.9_lb_13v_14_orig" facs="#A.II.9_line_13v_14_orig"/>li</orig>
+            			<reg>eli<lb n="14" xml:id="A.II.9_lb_13v_14_reg" facs="#A.II.9_line_13v_14_reg"/></reg>
+            		</choice> aveva trovado <choice>
+            			<orig>la</orig>
+            			<reg>là</reg>
+            		</choice><reg>&#173; </reg>dentro<reg>.</reg>
+            	</seg> 
                <seg n="24">
-                  <reg>[24] </reg>elialtry che nogerano may sta <lb n="19" xml:id="A.II.9_lb_13v_19"
-                     facs="#A.II.9_line_13v_19"/>dy aveano gran disiderio de andare aquelo pa <lb
-                     n="20" xml:id="A.II.9_lb_13v_20" facs="#A.II.9_line_13v_20"/>radiso
-                  edesideraveno molto de aver morte per <lb n="21" xml:id="A.II.9_lb_13v_21"
-                     facs="#A.II.9_line_13v_21"/>andarge <reg>.</reg></seg>
+            		<reg>[24] </reg><choice>
+            			<orig>e</orig>
+            			<reg>E</reg>
+            	</choice><reg>&#173; </reg>li altry<reg>,</reg> che 
+            		<choice>
+            			<abbr>n<am><g ref="#omacr"/></am></abbr>
+            			<expan>n<g ref="#omacr"/><ex>n</ex></expan>
+            		</choice><reg>&#173; </reg>ge <lb n="15" xml:id="A.II.9_lb_13v_15"
+            			facs="#A.II.9_line_13v_15"/>iera may stady<reg>,</reg> aveano gra<reg><supplied>‹n›</supplied></reg>do desiderio de 
+            		<choice>
+            			<orig>an<lb n="16" xml:id="A.II.9_lb_13v_16_orig" facs="#A.II.9_line_13v_16_orig"/>dare</orig>
+            			<reg>andare<lb n="16" xml:id="A.II.9_lb_13v_16_reg" facs="#A.II.9_line_13v_16_reg"/></reg>
+            		</choice> a<reg>&#173; </reg>quelo
+            		paradiso segondo che disea la<reg>&#173; </reg>lece <lb n="17" xml:id="A.II.9_lb_13v_17"
+            			facs="#A.II.9_line_13v_17"/>de<reg>&#173; </reg><persName ref="#maomet"><choice>
+            					<orig>machometo</orig>
+            					<reg>Machometo</reg>
+            			</choice></persName> <choice>
+                  	<sic>e diseano tuto quello cheli aveva 
+                  		<lb n="18" xml:id="A.II.9_lb_13v_18_sic" facs="#A.II.9_line_13v_18_sic"/>trovato ladentro elialtry che nogerano may sta 
+                  		<lb n="19" xml:id="A.II.9_lb_13v_19_sic" facs="#A.II.9_line_13v_19_sic"/>dy aveano gran disiderio de andare aquelo pa 
+                  		<lb n="20" xml:id="A.II.9_lb_13v_20_sic" facs="#A.II.9_line_13v_20_sic"/>radiso
+                  	</sic>
+                  	<corr>{e diseano tuto quello cheli aveva
+                  		<lb n="18" xml:id="A.II.9_lb_13v_18_corr" facs="#A.II.9_line_13v_18_corr"/>trovato là dentro. E li altry, che no g’erano may stady,
+                  		<lb n="19" xml:id="A.II.9_lb_13v_19_corr" facs="#A.II.9_line_13v_19_corr"/>aveano gran disiderio de andare a quelo paradiso}; 
+                  		<lb n="20" xml:id="A.II.9_lb_13v_20_corr" facs="#A.II.9_line_13v_20_corr"/></corr>
+            			</choice> e<reg>&#173; </reg>desideraveno molto de aver morte per <lb n="21" xml:id="A.II.9_lb_13v_21"
+                     facs="#A.II.9_line_13v_21"/>andar<reg>-</reg>ge<reg>.</reg>
+            	</seg>
                <seg n="25">
-                  <reg>[25] </reg>Equando lo<term ref="#viel">vechio</term> voleva far alcid<g
-                     ref="#etilde"/>
-                  <lb n="22" xml:id="A.II.9_lb_13v_22" facs="#A.II.9_line_13v_22"/>al guno gran
-                  signor elo provava licoveny <lb n="23" xml:id="A.II.9_lb_13v_23"
-                     facs="#A.II.9_line_13v_23"/>che Erano stadi inparadiso inquesto muodo e <lb
-                     n="24" xml:id="A.II.9_lb_13v_24" facs="#A.II.9_line_13v_24"/>lo mandava plusor
-                  de queli perla chontrada <lb n="25" xml:id="A.II.9_lb_13v_25"
-                     facs="#A.II.9_line_13v_25"/>no molto dalonci echomandava che Eli alci <lb
-                     n="26" xml:id="A.II.9_lb_13v_26" facs="#A.II.9_line_13v_26"/>deseno alchuno
-                  homo quelli devisava <reg>.</reg></seg>
+               	<reg>[25] </reg>E<reg>&#173; </reg>quando lo<term ref="#viel"><choice>
+               			<orig>vechio</orig>
+               			<reg>Vechio</reg>
+               	</choice></term> voleva far 
+               	<choice>
+               		<abbr>alcid<am><g ref="#etilde"/></am></abbr>
+               		<expan>alcid<g ref="#etilde"/><ex>r</ex></expan>
+               	</choice>
+               	<lb n="22" xml:id="A.II.9_lb_13v_22" facs="#A.II.9_line_13v_22"/>al<orig>&#173; </orig>guno gran
+               	signor<reg>,</reg> elo provava li<reg>&#173; </reg>coveny <lb n="23" xml:id="A.II.9_lb_13v_23"
+                     facs="#A.II.9_line_13v_23"/>che <choice>
+                     	<orig>Erano</orig>
+                     	<reg>erano</reg>
+                     </choice> stadi in<reg>&#173; </reg>paradiso<reg>,</reg> in<reg>&#173; </reg>questo muodo<reg>:</reg> 
+               	<choice>
+               		<orig>e<lb n="24" xml:id="A.II.9_lb_13v_24_orig" facs="#A.II.9_line_13v_24_orig"/>lo</orig>
+               		<reg>elo<lb n="24" xml:id="A.II.9_lb_13v_24_reg" facs="#A.II.9_line_13v_24_reg"/></reg>
+               	</choice> mandava plusor
+               	de queli per<reg>&#173; </reg>la chontrada <lb n="25" xml:id="A.II.9_lb_13v_25"
+               		facs="#A.II.9_line_13v_25"/>no molto da<reg>&#173; </reg>lonci<reg>,</reg> e<reg>&#173; </reg>chomandava che <choice>
+               			<orig>Eli</orig>
+               			<reg>eli</reg>
+               		</choice> <choice>
+               			<orig>alci<lb n="26" xml:id="A.II.9_lb_13v_26_orig" facs="#A.II.9_line_13v_26_orig"/>deseno</orig>
+               			<reg>alcideseno<lb n="26" xml:id="A.II.9_lb_13v_26_reg" facs="#A.II.9_line_13v_26_reg"/></reg>
+               		</choice> alchuno
+                  homo quelli devisava<reg>.</reg></seg>
                <seg n="26">
-                  <reg>[26] </reg>eman <lb n="27" xml:id="A.II.9_lb_13v_27"
-                     facs="#A.II.9_line_13v_27"/>davali driedo quando elli andavano alchuno <lb
-                     n="28" xml:id="A.II.9_lb_13v_28" facs="#A.II.9_line_13v_28"/>sechreta mente che
+               	<reg>[26] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg><choice>
+               		<orig>man<lb n="27" xml:id="A.II.9_lb_13v_27_orig" facs="#A.II.9_line_13v_27_orig"/>davali</orig>
+               		<reg>mandava-li<lb n="27" xml:id="A.II.9_lb_13v_27_reg" facs="#A.II.9_line_13v_27_reg"/></reg>
+               	</choice> driedo<reg>,</reg> quando elli andavano<reg></reg> alchuno <lb
+               		n="28" xml:id="A.II.9_lb_13v_28" facs="#A.II.9_line_13v_28"/>sechreta<orig>&#173; </orig>mente che
                   chonsiderase qual fose plu <lb n="29" xml:id="A.II.9_lb_13v_29"
-                     facs="#A.II.9_line_13v_29"/>valente Eplu ardito <reg>.</reg></seg>
+                  	facs="#A.II.9_line_13v_29"/>valente <choice>
+                  		<orig>E</orig>
+                  		<reg>e</reg>
+                  	</choice><reg>&#173; </reg>plu ardito<reg>.</reg></seg>
                <seg n="27">
-                  <reg>[27] </reg>echolor andavano e alci <lb n="30" xml:id="A.II.9_lb_13v_30"
-                     facs="#A.II.9_line_13v_30"/>deva qulo homo e alafiada era Alguno delo <lb
-                     n="31" xml:id="A.II.9_lb_13v_31" facs="#A.II.9_line_13v_31"/>ro preso emorto
-                     <reg>.</reg></seg>
+               	<reg>[27] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg>cholor andavano e 
+               	<choice>
+               		<orig>alci<lb n="30" xml:id="A.II.9_lb_13v_30_orig" facs="#A.II.9_line_13v_30_orig"/>deva</orig>
+               		<reg>alcideva<lb n="30" xml:id="A.II.9_lb_13v_30_reg" facs="#A.II.9_line_13v_30_reg"/></reg>
+               	</choice> qu<reg><supplied>‹e›</supplied></reg>lo homo<reg>,</reg> e ala<reg>&#173; </reg>fiada era <choice>
+               		<orig>Alguno</orig>
+               		<reg>alguno</reg>
+               	</choice> de<reg>&#173; </reg><choice>
+               		<orig>lo<lb n="31" xml:id="A.II.9_lb_13v_31_orig" facs="#A.II.9_line_13v_31_orig"/>ro</orig>
+               		<reg>loro<lb n="31" xml:id="A.II.9_lb_13v_31_reg" facs="#A.II.9_line_13v_31_reg"/></reg>
+               	</choice> preso e<reg>&#173; </reg>morto<reg>.</reg></seg>
                <seg n="28">
-                  <reg>[28] </reg>queli che scanpava torna <!-- ##### FOLIO 14r ##### -->
+                  <reg>[28] </reg><choice>
+                  	<orig>queli</orig>
+                  	<reg>Queli</reg>
+                  </choice> che scanpava torna<reg><supplied>‹va›</supplied></reg> <!-- ##### FOLIO 14r ##### -->
                   <pb n="14r" xml:id="A.II.9_fol_14r"/>
-                  <lb n="1" xml:id="A.II.9_lb_14r_01" facs="#A.II.9_line_14r_01"/>adir lofato al
-                     <term ref="#viel">vechio</term> et alora saveva chi eran <lb n="2"
+               	<lb n="1" xml:id="A.II.9_lb_14r_01" facs="#A.II.9_line_14r_01"/>a<reg>&#173; </reg>dir lo<reg>&#173; </reg>fato al
+                     <term ref="#viel"><choice>
+                     		<orig>vechio</orig>
+                     		<reg>Vechio</reg>
+                     </choice></term><reg>,</reg> et alora saveva chi eran <lb n="2"
                      xml:id="A.II.9_lb_14r_02" facs="#A.II.9_line_14r_02"/>mior per alcider homeny
                   segondo che plasea <lb n="3" xml:id="A.II.9_lb_14r_03" facs="#A.II.9_line_14r_03"
-                  />aluy <reg>.</reg></seg>
+                  />a<reg>&#173; </reg>luy<reg>.</reg></seg>
                <seg n="29">
-                  <reg>[29] </reg>efaseva chreder ali <term ref="#asciscin">asasiny</term> che seli
-                  mo <lb n="4" xml:id="A.II.9_lb_14r_04" facs="#A.II.9_line_14r_04"/>rivano inquela
-                  obediencia cheli andavano <lb n="5" xml:id="A.II.9_lb_14r_05"
-                     facs="#A.II.9_line_14r_05"/>inparadiso siche per lagranda voluntade che <lb
+               	<reg>[29] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg>faseva chreder ali <term ref="#asciscin"><choice>
+               			<orig>asasiny</orig>
+               			<reg>Asasiny</reg>
+               	</choice></term> che s<reg>'</reg>eli
+                  <choice>
+                  	<orig>mo<lb n="4" xml:id="A.II.9_lb_14r_04_orig" facs="#A.II.9_line_14r_04_orig"/>rivano</orig>
+                  	<reg>morivano<lb n="4" xml:id="A.II.9_lb_14r_04_reg" facs="#A.II.9_line_14r_04_reg"/></reg>
+                  </choice> in<reg>&#173; </reg>quela
+                  obediencia ch<reg>'</reg>eli andavano <lb n="5" xml:id="A.II.9_lb_14r_05"
+                  	facs="#A.II.9_line_14r_05"/>in<reg>&#173; </reg>paradiso<reg>,</reg> <choice>
+                  		<orig>si</orig>
+                  		<reg>sì</reg>
+                  	</choice><reg>&#173; </reg>che per la<reg>&#173; </reg>granda voluntade che <lb
                      n="6" xml:id="A.II.9_lb_14r_06" facs="#A.II.9_line_14r_06"/>elli aveano
-                  detornar inparadiso el nonpodeva <lb n="7" xml:id="A.II.9_lb_14r_07"
-                     facs="#A.II.9_line_14r_07"/>schanpar nesun che non fose morto
-                  <reg>.</reg></seg>
+               	de<reg>&#173; </reg>tornar in<reg>&#173; </reg>paradiso<reg>,</reg> el non<reg>&#173; </reg>podeva <lb n="7" xml:id="A.II.9_lb_14r_07"
+                     facs="#A.II.9_line_14r_07"/>schanpar nesun che non fose morto<reg>.</reg></seg>
                <seg n="30">
-                  <reg>[30] </reg>eli non <lb n="8" xml:id="A.II.9_lb_14r_08"
-                     facs="#A.II.9_line_14r_08"/>fasevano forca seli ierano morty <reg>.</reg></seg>
+                  <reg>[30] </reg><choice>
+                  	<orig>eli</orig>
+                  	<reg>Eli</reg>
+                  </choice> non <lb n="8" xml:id="A.II.9_lb_14r_08"
+                     facs="#A.II.9_line_14r_08"/>fasevano forca s<reg>'</reg>eli ierano morty<reg>.</reg></seg>
                <seg n="31">
-                  <reg>[31] </reg>esive digo <lb n="9" xml:id="A.II.9_lb_14r_09"
-                     facs="#A.II.9_line_14r_09"/>che plusor Re etbarony lifasevano trabuto <g
-                     ref="#pbardes"/>
-                  <lb n="10" xml:id="A.II.9_lb_14r_10" facs="#A.II.9_line_14r_10"/>star ben chonluy
-                  per paura chel noli fese al <lb n="11" xml:id="A.II.9_lb_14r_11"
-                     facs="#A.II.9_line_14r_11"/>ider <reg>.</reg></seg>
+               	<reg>[31] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg><choice>
+               		<orig>si</orig>
+               		<reg>sì</reg>
+               	</choice><reg>&#173; </reg>ve digo <lb n="9" xml:id="A.II.9_lb_14r_09"
+                     facs="#A.II.9_line_14r_09"/>che plusor <choice>
+                     	<orig>Re</orig>
+                     	<reg>re</reg>
+                     </choice> et<reg>&#173; </reg>barony li<reg>&#173; </reg>fasevano trabuto 
+               	<choice>
+               		<abbr><am><g ref="#pbardes"/></am></abbr>
+               		<expan><g ref="#pbardes"/><ex>er</ex></expan>
+               	</choice>
+               	<lb n="10" xml:id="A.II.9_lb_14r_10" facs="#A.II.9_line_14r_10"/>star ben chon<reg>&#173; </reg>luy<reg>,</reg>
+               	per paura ch<reg>'</reg>el no<reg>&#173; </reg>li fese 
+               	<choice>
+               		<orig>al<lb n="11" xml:id="A.II.9_lb_14r_11_orig" facs="#A.II.9_line_14r_11_orig"/>ider</orig>
+               		<reg>alcider<reg>.</reg><lb n="11" xml:id="A.II.9_lb_14r_11_reg" facs="#A.II.9_line_14r_11_reg"/></reg>
+               	</choice></seg>
                <seg n="32">
-                  <reg>[32] </reg>ora Avemo chontado del <term ref="#viel">vechio</term> dale m <lb
-                     n="12" xml:id="A.II.9_lb_14r_12" facs="#A.II.9_line_14r_12"/>ontagne mo vevoio
-                  dir dela soa destrucion <reg>.</reg></seg>
+                  <reg>[32] </reg><choice>
+                  	<orig>ora</orig>
+                  	<reg>Ora</reg>
+                  </choice> <choice>
+                  	<orig>Avemo</orig>
+                  	<reg>avemo</reg>
+                  </choice> chontado del <term ref="#viel"><choice>
+                  		<orig>vechio</orig>
+                  		<reg>Vechio</reg>
+                  </choice></term> dale 
+               	<choice>
+               		<orig>m<lb n="12" xml:id="A.II.9_lb_14r_12_orig" facs="#A.II.9_line_14r_12_orig"/>ontagne</orig>
+               		<reg>montagne<reg>,</reg><lb n="12" xml:id="A.II.9_lb_14r_12_reg" facs="#A.II.9_line_14r_12_reg"/></reg>
+               	</choice> mo<reg>'</reg> ve<reg>&#173; </reg>voio
+                  dir dela soa destrucion<reg>.</reg></seg>
             </p>
          </div>
          <div type="chapter" n="19" xml:id="VA29_VAvi.19">
