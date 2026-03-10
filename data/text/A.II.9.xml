@@ -10624,13 +10624,28 @@
                	</choice> l<reg>'</reg>omo <choice>
                		<orig>a</orig>
                		<reg>à</reg>
-               	</choice><reg>&#173; </reg>chavalchato do <term ref="#journee">cornate</term><reg>,</reg> El truo <lb
-                     n="17" xml:id="A.II.9_lb_10r_17" facs="#A.II.9_line_10r_17"/>va <placeName
-                     ref="#merOsiane">lomare ociano</placeName> esula riva del mar sie una <lb
-                     n="18" xml:id="A.II.9_lb_10r_18" facs="#A.II.9_line_10r_18"/>citade che apelada
-                     <placeName ref="#curmos">Cormos</placeName> laqual sia bono p<g ref="#otilde"/>
-                  <lb n="19" xml:id="A.II.9_lb_10r_19" facs="#A.II.9_line_10r_19"/>to
-                  <reg>.</reg></seg>
+               	</choice><reg>&#173; </reg>chavalchato do <term ref="#journee">cornate</term><reg>,</reg> <choice>
+               		<orig>El</orig>
+               		<reg>el</reg>
+               	</choice> <choice>
+               		<orig>truo<lb n="17" xml:id="A.II.9_lb_10r_17_orig" facs="#A.II.9_line_10r_17_orig"/>va</orig>
+               		<reg>truova<lb n="17" xml:id="A.II.9_lb_10r_17_reg" facs="#A.II.9_line_10r_17_reg"/></reg>
+               	</choice> lo<reg>&#173; </reg><placeName ref="#merOsiane"><choice>
+               			<orig>mare ociano</orig>
+               			<reg>Mare Ociano</reg>
+               	</choice><reg>;</reg></placeName> e<reg>&#173; </reg>sula riva del mar si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> una <lb
+                     n="18" xml:id="A.II.9_lb_10r_18" facs="#A.II.9_line_10r_18"/>citade ch<reg>'</reg><choice><orig>e</orig><reg>è</reg></choice> apelada
+               	<placeName ref="#curmos">Cormos<reg>,</reg></placeName> la<reg>&#173; </reg>qual si<reg>&#173; </reg><choice>
+               		<orig>a</orig>
+               		<reg>à</reg>
+               	</choice> bono 
+               	<choice>
+               		<orig><abbr>p<am><g ref="#otilde"/></am><lb n="19" xml:id="A.II.9_lb_10r_19_orig" facs="#A.II.9_line_10r_19_orig"/>to</abbr></orig>
+               		<reg><expan>p<g ref="#otilde"/><ex>r</ex>to<reg>.</reg></expan><lb n="19" xml:id="A.II.9_lb_10r_19_reg" facs="#A.II.9_line_10r_19_reg"/></reg>
+               	</choice></seg>
                <seg n="6">
                   <reg>[6] </reg>evinge limarchadanti de <placeName ref="#ynde">india</placeName>
                   chonlesuo <lb n="20" xml:id="A.II.9_lb_10r_20" facs="#A.II.9_line_10r_20"/>nave
