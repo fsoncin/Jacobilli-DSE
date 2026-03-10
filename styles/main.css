@@ -6338,14 +6338,14 @@ span.quote {
 .interpretativeEdition .del:after {
     content: "]]"
 }
-
+/*
 .interpretativeEdition .add:before {
-    content: "|"
+    content: ""
 }
 
 .interpretativeEdition .add:after {
-    content: "|"
-}
+    content: ""
+}  */
 
 .highlight {
     border: 1px solid #4c2f2f;
