@@ -11495,33 +11495,103 @@
                   facs="#A.II.9_line_12r_13"/>
                <seg n="1">
                   <reg>[1] </reg>
-                  <hi rend="init3.1">C</hi>
-                  <placeName ref="#cobinan">Obinan</placeName> sie una citade molto granda lacente
-                     <lb n="14" xml:id="A.II.9_lb_12r_14" facs="#A.II.9_line_12r_14"/>
-                  <reg>.</reg></seg>
-               <seg n="2">
-                  <reg>[2] </reg>lacente si adora <persName ref="#maomet">machometo</persName>
-                  <reg>.</reg></seg>
+               	<placeName ref="#cobinan"><choice>
+               			<orig><hi rend="init3.1">C</hi>Obinan</orig>
+               			<reg><hi rend="init3.1">C</hi>obinan</reg>
+               	</choice></placeName> si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> una citade molto granda<reg>.</reg></seg> 
+            	<seg n="2"><reg>[2] </reg><choice>
+            			<orig>la</orig>
+            			<reg>La</reg>
+            	</choice><reg>&#173; </reg>cente
+                     <lb n="14" xml:id="A.II.9_lb_12r_14" facs="#A.II.9_line_12r_14"/><choice>
+                     	<orig>si</orig>
+                     	<reg>sì</reg>
+                     </choice> 
+            		adora <persName ref="#maomet"><choice>
+            				<orig>machometo</orig>
+            				<reg>Machometo</reg>
+            		</choice><reg>.</reg></persName></seg>
                <seg n="3">
-                  <reg>[3] </reg>la sie fero et <term ref="#acer">acalo</term> et anda <lb n="15"
-                     xml:id="A.II.9_lb_12r_15" facs="#A.II.9_line_12r_15"/>nicho asay ela sefa molti
-                  spechi dacal molto belli e <lb n="16" xml:id="A.II.9_lb_12r_16"
-                     facs="#A.II.9_line_12r_16"/>grandy <reg>.</reg></seg>
+                  <reg>[3] </reg><choice>
+                  	<orig>la</orig>
+                  	<reg>Là</reg>
+                  </choice> si<reg>&#173; </reg><choice>
+                  	<orig>e</orig>
+                  	<reg>è</reg>
+                  </choice> fero et <term ref="#acer">acalo</term> et 
+               	<choice>
+               		<orig>anda<lb n="15" xml:id="A.II.9_lb_12r_15_orig" facs="#A.II.9_line_12r_15_orig"/>nicho</orig>
+               		<reg>andanicho<lb n="15" xml:id="A.II.9_lb_12r_15_reg" facs="#A.II.9_line_12r_15_reg"/></reg>
+               	</choice> asay<reg>;</reg> e<reg>&#173; </reg><choice>
+               		<orig>la</orig>
+               		<reg>là</reg>
+               	</choice> se<reg>&#173; </reg>fa molti
+                  spechi d<reg>'</reg>acal molto belli e <lb n="16" xml:id="A.II.9_lb_12r_16"
+                     facs="#A.II.9_line_12r_16"/>grandy<reg>.</reg></seg>
                <seg n="4">
-                  <reg>[4] </reg>ela sefa <term ref="#tutie">tucia</term> che sie bona perli ochy et
-                     <lb n="17" xml:id="A.II.9_lb_12r_17" facs="#A.II.9_line_12r_17"/>anchora segefa
-                     <term ref="#spodio">spudio</term> edirove chomo elli toleno de <lb n="18"
+               	<reg>[4] </reg><choice>
+               		<orig>e</orig>
+               		<reg>E</reg>
+               	</choice><reg>&#173; </reg><choice>
+               		<orig>la</orig>
+               		<reg>là</reg>
+               	</choice> se<reg>&#173; </reg>fa <term ref="#tutie">tucia</term><reg>,</reg> che si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> bona per<reg>&#173; </reg>li ochy<reg>;</reg> et
+               	<lb n="17" xml:id="A.II.9_lb_12r_17" facs="#A.II.9_line_12r_17"/>anchora se<reg>&#173; </reg>ge<reg>&#173; </reg>fa
+               	<term ref="#spodio">spudio</term> e<reg>&#173; </reg><choice>
+               		<orig>diro</orig>
+               		<reg>dir</reg>
+               	</choice><reg>-</reg>ve chomo<reg>:</reg> elli toleno de <lb n="18"
                      xml:id="A.II.9_lb_12r_18" facs="#A.II.9_line_12r_18"/>una tera che inquela
-                  chontra esila mente in una <lb n="19" xml:id="A.II.9_lb_12r_19"
-                     facs="#A.II.9_line_12r_19"/>fornasa de fero ardente <reg>.</reg></seg>
+                  <choice>
+                  	<orig>chontra</orig>
+                  	<reg>chontrà</reg>
+                  </choice> e<reg>&#173; </reg><choice>
+                  	<orig>si</orig>
+                  	<reg>sì</reg>
+                  </choice><reg>&#173; </reg>la <choice>
+                  	<sic>mente</sic>
+                  	<corr>me{n}te</corr>
+                  </choice> in una <lb n="19" xml:id="A.II.9_lb_12r_19"
+                  	facs="#A.II.9_line_12r_19"/>fornasa de fero<note type="corrSim">Banalizzazione per 
+                  		‘fuoco’: cf. VA3 XXVI, 4 fuogo; VA1 3, 4 fogo; VA2 6 om.; 
+                  		VA5 I 27, 4 focho.</note> ardente<reg>.</reg></seg>
                <seg n="5">
-                  <reg>[5] </reg>Edesovra labocha dela fo <lb n="20" xml:id="A.II.9_lb_12r_20"
-                     facs="#A.II.9_line_12r_20"/>rnasa sie una gradela defero <reg>.</reg></seg>
+               	<reg>[5] </reg>E<reg>&#173; </reg>de<reg>&#173; </reg>sovra la<reg>&#173; </reg>bocha dela 
+               	<choice>
+               		<orig>fo<lb n="20" xml:id="A.II.9_lb_12r_20_orig" facs="#A.II.9_line_12r_20_orig"/>rnasa</orig>
+               		<reg>fornasa<lb n="20" xml:id="A.II.9_lb_12r_20_reg" facs="#A.II.9_line_12r_20_reg"/></reg>
+               	</choice> si<reg>&#173; </reg>e una gradela de<reg>&#173; </reg>fero<reg>.</reg></seg>
                <seg n="6">
-                  <reg>[6] </reg>lo vanpor che Ese <lb n="21" xml:id="A.II.9_lb_12r_21"
-                     facs="#A.II.9_line_12r_21"/>de quela tera altra cheroman sie <term
-                     ref="#spodio">spudio</term>
-                  <reg>.</reg></seg>
+                  <reg>[6] </reg><choice>
+                  	<orig>lo</orig>
+                  	<reg>Lo</reg>
+                  </choice> vanpor che <choice>
+                  	<orig>Ese</orig>
+                  	<reg>ese</reg>
+                  </choice> <lb n="21" xml:id="A.II.9_lb_12r_21"
+                  	facs="#A.II.9_line_12r_21"/>de quela tera<reg> ‹…›<note type="corrSim">Cf. VA3 XXVI, 6 Lo 
+                  			vapor che esie de quella tera che s’apicha a 
+                  			quella gradella si è tutia; e quella altra 
+                  			tera che roman in fuogo è el spodio; VA1 3, 6 
+                  			Lo vapore che esse de quella tera che se apica 
+                  			ala gradella si è tucia; e quella altra 
+                  			terra che romane in lo fogo è spodio; VA2 
+                  			6, rr. 5-6 Lo vapore chi èsse de quella 
+                  			terra chi se apicha ala dita gradesella, 
+                  			si è tucia e quella altra chi romane j lo 
+                  			fogo si è spodio; VA5 I 27, 6 Lo vapor che ense 
+                  			de quella terra che se apicha a quella gradella 
+                  			si è tuzia; e quella altra |17v| terra che roman in 
+                  			lo focho si è spondio.</note></reg> altra che<reg>&#173; </reg>roman si<reg>&#173; </reg><choice>
+                  				<orig>e</orig>
+                  				<reg>è</reg>
+                  			</choice> <term ref="#spodio">spudio</term><reg>.</reg></seg>
             </p>
          </div>
          <div type="chapter" n="17" xml:id="VA27_VAvi.17">
