@@ -5958,7 +5958,6 @@ span.quote {
 }
 
 .diplomaticEdition .del {
-    background-color: red;
     text-decoration: line-through
 }
 
@@ -6332,11 +6331,11 @@ span.quote {
 }
 
 .interpretativeEdition .del:before {
-    content: "[["
+    content: ""
 }
 
 .interpretativeEdition .del:after {
-    content: "]]"
+    content: ""
 }
 /*
 .interpretativeEdition .add:before {
