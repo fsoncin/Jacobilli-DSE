@@ -14595,8 +14595,19 @@
                <seg n="1">
                   <reg>[1] </reg>
                   <placeName ref="#cascar">
-                     <hi rend="init3.1">C</hi>Aschar</placeName> fuca regname persi ma mo eno so <lb
-                     n="8" xml:id="A.II.9_lb_17v_08" facs="#A.II.9_line_17v_08"/>to posty al <term
+                     <choice>
+                     	<orig><hi rend="init3.1">C</hi>Aschar</orig>
+                     	<reg><hi rend="init3.1">C</hi>aschar</reg>
+                     </choice></placeName> fu<reg>&#173; </reg><choice>
+                     	<orig>ca</orig>
+                     	<reg>cà</reg>
+                     </choice> regname per<reg>&#173; </reg>si<reg>,</reg> ma mo<reg>'</reg> <choice>
+                     	<orig>eno</orig>
+                     	<reg>èno</reg>
+                     </choice> <choice>
+                     	<orig>so<lb n="8" xml:id="A.II.9_lb_17v_08_orig" facs="#A.II.9_line_17v_08_orig"/>to posty</orig>
+                     	<reg>sotoposty<lb n="8" xml:id="A.II.9_lb_17v_08_reg" facs="#A.II.9_line_17v_08_reg"/></reg>
+                     </choice> al <term
                      ref="#grantKaan">gran chan</term>
                   <reg>.</reg></seg>
                <seg n="2">
