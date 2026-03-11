@@ -13771,41 +13771,127 @@
                   facs="#A.II.9_line_16r_21"/>
                <seg n="1">
                   <reg>[1] </reg>
-                  <hi rend="init3.1">D</hi>Alonci da <placeName ref="#badascian"
-                     >balastia</placeName> .a. x. <term ref="#journee">cornade</term> ver <lb n="22"
-                     xml:id="A.II.9_lb_16r_22" facs="#A.II.9_line_16r_22"/>so <term ref="#midi">meco
-                     di</term> sie una provencia che a <lb n="23" xml:id="A.II.9_lb_16r_23"
-                     facs="#A.II.9_line_16r_23"/>nome <placeName ref="#pasciai">basia</placeName>
-                  esia lenguaco persi <reg>.</reg></seg>
+               	<choice>
+               		<orig><hi rend="init3.1">D</hi>A</orig>
+               		<reg><hi rend="init3.1">D</hi>a</reg>
+               	</choice><reg>&#173; </reg>lonci da <placeName ref="#badascian"
+                     ><choice>
+                     	<orig>balastia</orig>
+                     	<reg>Balastia</reg>
+                     </choice></placeName> <orig>.</orig>a<choice>
+                     	<orig>. x.</orig>
+                     	<reg> .X.</reg>
+                     </choice> <term ref="#journee">cornade</term> <choice>
+                     	<orig>ver<lb n="22" xml:id="A.II.9_lb_16r_22_orig" facs="#A.II.9_line_16r_22_orig"/>so</orig>
+                     	<reg>verso<lb n="22" xml:id="A.II.9_lb_16r_22_reg" facs="#A.II.9_line_16r_22_reg"/></reg>
+                     </choice> <term ref="#midi"><choice>
+                     		<orig>meco di</orig>
+                     		<reg>mecodì</reg>
+                     </choice></term> si<reg>&#173; </reg><choice>
+                     	<orig>e</orig>
+                     	<reg>è</reg>
+                     </choice> una provencia che <choice>
+                     	<orig>a</orig>
+                     	<reg>à</reg>
+                     </choice> <lb n="23" xml:id="A.II.9_lb_16r_23"
+                     facs="#A.II.9_line_16r_23"/>nome <placeName ref="#pasciai"><choice>
+                     		<orig>basia</orig>
+                     		<reg>Basia</reg>
+                     </choice><reg>;</reg></placeName>
+               	e<reg>&#173; </reg><choice>
+               		<orig>si</orig>
+               		<reg>sì</reg>
+               	</choice><reg>&#173; </reg><choice>
+               		<orig>a</orig>
+               		<reg>à</reg>
+               	</choice> lenguaco per<reg>&#173; </reg>si<reg>.</reg></seg>
                <seg n="2">
-                  <reg>[2] </reg>lacente de <lb n="24" xml:id="A.II.9_lb_16r_24"
-                     facs="#A.II.9_line_16r_24"/>laprovencia siadora le<term ref="#ydres"
-                     >idole</term> Esie cente bru <lb n="25" xml:id="A.II.9_lb_16r_25"
-                     facs="#A.II.9_line_16r_25"/>na esisa molto deinchantamento ede arte <lb n="26"
-                     xml:id="A.II.9_lb_16r_26" facs="#A.II.9_line_16r_26"/>de diavoly
-                  <reg>.</reg></seg>
+               	<reg>[2] </reg><choice>
+               		<orig>la</orig>
+               		<reg>La</reg>
+               	</choice><reg>&#173; </reg>cente <choice>
+               		<orig>de<lb n="24" xml:id="A.II.9_lb_16r_24_orig" facs="#A.II.9_line_16r_24_orig"/>la</orig>
+               		<reg>dela<lb n="24" xml:id="A.II.9_lb_16r_24_reg" facs="#A.II.9_line_16r_24_reg"/></reg>
+               	</choice><reg>&#173; </reg>provencia <choice>
+               		<orig>si</orig>
+               		<reg>sì</reg>
+               	</choice><reg>&#173; </reg>adora le<reg>&#173; </reg><term ref="#ydres"
+               		>idole</term> <choice>
+               			<orig>E</orig>
+               			<reg>e</reg>
+               		</choice><reg>&#173; </reg>si<reg>&#173; </reg><choice>
+               			<orig>e</orig>
+               			<reg>è</reg>
+               		</choice> cente <choice>
+               			<orig>bru<lb n="25" xml:id="A.II.9_lb_16r_25_orig" facs="#A.II.9_line_16r_25_orig"/>na</orig>
+               			<reg>bruna<reg>;</reg><lb n="25" xml:id="A.II.9_lb_16r_25_reg" facs="#A.II.9_line_16r_25_reg"/></reg>
+               		</choice> e<reg>&#173; </reg><choice>
+               			<orig>si</orig>
+               			<reg>sì</reg>
+               		</choice><reg>&#173; </reg>sa molto de<reg>&#173; </reg>inchantamento e<reg>&#173; </reg>de arte <lb n="26"
+                     xml:id="A.II.9_lb_16r_26" facs="#A.II.9_line_16r_26"/>de diavoly<reg>.</reg></seg>
                <seg n="3">
-                  <reg>[3] </reg>lihomeny portano cherchi alere <lb n="27" xml:id="A.II.9_lb_16r_27"
-                     facs="#A.II.9_line_16r_27"/>chie d<term ref="#or">oro</term> ed<term
-                     ref="#arjent">arcento</term> ede<term ref="#perles">perle</term> ede piere pre
-                     <lb n="28" xml:id="A.II.9_lb_16r_28" facs="#A.II.9_line_16r_28"/>ciose
-                     <reg>.</reg></seg>
+               	<reg>[3] </reg><choice>
+               		<orig>li</orig>
+               		<reg>Li</reg>
+               	</choice><reg>&#173; </reg>homeny portano cherchi ale<reg>&#173; </reg><choice>
+               		<orig>re<lb n="27" xml:id="A.II.9_lb_16r_27_orig" facs="#A.II.9_line_16r_27_orig"/>chie</orig>
+               		<reg>rechie<reg>,</reg><lb n="27" xml:id="A.II.9_lb_16r_27_reg" facs="#A.II.9_line_16r_27_reg"/></reg>
+               	</choice> d<reg>'</reg><term ref="#or">oro</term> e<reg>&#173; </reg>d<reg>'</reg><term
+               		ref="#arjent">arcento</term> e<reg>&#173; </reg>de<reg>&#173; </reg><term ref="#perles">perle</term> e<reg>&#173; </reg>de piere 
+               	<choice>
+               		<orig>pre<lb n="28" xml:id="A.II.9_lb_16r_28_orig" facs="#A.II.9_line_16r_28_orig"/>ciose</orig>
+               		<reg>preciose<reg>.</reg><lb n="28" xml:id="A.II.9_lb_16r_28_reg" facs="#A.II.9_line_16r_28_reg"/></reg>
+               	</choice>
+               	</seg>
                <seg n="4">
-                  <reg>[4] </reg>Esie cente molto maliciosa eschaltria <lb n="29"
-                     xml:id="A.II.9_lb_16r_29" facs="#A.II.9_line_16r_29"/>segondo lesuo usance
-                     <reg>.</reg></seg>
+               	<reg>[4] </reg>E<reg>&#173; </reg>si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> cente molto maliciosa e<reg>&#173; </reg>schaltria <lb n="29"
+               		xml:id="A.II.9_lb_16r_29" facs="#A.II.9_line_16r_29"/>segondo le<reg>&#173; </reg>suo<reg>'</reg> usance<reg>.</reg></seg>
                <seg n="5">
-                  <reg>[5] </reg>loluogo sie molto ch <lb n="30" xml:id="A.II.9_lb_16r_30"
-                     facs="#A.II.9_line_16r_30"/>aldo <reg>.</reg></seg>
+               	<reg>[5] </reg><choice>
+               		<orig>lo</orig>
+               		<reg>Lo</reg>
+               	</choice><reg>&#173; </reg>luogo si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> molto <choice>
+               		<orig>ch<lb n="30" xml:id="A.II.9_lb_16r_30_orig" facs="#A.II.9_line_16r_30_orig"/>aldo</orig>
+               		<reg>chaldo<reg>.</reg><lb n="30" xml:id="A.II.9_lb_16r_30_reg" facs="#A.II.9_line_16r_30_reg"/></reg>
+               	</choice></seg>
                <seg n="6">
-                  <reg>[6] </reg>lalor vita sie chane E<term ref="#rixo">rixy</term>
-                  <reg>.</reg></seg>
+               	<reg>[6] </reg><choice>
+               		<orig>la</orig>
+               		<reg>La</reg>
+               	</choice><reg>&#173; </reg>lor vita si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> cha<reg><supplied>‹r›</supplied></reg>ne <choice>
+               		<orig>E</orig>
+               		<reg>e</reg>
+               	</choice><reg>&#173; </reg><term ref="#rixo">rixy</term><reg>.</reg></seg>
                <seg n="7">
-                  <reg>[7] </reg>or vech<g ref="#omacr"/>tero <lb n="31" xml:id="A.II.9_lb_16r_31"
-                     facs="#A.II.9_line_16r_31"/>de <placeName ref="#kesimur">chesimur</placeName>
-                  chesie .vii. <term ref="#journee">cornade</term> verso <term ref="#yseloc"
-                     >sirocho</term>
-                  <reg>.</reg></seg>
+                  <reg>[7] </reg><choice>
+                  	<orig>or</orig>
+                  	<reg>Or</reg>
+                  </choice> ve<reg>&#173; </reg><choice>
+                  	<abbr>ch<am><g ref="#omacr"/></am>tero</abbr>
+                  	<expan>ch<g ref="#omacr"/><ex>n</ex>terò</expan>
+                  </choice> <lb n="31" xml:id="A.II.9_lb_16r_31"
+                     facs="#A.II.9_line_16r_31"/>de <placeName ref="#kesimur"><choice>
+                     		<orig>chesimur</orig>
+                     		<reg>Chesimur</reg>
+                     </choice><reg>,</reg></placeName>
+               	che<reg>&#173; </reg>si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> <choice>
+               		<orig>.vii.</orig>
+               		<reg>.VII.</reg>
+               	</choice> <term ref="#journee">cornade</term> verso <term ref="#yseloc"
+                     >sirocho</term><reg>.</reg></seg>
             </p>
          </div>
          <!-- ##### FOLIO 16v ##### -->
