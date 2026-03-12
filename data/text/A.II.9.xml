@@ -429,6 +429,9 @@
          				[PhD diss.].
          				<publisher>University of Los Angeles</publisher>, UMI.
          			</bibl>
+         		<bibl xml:id="eusebi-burgio2018">
+         			Eusebi, M.; Burgio, E. (a cura di) (2018). 
+         		</bibl>
          		<bibl xml:id="folena1990">
          				<author><surname>Folena</surname>, <forename>G.</forename></author>
          				(<date>1990</date>).
@@ -5834,154 +5837,360 @@
    <text n="Devisement dou Monde" type="prose" xml:id="DEDM">
    	<!-- numeri per apici:  VA¹ VA² VA³ VA⁴ VA⁵ VA⁶ VA⁷ VA⁸ VA⁹  -->
       <front>
-         <div type="title">
+      	<div type="title">
          	<head><seg rend="italic">«Milione settentrionale». Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9</seg> 
          		<seg>(a cura di Samuela Simion. Cura editoriale digitale di Marina Buzzoni, Giulia Fabbris, Fabio Soncin
          			Venezia: ECF – Edizioni Ca’ Foscari / Venice University Press, 2026)</seg></head>
          </div>
-      	<div type="p1">
+      	<div type="p1" xml:lang="it">
       		<head>Il progetto</head>
       		<p>
-      			L’edizione digitale offre per la prima volta il testo del manoscritto 
-      			A.II.9 della Biblioteca «Lodovico Jacobilli» di Foligno, relatore di
-      			una recensione fino ad ora mai studiata del <seg rend="italic">Devisement dou monde</seg>. 
-      			Si tratta di una delle copie (VA6) che conservano la versione in
-      			volgare settentrionale italiano che fu il principale vettore di
-      			diffusione dell’opera in Europa tra Medioevo ed età moderna. 
+      			L’edizione digitale offre per la prima volta il testo del manoscritto A.II.9 della Biblioteca «Lodovico Jacobilli» di Foligno, relatore di una recensione fino ad ora mai studiata del <seg rend="italic">Devisement dou monde</seg>. Si tratta di una delle copie (VA⁶) che conservano la versione in volgare settentrionale italiano che fu il principale vettore di diffusione dell’opera in Europa tra Medioevo ed età moderna. 
       		</p>
       		<p>
-      			L’edizione mette a disposizione una riproduzione ad alta definizione 
-      			dell’intero manoscritto, affiancata dalla trascrizione diplomatica 
-      			del testo e dalla sua edizione interpretativa, accompagnate da un essenziale 
-      			commento filologico.
+      			L’edizione mette a disposizione una riproduzione ad alta definizione dell’intero manoscritto, affiancata dalla trascrizione diplomatica del testo e dalla sua edizione interpretativa, accompagnate da un essenziale commento filologico.
       		</p>
       		<p>
       			La storia del manoscritto è piuttosto singolare: sebbene la sua esistenza 
-      			fosse nota dal 1930 (nell’<seg rend="italic"><ref target="#mazzatinti1930">Inventario dei manoscritti delle biblioteche 
-      			d’Italia</ref></seg> di Mazzatinti) ed esistesse dal 2018 una descrizione dell’oggetto-libro 
-      			(in <seg rend="italic">Manus Online</seg>: <ref target="https://manus.iccu.sbn.it/en/">https://manus.iccu.sbn.it/en/</ref>), 
-      			il ms. Jacobilli è tornato 
-      			al centro dell’interesse filologico solo nel 2024, grazie alla segnalazione 
-      			di Fabio Soncin, che ne ha permesso il restauro grazie alla collaborazione 
-      			tra l’Archivio di Stato di Perugia, della Soprintendenza Archivistica e 
-      			Bibliografica dell’Umbria e del Nucleo Carabinieri T.P.C. di Perugia, e la 
-      			sua inclusione tra i manufatti esposti nella Mostra <seg rend="italic">Marco Polo 1324-2024. 
-      			La via dell’Oriente e ... dell’America</seg> (Roma, Accademia dei Lincei-Palazzo 
-      			Corsini, 24/10/2024 – 26/01/2025). La segnalazione del codice è stata pure 
-      			l’occasione del progetto editoriale, finanziato dal Progetto PNRR CHANGES, 
-      			all’interno dello Spoke 9 – CREST (<seg rend="italic">Cultural Resources for Sustainable Tourism</seg>) 
-      			dell’Università Ca’ Foscari Venezia (P.I. Monica Calcagno e Diego Calaon), e 
-      			sviluppato grazie alla collaborazione con Ca’ Foscari della Fondazione CHANGES, 
-      			della Biblioteca «Lodovico Jacobilli», della Soprintendenza Archivistica e 
-      			Bibliografica dell’Umbria e del portale <seg rend="italic">Manus Online</seg>. Il progetto è compreso 
-      			tra le iniziative riconosciute dal «Comitato Nazionale per le celebrazioni del 
-      			settimo centenario della morte di Marco Polo».
+      			fosse nota dal 1930 (nell’<ref target="#mazzatinti1930">Inventario 
+      				dei manoscritti delle biblioteche d’Italia</ref> di Mazzatinti) 
+      			ed esistesse dal 2018 una descrizione dell’oggetto-libro (in Manus Online: 
+      			<ref target="https://manus.iccu.sbn.it/en/">https://manus.iccu.sbn.it/en/</ref>), 
+      			il ms. Jacobilli è tornato al centro dell’interesse filologico solo nel 
+      			2024, grazie alla segnalazione di Fabio Soncin, che ne ha permesso 
+      			il restauro grazie alla collaborazione tra l’Archivio di Stato di Perugia, 
+      			della Soprintendenza Archivistica e Bibliografica dell’Umbria e 
+      			del Nucleo Carabinieri T.P.C. di Perugia, e la sua inclusione tra i 
+      			manufatti esposti nella Mostra 
+      			<seg rend="italic">Marco Polo 1324-2024. La via dell’Oriente e ... dell’America</seg> 
+      			(Roma, Accademia dei Lincei-Palazzo Corsini, 24/10/2024 – 26/01/2025). 
+      			La segnalazione del codice è stata pure l’occasione del progetto 
+      			editoriale, finanziato dal Progetto PNRR CHANGES, all’interno 
+      			dello Spoke 9 – CREST (<seg rend="italic">Cultural Resources for Sustainable Tourism</seg>) 
+      			dell’Università Ca’ Foscari Venezia (P.I. Monica Calcagno e Diego Calaon), 
+      			e sviluppato grazie alla collaborazione con Ca’ Foscari della 
+      			Fondazione CHANGES, della Biblioteca «Lodovico Jacobilli», della 
+      			Soprintendenza Archivistica e Bibliografica dell’Umbria e del 
+      			portale <seg rend="italic">Manus Online</seg>. Il progetto è compreso 
+      			tra le iniziative riconosciute dal «Comitato 
+      			Nazionale per le celebrazioni del settimo centenario 
+      			della morte di Marco Polo».
       		</p>
       	</div>
-      	<div type="p2">
+      	<div type="p1" xml:lang="en">
+      		<p>This digital edition presents for the first time the text 
+      			of manuscript A.II.9 housed at the Biblioteca Lodovico 
+      			Jacobilli in Foligno. The manuscript preserves a recension 
+      			of the <seg rend="italic">Devisement dou monde</seg> that 
+      			has never previously been studied. It belongs to the group 
+      			of copies (VA⁶) transmitting the Northern Italian vernacular 
+      			version that served as the principal vehicle for the work’s 
+      			dissemination across Europe from the Middle Ages 
+      			into the early modern period.</p>
+      		<p>The edition provides a high-definition digital reproduction
+      			of the entire manuscript, accompanied by a diplomatic 
+      			transcription of the text and an interpretative edition, 
+      			both supplemented by a concise philological commentary.</p>
+      		<p>The history of the manuscript is rather unusual. Although its existence 
+      			has been known since 1930, when it was recorded in the 
+      			<ref target="#mazzatinti1930">Inventario dei manoscritti delle biblioteche d’Italia</ref> by 
+      			Giuseppe Mazzatinti, and although a description of the codex as 
+      			a physical object has been available since 2018 
+      			in Manus Online (<ref target="https://manus.iccu.sbn.it/en/">https://manus.iccu.sbn.it/en/</ref>), 
+      			the Jacobilli manuscript came back to the attention of 
+      			scholars only in 2024. This renewed interest followed a report 
+      			by Fabio Soncin, which led to the restoration of the manuscript 
+      			through the collaboration of the Archivio di Stato di Perugia, 
+      			the Soprintendenza Archivistica e Bibliografica dell’Umbria, 
+      			and the Nucleo Carabinieri Tutela Patrimonio Culturale di 
+      			Perugia. It was subsequently included among the artefacts
+      			displayed in the exhibition <seg rend="italic">Marco Polo 1324-2024. 
+      			La via dell’Oriente e … dell’America</seg>, held in Rome at 
+      			the Palazzo Corsini (Accademia Nazionale dei Lincei) 
+      			from 24 October 2024 to 26 January 2025.</p>
+      		<p>The identification of the codex also prompted 
+      			the present editorial project, funded by the PNRR CHANGES 
+      			Project within Spoke 9 – CREST 
+      			(Cultural Resources for Sustainable Tourism) 
+      			at Ca’ Foscari University of Venice 
+      			(PIs Monica Calcagno and Diego Calaon). The project has been 
+      			developed in collaboration with the CHANGES Foundation, 
+      			the Biblioteca “Lodovico Jacobilli”, the Soprintendenza 
+      			Archivistica e Bibliografica dell’Umbria, and the Manus 
+      			Online portal. It forms part of the initiatives recognised 
+      			by the “Comitato Nazionale per le celebrazioni del settimo 
+      			centenario della morte di Marco Polo”.</p>
+      	</div>
+      	<div type="p2" xml:lang="it">
       		<head>La redazione VA nella tradizione del <seg rend="italic">Devisement dou monde</seg></head>
       		<p>La redazione VA occupa una posizione di rilievo nella storia del 
-      			<seg rend="italic">Devisement dou monde</seg>: pur essendo trasmessa da cinque soli testimoni 
-      			diretti (un sesto, VA⁴, è irreperibile dalla fine della seconda guerra 
-      			mondiale), essa è la versione più rappresentata nella tradizione grazie 
-      			alle numerose traduzioni in altre lingue, tra cui quattro diverse 
-      			latinizzazioni (siglate P, LB, LA, LT: cf. <ref target="#andreose-mascherpa2024">Andreose, Mascherpa 2024</ref>).</p>
-      		<p>
-      			I caratteri distintivi di VA all’interno della tradizione poliana, 
-      			delineati da Benedetto 
-      			(<ref target="#benedetto1928">1928</ref>, C-CXXXII) e successivamente approfonditi da 
-      			<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999</ref> (30-51), 
+      			<seg rend="italic">Devisement dou monde</seg>: pur essendo trasmessa 
+      			da cinque soli testimoni diretti (un sesto, VA⁴, è irreperibile dalla 
+      			fine della seconda guerra mondiale), essa è la versione più rappresentata 
+      			nella tradizione grazie alle numerose traduzioni in altre lingue, 
+      			tra cui quattro diverse latinizzazioni (siglate P, LB, LA, LT: cf. 
+      			<ref target="#andreose-mascherpa2024">Andreose, Mascherpa 2024</ref>).</p>
+      		<p>I caratteri distintivi di VA all’interno della tradizione poliana, 
+      			delineati da <ref target="#benedetto1928">Benedetto (1928, C-CXXXII)</ref> 
+      			e successivamente approfonditi da 
+      			<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999 (30-51)</ref>, 
       			<ref target="#andreose2021">Andreose (2021)</ref>, 
-      			<ref target="#simion2025">Simion (2025, 142-5)</ref>, 
-      			possono essere così sintetizzati. Malgrado la sua importanza culturale, 
-      			VA occupa un ruolo secondario nella ricostruzione dell’archetipo del 
-      			<seg rend="italic">Devisement dou monde</seg>. Tradotta da un esemplare franco-italiano perduto 
-      			(F³ secondo Benedetto 1928, CXIII), la redazione VA presenta nel complesso
-      			una forte fedeltà al modello, che non va tuttavia intesa come adesione 
-      			passiva. Il redattore interviene infatti attivamente sul testo attraverso 
-      			abbreviazioni, riscritture e occasionali amplificazioni. La riduzione della 
-      			materia si manifesta sia a livello macrostrutturale che microtestuale 
-      			(vedi «La redazione VA», nell’«Introduzione» al Ramusio 
-      			digitale: 
-      			<ref target="https://risorse-esterne.edizionicafoscari.it/main/intro_02.html">https://risorse-esterne.edizionicafoscari.it/main/intro_02.html</ref>; 
-      			e cf. 
-      			<ref target="#simion2025">Simion 2025, 142-5</ref>). Oltre a registrare un numero minore di capitoli 
-      			(155, contro i 233 della redazione franco-italiana di riferimento, F, su cui 
-      			cf. 
-      			<ref>Eusebi, Burgio 2018</ref>), VA opera talvolta sull’assetto informativo, 
-      			modificando l’ordine delle informazioni secondo una logica più o meno 
-      			riconoscibile (attuando, per esempio, accorpamenti su base tematica). 
-      			A livello microtestuale, lo sfrondamento è realizzato soprattutto tramite 
-      			la riduzione del sistema formulare (apostrofi ai lettori, interrogative 
-      			retoriche, transizioni tra schede geografiche, interventi veridittivi). 
-      			Parallelamente, il redattore elimina o riscrive contenuti potenzialmente 
-      			problematici o eterodossi, in particolare quelli relativi al corpo, alle 
-      			religioni o alle informazioni di tradizione trattatistico-enciclopedica che 
-      			Polo smentisce (per esempio nei casi della salamandra-amianto o 
-      			dell’unicorno-rinoceronte: cf. <ref target="#calloni2024">Calloni 2024-25, 68-70</ref>). Tali interventi 
-      			suggeriscono un’origine prossima a contesti clericali, forse ambienti 
-      			confraternali. 
-      		</p>
-      		<p>
-      			Infine, VA mostra una tendenza all’interpolazione, realizzata soprattutto 
+      			<ref target="#simion2025">Simion (2025, 142-5)</ref>, possono essere 
+      			così sintetizzati. Malgrado la sua importanza culturale, VA occupa un 
+      			ruolo secondario nella ricostruzione dell’archetipo del 
+      			<seg rend="italic">Devisement dou monde</seg>. Tradotta da un esemplare 
+      			franco-italiano perduto (F³ secondo <ref target="#benedetto1928">Benedetto 1928, CXIII</ref>), 
+      			la redazione VA presenta nel complesso una forte fedeltà 
+      			al modello, che non va tuttavia intesa come adesione passiva. 
+      			Il redattore interviene infatti attivamente sul testo attraverso 
+      			abbreviazioni, riscritture e occasionali amplificazioni. 
+      			La riduzione della materia si manifesta sia a livello macrostrutturale 
+      			che microtestuale (vedi «La redazione VA», nell’«Introduzione» al Ramusio 
+      			digitale: <ref target="https://risorse-esterne.edizionicafoscari.it/main/intro_02.html">https://risorse-esterne.edizionicafoscari.it/main/intro_02.html</ref>; e 
+      			cf. <ref target="#simion2025">Simion 2025, 142-5</ref>). Oltre a registrare 
+      			un numero minore di capitoli (155, contro i 233 della redazione 
+      			franco-italiana di riferimento, F, su cui cf. <ref target="#eusebi-burgio2018">Eusebi, Burgio 2018</ref>), 
+      			VA opera talvolta sull’assetto informativo, modificando l’ordine delle 
+      			informazioni secondo una logica più o meno riconoscibile 
+      			(attuando, per esempio, accorpamenti su base tematica). A livello 
+      			microtestuale, lo sfrondamento è realizzato soprattutto tramite la riduzione 
+      			del sistema formulare (apostrofi ai lettori, interrogative retoriche, 
+      			transizioni tra schede geografiche, interventi veridittivi). Parallelamente, 
+      			il redattore elimina o riscrive contenuti potenzialmente problematici o 
+      			eterodossi, in particolare quelli relativi al corpo, alle religioni o 
+      			alle informazioni di tradizione trattatistico-enciclopedica che Polo 
+      			smentisce (per esempio nei casi della salamandra-amianto o 
+      			dell’unicorno-rinoceronte: cf. <ref target="#calloni2024">Calloni 2024-25, 68-70</ref>). 
+      			Tali interventi suggeriscono un’origine prossima a contesti clericali, 
+      			forse ambienti confraternali. </p>
+      		<p>Infine, VA mostra una tendenza all’interpolazione, realizzata soprattutto 
       			attraverso piccole aggiunte e glosse a funzione esegetica, volte a 
       			parafrasare il modello, chiarire significati impliciti o precisare il 
       			contesto. Questi innesti ricorrono con maggiore frequenza nei testimoni 
-      			VA³, VA⁵ e VA⁶, che costituiscono un sottogruppo derivante da un capostipite
-      			più attivo rispetto ai collaterali VA¹ e VA². 
-      		</p>
-      		<p>
-      			Sul piano linguistico, 
-      			<ref target="#andreose2002">Andreose (2002)</ref> ha messo in discussione l’idea 
-      			di una provenienza veneta di VA, sostenuta da 
-      			<ref target="#pelaez1906">Pelaez (1906)</ref> e da 
-      			<ref target="#benedetto1928">Benedetto (1928)</ref>, proponendo una definizione più cauta di 
-      			«Milione veneto-emiliano», «lombardico» o «settentrionale» e individuando
-      			nel testimone più antico del gruppo (VA¹) tratti linguistici emiliani. 
-      		</p>
+      			VA³, VA⁵ e VA⁶, che costituiscono un sottogruppo derivante da un 
+      			capostipite più attivo rispetto ai collaterali VA¹ e VA². </p>
+      		<p>Sul piano linguistico, <ref target="#andreose2002">Andreose (2002)</ref> ha 
+      			messo in discussione l’idea di una provenienza veneta di VA, 
+      			sostenuta da Pelaez (1906) e da <ref target="#benedetto1928">Benedetto (1928)</ref>, 
+      			proponendo una definizione più cauta di «Milione veneto-emiliano», 
+      			«lombardico» o «settentrionale» e individuando nel testimone più antico 
+      			del gruppo (VA¹) tratti linguistici emiliani.</p>
       	</div>
-      	<div type="p3">
+      	<div type="p3" xml:lang="it">
       		<head>La famiglia VA</head>
-      		<p>
-      			Pur essendo possibile riconoscere alcuni tratti distintivi della 
-      			redazione VA, la ricostruzione della sua fisionomia originaria resta 
-      			difficile, perché i testimoni diretti superstiti sono tardi o frammentari:
-      			<lb/>•	VA¹: il codice Roma, Biblioteca Casanatense 3999, pergamenaceo del 
-      			primo Trecento edito da 
-      			<ref target="#barbieri2001">Barbieri (2001)</ref>, è il testimone più autorevole 
-      			e antico e quello che, con i suoi tratti linguistici emiliani, forse bolognesi, 
-      			riflette meglio la lingua originaria della redazione 
-      			(<ref target="#andreose2002">Andreose 2002</ref>). 
-      			Il suo stato frammentario (conserva solo 30 capitoli a fronte dei 155 
-      			del testimone più completo, VA³) ne impedisce tuttavia l’adozione come testo
-      			base per un’edizione critica;
-      			<lb/>•	VA²: il codice Firenze, Riccardiana, 1924 è un cartaceo della 
-      			metà del XIV secolo. È acefalo, mutilo e lacunoso, e conserva in tutto 
-      			83 capitoli. <ref target="#benedetto1928">Benedetto (1928, CIV)</ref> 
-      			ne riscontrava il «disordine» strutturale, dovuto ad alcuni spostamenti 
-      			di capitoli nella parte centrale del testo; tuttavia il testimone è 
-      			significativo sia per la qualità media della sua lezione, sia perché da un 
-      			codice affine derivano la traduzione toscana TB e il gruppo 
-      			VL. <ref target="#andreose2002">Andreose (2002, 666-7)</ref> ne ha proposto 
-      			una localizzazione lombardo-orientale (area Bergamo-Brescia). 
-      			Nell’edizione è stato utilizzato il testo allestito da <ref target="#dinale1989">Dinale 1989-90</ref>.
-      		</p>
+      		<p>Pur essendo possibile riconoscere alcuni tratti distintivi della 
+      			redazione VA, la ricostruzione della sua fisionomia originaria
+      			resta difficile, perché i testimoni diretti superstiti 
+      			sono tardi o frammentari:</p>
+      		<list>
+      			<item>VA¹:il codice Roma, Biblioteca Casanatense 3999, 
+      			pergamenaceo del primo Trecento edito da 
+      			<ref target="#barbieri2001">Barbieri (2001)</ref>, è il testimone 
+      			più autorevole e antico e quello che, con i suoi tratti
+      			linguistici emiliani, forse bolognesi, riflette meglio la 
+      			lingua originaria della redazione (<ref target="#andreose2002">Andreose 2002</ref>). 
+      			Il suo stato frammentario (conserva solo 30 capitoli a fronte dei 
+      			155 del testimone più completo, VA³) ne impedisce tuttavia l’adozione 
+      			come testo base per un’edizione critica;</item>
+      		<item>VA²: il codice Firenze, Riccardiana, 1924 è un cartaceo 
+      			della metà del XIV secolo. È acefalo, mutilo e lacunoso, e 
+      			conserva in tutto 83 capitoli. <ref target="#benedetto1928">Benedetto (1928, CIV)</ref> ne 
+      			riscontrava il «disordine» strutturale, dovuto ad alcuni 
+      			spostamenti di capitoli nella parte centrale del testo; 
+      			tuttavia il testimone è significativo sia per la qualità 
+      			media della sua lezione, sia perché da un codice affine derivano 
+      			la traduzione toscana TB e il gruppo VL. <ref target="#andreose2002">Andreose (2002, 666-7)</ref>
+      			ne ha proposto una localizzazione lombardo-orientale 
+      			(area Bergamo-Brescia). Nell’edizione è stato utilizzato il testo 
+      			allestito da <ref target="#dinale1989">Dinale 1989-90</ref>.</item>
+      		<item>VA³: il codice Padova, Biblioteca Civica, ms CM 211 è un cartaceo 
+      			di 74 cc., trascritto dal nobile veneziano Nicolò Vitturi nel 
+      			1445 (su cui cf. <ref target="#folena1990">Folena 1990, 391</ref>; 
+      			<ref target="#simion2025">Simion 2025, 146-7 nota 24</ref>). 
+      			Il testo è suddiviso in 155 capitoli, preceduti da rubriche introduttive; 
+      			è il testo base dell’edizione critica di riferimento 
+      			(<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999</ref>). 
+      			Di VA³ esiste un descriptus (Milano, Biblioteca Ambrosiana, 
+      			Y 161 sup., VA³ᵇⁱˢ), trascritto nel 1793 per l’abate 
+      			Giuseppe Toaldo, nel quadro di un progetto di edizione 
+      			del <seg rend="italic">Devisement dou monde</seg> mai completato 
+      			(<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999, 36</ref>;
+      			e cf. <ref target="#simion2019">Simion 2019, 36-7 e note 54-5</ref>).</item>
+      		<item>VA⁴: strettamente legato a VA³ e latore di un testo completo, 
+      			secondo <ref target="#benedetto1928">Benedetto (1928, CIII)</ref>, 
+      			questo codice quattrocentesco, sparito alla fine della seconda 
+      			guerra mondiale, era parte della collezione fiorentina dei 
+      			Venturi Ginori Lisci (cf. anche Bertolucci Pizzorusso 1983, 357-8 e 
+      			<ref target="#dutschke1993">Dutschke 1993, 489</ref>).</item>
+      		<item>VA⁵: il cartaceo Bern, Burgerbibliothek, ms 557 risale 
+      			alla seconda metà del XV secolo, e ha forse origine veronese 
+      			(<ref target="#andreose2002">Andreose 2002, 665</ref>). Manca di vari 
+      			capitoli rispetto a VA³. La descrizione più ampia e recente è 
+      			disponibile online 
+      			all’indirizzo <ref target="https://katalog.burgerbib.ch/detail.aspx?ID=129586">https://katalog.burgerbib.ch/detail.aspx?ID=129586</ref>. 
+      			Nell’edizione è stato utilizzato il testo allestito da <ref target="#sarto2024">Sarto 2024-25</ref>.</item>
+      		<item>VA⁶: per la descrizione del manoscritto
+      			vedi Ms Desc. La scheda catalografica, curata da Sara 
+      			Bischetti, è disponibile su Manus Online 
+      			(<ref target="https://tinyurl.com/mpejsuv9">https://tinyurl.com/mpejsuv9</ref>).</item></list>
       	</div>
-      	<div type="p4">
+      	<div type="p3" xml:lang="en">
+      		<head></head>
+      		<list>
+      			<item>•	VA¹:</item>
+      		<item>•	VA²: </item>
+      		<item>•	VA³: </item>
+      		<item>•	VA⁴: </item>
+      		<item>•	VA⁵: </item>
+      		<item>•	VA⁶: </item></list>
+      	</div>
+      	<div type="p4" xml:lang="it">
       		<head>La posizione di VA⁶ all'interno della famiglia VA</head>
-      		<p>Text</p>
+      		<p>I rapporti tra i testimoni della famiglia VA sono stati rappresentati
+      			da <ref target="#benedetto1928">Benedetto (1928, CXXXII)</ref> in 
+      			uno schema genealogico successivamente confermato e affinato da 
+      			<ref target="#barbieri-andreose1999">Barbieri, Andreose (1999, 42)</ref> e 
+      			<ref target="#andreose-mascherpa2024">Andreose, Mascherpa (2024, 141)</ref>. 
+      			All’interno di questa cornice, e considerando i soli testimoni diretti 
+      			di VA, VA⁶ può essere inserito nel sottogruppo y insieme a VA³ (VA⁴) e VA⁵. 
+      			La presenza di errori condivisi da VA³ e VA⁵, ma non da VA⁶, suggerisce 
+      			tuttavia di collocare quest’ultimo su un ramo collaterale 
+      			(cf. <ref target="#simion2025">Simion 2025, 162</ref> e 
+      			Simion in corso di stampa).</p>
       	</div>
-      	<div type="p5">
+      	<div type="p5" xml:lang="it">
       		<head>Perché un'edizione digitale di VA⁶</head>
-      		<p>Text</p>
+      		<p>La redazione VA è stata finora rappresentata editorialmente 
+      			in modo parziale. L’edizione di riferimento è quella di 
+      			<ref target="#barbieri-andreose1999">Barbieri, Andreose (1999)</ref>, 
+      			fondata sul manoscritto VA³, unico testimone completo superstite. 
+      			Come dichiarano gli editori, nel 1999 lo stato di VA rendeva preferibile, 
+      			rispetto a un’edizione critica, la pubblicazione di un’edizione interpretativa, 
+      			capace di restituire il testo nello stato in cui la redazione 
+      			«circolava a una certa epoca in un determinato ambiente sociale»; 
+      			di qui la scelta di assumere come base VA³, il «solo […] che ci conservi 
+      			questa redazione […] nella sua integrità» (pp. 44-5). 
+      			Negli anni successivi, il testimone VA¹ è stato pubblicato da 
+      			<ref target="#barbieri2001">Barbieri (2001)</ref>, con uno studio linguistico 
+      			di <ref target="#andreose2002">Andreose (2002)</ref>; VA² e VA⁵ restano 
+      			accessibili unicamente attraverso tesi di laurea 
+      			inedite (<ref target="#dinale1989">Dinale 1989-90</ref>; 
+      			<ref target="#sarto2024">Sarto 2024-25</ref> e 
+      			<ref target="#bernardi1993">Bernardi 1993-94</ref>). Allo stato attuale, 
+      			manca dunque un’edizione critica della redazione VA fondata sull’analisi 
+      			sistematica e sul confronto di tutti i testimoni diretti superstiti, e 
+      			aperta anche alla considerazione della sua discendenza, in particolare delle
+      			traduzioni latine e volgari (con speciale riferimento ai rami P e TB, 
+      			che dipendono da testimoni VA migliori dei superstiti). L’edizione digitale 
+      			di VA⁶ offre un primo contributo in questa direzione, fornendo uno 
+      			strumento utile alla comunità scientifica e mettendo a disposizione un 
+      			testimone indispensabile per una futura edizione critica complessiva 
+      			della redazione VA. </p>
+      		<p>Al tempo stesso, la forza del progetto risiede nella collaborazione attiva 
+      			tra istituzioni e comunità scientifica, un principio che riflette le 
+      			finalità del progetto CHANGES. La valorizzazione del manoscritto di 
+      			Foligno attraverso strumenti digitali avanzati permette di integrarlo 
+      			nel panorama delle risorse manoscritte italiane disponibili in open access
+      			e interoperabili secondo standard internazionali, favorendo sia la ricerca 
+      			che la conservazione. In linea con gli obiettivi di CHANGES, il progetto 
+      			attiva una rete di relazioni in cui tutela, valorizzazione e accessibilità 
+      			si rafforzano reciprocamente, con ricadute concrete sul territorio. In 
+      			questo contesto, ogni soggetto coinvolto ha un ruolo attivo: la Biblioteca
+      			«L. Jacobilli» ha contribuito alla definizione delle modalità di 
+      			digitalizzazione; la Soprintendenza Archivistica e Bibliografica 
+      			dell’Umbria ha garantito il raccordo con le politiche di tutela; 
+      			Manus Online ha assicurato assistenza per le operazioni di caricamento 
+      			della scheda catalografica e per l’acquisizione delle immagini 
+      			(in svolgimento).</p>
       	</div>
-      	<div type="p6">
-      		<head>La famiglia VA</head>
-      		<p>Text</p>
-      	</div>
-      	<div type="p7">
+      	<div type="p6" xml:lang="it">
       		<head>Criteri di Edizione</head>
-      		<p>Text</p>
+      		<p>Come anticipato, il testo di VA⁶ è offerto in edizione diplomatica e 
+      			interpretativa. Data la complessiva aderenza di VA⁶ a VA³ anche sotto 
+      			il profilo linguistico, si è scelto di rimanere quanto più possibile 
+      			fedeli alle scelte adottate nell’edizione di VA³ da <ref target="#barbieri-andreose1999">Barbieri, Andreose (1999, 51-6)</ref>, 
+      			in modo da agevolare lo studio dei rapporti tra i vari testimoni. Rinviamo 
+      			quindi alla loro «Introduzione» per un’analisi di dettaglio, 
+      			limitandoci qui a offrire un quadro di massima. </p>
+      		<p>Nell’edizione diplomatica ci siamo attenuti a criteri conservativi, 
+      			rispettando la grafia del manoscritto ma distinguendo u e v secondo 
+      			l’uso moderno; abbiamo mantenuto sia j che y.</p>
+      		<p>La cartulazione è indicata su un controller dedicato, con specificazione 
+      			di recto e verso; la suddivisione delle righe è segnalata tramite 
+      			numerazione progressiva. I capilettera in rosso sono resi in dimensioni 
+      			maggiori rispetto al resto del testo. La segmentazione delle parole 
+      			riproduce quella attestata nel manoscritto, così come l’uso di maiuscole 
+      			e minuscole. Le abbreviazioni sono riprodotte fedelmente. Gli errori 
+      			del copista (scambi di lettere, diplografie, aplografie, ecc.) sono stati 
+      			mantenuti; le aggiunte sono codificate direttamente in XML secondo le linee
+      			guida TEI e sono visualizzate su EVT in verde chiaro. Eventuali lacune, 
+      			anche per caduta di carte, sono indicate con tre puntini racchiusi tra 
+      			parentesi uncinate ‹…›. Le glosse di Jacobilli e i pochi interventi di una 
+      			seconda mano sono indicati nelle note espandibili. </p>
+      		<p>Nell’edizione interpretativa la divisione delle righe è segnalata, 
+      			come nella diplomatica, attraverso la loro numerazione; i capitoli 
+      			sono stati numerati da 1 a 144, e il testo suddiviso in pericopi, 
+      			indicate con numeri arabi tra parentesi quadre. Accanto al numero di 
+      			capitolo viene data, tra parentesi tonde, la corrispondenza con i 
+      			capitoli di VA3 e del testo di riferimento, la redazione 
+      			franco-italiana F (ed. <ref target="#eusebi-burgio2018">Eusebi, Burgio 2018</ref>). 
+      			La commatizzazione segue quella di <ref target="#barbieri-andreose1999">Barbieri, Andreose (1999)</ref>, 
+      			discontandosene nei pochi casi in cui i due testi non sono sovrapponibili. 
+      			Se una parola è divisa tra due carte, questa viene unificata nella prima 
+      			riga della carta successiva. Infine, nei pochi casi in cui i capilettera 
+      			mancano e il copista ha predisposto lo spazio vuoto, le lettere vengono 
+      			integrate tra parentesi uncinate ‹› sulla base delle lettere guida. 
+      			Divisione delle parole, punteggiatura, accenti, apostrofi e maiuscole 
+      			rispecchiano l’uso moderno. Le abbreviazioni sono state sciolte. j è 
+      			stata ricondotta a i, mentre è stata mantenuta y. Nel manoscritto la 
+      			grafia ‹c› è sistematicamente impiegata in luogo di ‹ç› per rappresentare 
+      			l’affricata alveopalatale sonora e le fricative alveolari sonora 
+      			o sorda. Troviamo così «cente», «vancelio»,«doncele»,«beleca», «cuche» 
+      			(per ‘zucche’), ecc.: tale soluzione è stata conservata.</p>
+      		<p>Sono state univerbate le preposizioni articolate e le congiunzioni 
+      			composte. <seg rend="italic">Chel</seg>, <seg rend="italic">sel</seg> 
+      			sono resi come <seg rend="Italic">ch’el</seg>, <seg rend="italic">s’el</seg> 
+      			quando <seg rend="italic">el</seg> è pronome; <seg rend="italic">che ’l</seg>, 
+      			<seg rend="italic">se ’l</seg> quando si tratta di articolo; analogamente, 
+      			<seg rend="Italic">chela</seg>, <seg rend="italic">sela</seg> sono resi 
+      			come <seg rend="italic">ch’ela</seg>, <seg rend="Italic">s’ela</seg> in caso 
+      			di pronome; <seg rend="italic">che la</seg>, <seg rend="italic">se la</seg> 
+      			quando si tratta di articolo. Sono stati mantenuti i raddoppiamenti indebiti
+      			di consonante (per esempio «fillo», «perichollo»). I numeri romani sono 
+      			stati regolarizzati in maiuscolo; il simbolo ° è stato mantenuto solo 
+      			nelle date. Il discorso diretto è introdotto da virgolette a caporale. </p>
+      		<p>Sono stati accentati:
+      		<list>
+      			<item>le voci del verbo «avere» (<seg rend="italic">ò</seg>, <seg rend="italic">à</seg>, <seg rend="Italic">àno</seg>); </item>
+      			<item>i participi perfetti apocopati;</item>
+      			<item>i perfetti come «menàno», «partìno», «intròno», «navegòno»;</item>
+      		</list>
+      			Per rendere il testo più leggibile (Barbieri, Andreose 1999, 54), i pronomi clitici posposti al verbo sono segnalati con un trattino.
+      		</p>
+      		<p>Per quanto riguarda la distinzione degli omografi, segnaliamo:
+      		<list>
+      			<item><seg rend="italic">a</seg> = «a»; <seg rend="italic">à</seg> = «ha»; <seg rend="Italic">a’</seg> = «ai»</item>
+      			<item><seg rend="italic">da</seg> = «da»; <seg rend="italic">dà</seg> = «dà»; <seg rend="italic">da’</seg> = «dai»</item>
+      			<item><seg rend="italic">de</seg> = «di»; <seg rend="italic">de’</seg> = «dei»; <seg rend="italic">dè’</seg> = «diede»; <seg rend="italic">dè</seg> = «è»</item>
+      			<item><seg rend="italic">di</seg> = «di»; <seg rend="italic">d’i</seg> = «dei»; <seg rend="italic">dì</seg> = «dì»</item>
+      			<item><seg rend="italic">e</seg> = «e»; è = «è»; <seg rend="italic">e’</seg> = «io», «essi»</item>
+      			<item><seg rend="italic">fa</seg> = «(egli) fa»; <seg rend="italic">fa’</seg> = «fa’» (imper.)</item>
+      			<item><seg rend="italic">fè’</seg> = «fece»; <seg rend="italic">fe’</seg> = «fede»</item>
+      			<item><seg rend="italic">fi</seg> = «feci»; <seg rend="italic">fì</seg> = «fir» </item>
+      			<item><seg rend="italic">fu</seg> = «fu»; <seg rend="italic">fu’</seg> = «fui»</item>
+      			<item><seg rend="italic">i</seg> = «i», «ci»;<seg rend="italic"> i’</seg> = «io»</item>
+      			<item><seg rend="italic">la</seg> = «la»; <seg rend="italic">là</seg> = «là»; <seg rend="italic">’la</seg> = «ella», «essa»</item>
+      			<item><seg rend="italic">li</seg> = «i», «gli» (articolo determinativo e pronome personale); <seg rend="italic">lì</seg> = «lì»; <seg rend="italic">’li</seg> = «essi»</item>
+      			<item><seg rend="italic">lo</seg> = «lo» (articolo determinativo e pronome personale); <seg rend="italic">’lo</seg> = «egli»</item>
+      			<item><seg rend="italic">mie</seg> = «mie»; <seg rend="italic">mie’</seg> = «miei»</item>
+      			<item><seg rend="italic">mo</seg> = «ma»; <seg rend="italic">mo’</seg> = «ora»</item>
+      			<item><seg rend="italic">ne</seg> = «ne»; <seg rend="italic">né</seg> = «né»</item>
+      			<item><seg rend="italic">o</seg> = «o»; <seg rend="italic">ò</seg> = «ho»; <seg rend="italic">o’</seg> = «dove»</item>
+      			<item><seg rend="italic">po’</seg> = «poco»; <seg rend="italic">pò</seg> = «può»</item>
+      			<item><seg rend="italic">se</seg> = «se», «si» (particella pronominale e congiunzione); <seg rend="italic">sé</seg> = «sé»</item>
+      			<item><seg rend="italic">si</seg> = «si», «se» (particella pronominale e congiunzione), «sé» (pronome); <seg rend="italic">sì</seg> = «così» (avverbio rafforzativo)</item>
+      			<item><seg rend="italic">suo</seg> = «suo», <seg rend="italic">suo’</seg> = «suoi», «sue».</item>
+      		</list></p>	
       		<p>
       			Si offre di seguito una legenda delle tipologie di note espandibili:
       			<lb/>(1) <note type="autoCorr">Questa nota indica gli <hi rend="bold">interventi 
@@ -6001,7 +6210,7 @@
       			indica le note di commento filologico dell’editore.
       		</p>
       	</div>
-      	<div type="p8">
+      	<div type="p7" xml:lang="it">
       		<head>Istituzioni e Team di Progetto</head>
       		<p>
       			<lb/><seg rend="bold">Coordinamento</seg>: Eugenio Burgio, Marina Buzzoni, Samuela Simion
@@ -6015,11 +6224,11 @@
       			<lb/>•	Comitato Nazionale per le celebrazioni del settimo centenario della morte di Marco Polo
       		</p>
       	</div>
-      	<div type="p9">
+      	<div type="p8" xml:lang="it">
       		<head>Ringraziamenti</head>
       		<p>Text</p>
       	</div>
-      	<div type="p10">
+      	<div type="p9">
       		<head>Riferimenti bibliografici</head>
       		
       			<p><bibl ref="#andreose2002">
@@ -6117,6 +6326,9 @@
       				[PhD diss.].
       				<publisher>University of Los Angeles</publisher>, UMI.
       			</bibl></p>
+      		<p><bibl ref="#eusebi-burgio2018">
+      				Eusebi, M.; Burgio, E. (a cura di) (2018). 
+      		</bibl></p>
       			<p><bibl ref="#folena1990">
       				<author><surname>Folena</surname>, <forename>G.</forename></author>
       				(<date>1990</date>).
@@ -14678,14 +14890,27 @@
                		<reg>e</reg>
                	</choice><reg>&#173; </reg>posesione chon cardiny<reg>.</reg></seg>
                <seg n="6">
-                  <reg>[6] </reg>la nase <lb n="14" xml:id="A.II.9_lb_17v_14"
+                  <reg>[6] </reg><choice>
+                  	<orig>la</orig>
+                  	<reg>Là</reg>
+                  </choice> nase <lb n="14" xml:id="A.II.9_lb_17v_14"
                      facs="#A.II.9_line_17v_14"/>
-                  <term ref="#banbace">banasio</term> asay <reg>.</reg></seg>
+                  <term ref="#banbace">banasio</term> asay<reg>.</reg></seg>
                <seg n="7">
-                  <reg>[7] </reg>de quela chontrada sie molti me <lb n="15"
-                     xml:id="A.II.9_lb_17v_15" facs="#A.II.9_line_17v_15"/>rchadanty che vano per
-                  lomondo facando mer <lb n="16" xml:id="A.II.9_lb_17v_16"
-                     facs="#A.II.9_line_17v_16"/>chadantie <reg>.</reg></seg>
+                  <reg>[7] </reg><choice>
+                  	<orig>de</orig>
+                  	<reg>De</reg>
+                  </choice> quela chontrada si<reg>&#173; </reg><choice>
+                  	<orig>e</orig>
+                  	<reg>è</reg>
+                  </choice> molti <choice>
+                  	<orig>me<lb n="15" xml:id="A.II.9_lb_17v_15_orig" facs="#A.II.9_line_17v_15_orig"/>rchadanty</orig>
+                  	<reg>merchadanty<lb n="15" xml:id="A.II.9_lb_17v_15_reg" facs="#A.II.9_line_17v_15_reg"/></reg>
+                  </choice> che vano per
+               	lo<reg>&#173; </reg>mondo facando <choice>
+               		<orig>mer<lb n="16" xml:id="A.II.9_lb_17v_16_orig" facs="#A.II.9_line_17v_16_orig"/>chadantie</orig>
+               		<reg>merchadantie<reg>.</reg><lb n="16" xml:id="A.II.9_lb_17v_16_reg" facs="#A.II.9_line_17v_16_reg"/></reg>
+               	</choice></seg>
                <seg n="8">
                   <reg>[8] </reg>lacente de quela chontrada sie scharsa <lb n="17"
                      xml:id="A.II.9_lb_17v_17" facs="#A.II.9_line_17v_17"/>emisera imagna mal ebeve
