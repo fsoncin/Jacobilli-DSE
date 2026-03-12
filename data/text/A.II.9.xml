@@ -336,15 +336,15 @@
             </msDesc>
          	<listBibl>
          		<bibl xml:id="andreose2002">
-         			<author>
-         				<surname>Andreose</surname>,
-         				<forename>A.</forename>
-         			</author>
-         			(<date>2002</date>).
-         			«<title>La prima attestazione della versione VA del ‘Milione’ (ms. 3999 della Biblioteca Casanatense di Roma). Studio linguistico</title>».
-         			<title rend="italic">Critica del testo</title>,
-         			<biblScope unit="volume">5</biblScope>,
-         			<biblScope unit="page">655-68</biblScope>. <ref target="https://www.academia.edu/5609517/Alvise_Andreose_La_prima_attestazione_della_versione_VA_del_Milione_ms_3999_della_Biblioteca_Casanatense_di_Roma_Studio_linguistico_Critica_del_testo_V_3_2002_pp_655_668">Academia.edu</ref>
+         				<author>
+         					<surname>Andreose</surname>,
+         					<forename>A.</forename>
+         				</author>
+         				(<date>2002</date>).
+         				«<title>La prima attestazione della versione VA del ‘Milione’ (ms. 3999 della Biblioteca Casanatense di Roma). Studio linguistico</title>».
+         				<title rend="italic">Critica del testo</title>,
+         				<biblScope unit="volume">5</biblScope>,
+         				<biblScope unit="page">655-68</biblScope>. <ref target="https://www.academia.edu/5609517/Alvise_Andreose_La_prima_attestazione_della_versione_VA_del_Milione_ms_3999_della_Biblioteca_Casanatense_di_Roma_Studio_linguistico_Critica_del_testo_V_3_2002_pp_655_668">Academia.edu</ref>
          		</bibl>
          		<bibl xml:id="andreose2021">
          				<author><surname>Andreose</surname>, <forename>A.</forename></author>
@@ -353,14 +353,14 @@
          				In: <editor><surname>Oniga</surname>, <forename>R.</forename></editor> (a cura di),
          				<title rend="italic">La biblioteca di Lorenzo Renzi: nel laboratorio di un umanista</title>.
          				<pubPlace>Udine</pubPlace>: <publisher>Forum Editrice Universitaria</publisher>,
-         			<biblScope unit="page">00-00</biblScope>. <ref target="https://www.research.unipd.it/retrieve/e14fb26e-e53e-3de1-e053-1705fe0ac030/LAM%20Strumenti%205.pdf">Iris</ref>
+         				<biblScope unit="page">00-00</biblScope>.
          		</bibl>
          		<bibl xml:id="andreose-mascherpa2024">
          				<author><surname>Andreose</surname>, <forename>A.</forename></author>;
          				<author><surname>Mascherpa</surname>, <forename>G.</forename></author>
          				(<date>2024</date>).
          				«<title>Il “Devisement dou monde” come problema filologico</title>».
-         				In: <title rend="italic">Simion, Burgio 2024</title>,
+         				<title rend="italic">Simion, Burgio 2024</title>,
          				<biblScope unit="page">131-63</biblScope>.
          		</bibl>
          		<bibl xml:id="barbieri2001">
@@ -391,7 +391,7 @@
          				<title rend="italic">Il “Milione” veneto del ms. 557 della Biblioteca Civica di Berna</title>
          				[tesi di laurea].
          				<pubPlace>Padova</pubPlace>: <publisher>Università degli Studi</publisher>.
-         			</bibl>
+         		</bibl>
          		<bibl xml:id="bertolucci1983">
          				<author><surname>Bertolucci Pizzorusso</surname>, <forename>V.</forename></author>
          				(<date>1983</date>).
@@ -411,43 +411,43 @@
          		<bibl xml:id="calloni2024">
          				<author><surname>Calloni</surname>, <forename>C.G.</forename></author>
          				(<date>2024-25</date>).
-         				<title rend="italic">Per un’edizione critica della traduzione latina del “Devisement dou monde” di Francesco Pipino. Rapporto con la fonte, recensio della tradizione manoscritta e parziale saggio d’edizione</title>
+         				<title><seg rend="italic">Per un’edizione critica della traduzione latina del “Devisement dou monde” di Francesco Pipino. Rapporto con la fonte,</seg> recensio <seg rend="italic">della tradizione manoscritta e parziale saggio d’edizione</seg></title>
          				[tesi di dottorato].
          				<pubPlace>Venezia</pubPlace>: <publisher>Università Ca’ Foscari Venezia</publisher>.
-         			</bibl>
+         		</bibl>
          		<bibl xml:id="dinale1989">
          				<author><surname>Dinale</surname>, <forename>M.T.</forename></author>
          				(<date>1989-90</date>).
          				<title rend="italic">Il “Milione” veneto del ms. 1924 della Biblioteca Riccardiana di Firenze</title>
          				[tesi di laurea].
          				<pubPlace>Padova</pubPlace>: <publisher>Università degli Studi</publisher>.
-         			</bibl>
+         		</bibl>
          		<bibl xml:id="dutschke1993">
          				<author><surname>Dutschke</surname>, <forename>C.W.</forename></author>
          				(<date>1993</date>).
          				<title rend="italic">Francesco Pipino and the Manuscripts of Marco Polo’s “Travels”</title>
          				[PhD diss.].
          				<publisher>University of Los Angeles</publisher>, UMI.
-         			</bibl>
+         		</bibl>
          		<bibl xml:id="eusebi-burgio2018">
-         			Eusebi, M.; Burgio, E. (a cura di) (2018). 
+         				Eusebi, M.; Burgio, E. (a cura di) (2018). 
          		</bibl>
          		<bibl xml:id="folena1990">
          				<author><surname>Folena</surname>, <forename>G.</forename></author>
          				(<date>1990</date>).
          				«<title>La cultura volgare e l’“umanesimo cavalleresco” nel Veneto</title>».
-         				In: <editor><surname>Folena</surname>, <forename>G.</forename></editor> (a cura di),
+         				<editor><surname>Folena</surname>, <forename>G.</forename></editor> (a cura di),
          				<title rend="italic">Culture e lingue nel Veneto medievale</title>.
          				<pubPlace>Padova</pubPlace>: <publisher>Editoriale Programma</publisher>,
          				<biblScope unit="page">377-94</biblScope>.
-         			</bibl>
+         		</bibl>
          		<bibl xml:id="mazzatinti1930">
-         				<editor><surname>Mazzatinti</surname>, <forename>G.</forename></editor>
+         				<author><surname>Mazzatinti</surname>, <forename>G.</forename></author>
          				(a cura di) (<date>1930</date>).
          				<title rend="italic">Inventario dei manoscritti delle biblioteche d’Italia</title>.
          				<pubPlace>Firenze</pubPlace>: <publisher>Olschki</publisher>,
          				<biblScope unit="volume">41</biblScope>.
-         			</bibl>
+         		</bibl>
          		<bibl xml:id="pelaez1906">
          				<author><surname>Pelaez</surname>, <forename>M.</forename></author>
          				(<date>1906</date>).
@@ -455,7 +455,7 @@
          				<title rend="italic">Studj romanzi</title>,
          				<biblScope unit="volume">4</biblScope>,
          				<biblScope unit="page">5-65</biblScope>.
-         			</bibl>
+         		</bibl>
          		<bibl xml:id="renzi1987">
          				<author><surname>Renzi</surname>, <forename>L.</forename></author>
          				(<date>1987-90</date>).
@@ -463,47 +463,53 @@
          				<title rend="italic">Odeo Olimpico</title>,
          				<biblScope unit="volume">20</biblScope>,
          				<biblScope unit="page">55-65</biblScope>.
-         			</bibl>
+         		</bibl>
+         		<bibl xml:id="rossellidelturco2019">
+         				<author><surname>Rosselli Del Turco</surname>, <forename>R.</forename></author> 
+         				(<date>2019</date>). 
+         				«<title>Designing an Advanced Software Tool for Digital Scholarly Editions: The Inception and Development of EVT (Edition Visualization Technology)</title>». 
+         				<title rend="italic">Textual Cultures</title>, 12 (2) 91–111. 
+         				<ref target="https://doi.org/10.14434/textual.v12i2.27690">https://doi.org/10.14434/textual.v12i2.27690</ref>
+         		</bibl>
          		<bibl xml:id="sarto2024">
          				<author><surname>Sarto</surname>, <forename>E.</forename></author>
          				(<date>2024-25</date>).
          				<title rend="italic">Il «Milione» veneto (VA): edizione interpretativa del codice Bern, Burgerbibliothek, 557 (sec. XV)</title>
          				[tesi di laurea].
          				<pubPlace>Verona</pubPlace>: <publisher>Università degli Studi</publisher>.
-         			</bibl>
+         		</bibl>
          		<bibl xml:id="simion2019">
-         				<editor><surname>Simion</surname>, <forename>S.</forename></editor>
+         				<author><surname>Simion</surname>, <forename>S.</forename></author>
          				(a cura di) (<date>2019</date>).
          				<title rend="italic">Marco Polo: Il “Devisement dou monde” nella redazione veneziana V (cod. Hamilton 424 della Staatsbibliothek di Berlino)</title>.
-         			<pubPlace>Venezia</pubPlace>: <publisher>Edizioni Ca’ Foscari</publisher>. ARCA: <ref target="https://iris.unive.it/handle/10278/3720805">https://iris.unive.it/handle/10278/3720805</ref>
-         			</bibl>
+         				<pubPlace>Venezia</pubPlace>: <publisher>Edizioni Ca’ Foscari</publisher>. ARCA: <ref target="https://iris.unive.it/handle/10278/3720805">https://iris.unive.it/handle/10278/3720805</ref>
+         		</bibl>
          		<bibl xml:id="simion2020">
          				<author><surname>Simion</surname>, <forename>S.</forename></author>
          				(<date>2020</date>).
-         				«<title>«Gerarchie del riferibile» nella redazione P del “Devisement dou monde”</title>».
-         				In: <editor><surname>Conte</surname>, <forename>M.</forename></editor>;
-         				<editor><surname>Montefusco</surname>, <forename>A.</forename></editor>;
-         				<editor><surname>Simion</surname>, <forename>S.</forename></editor> (a cura di),
+         				«<title>Gerarchie del riferibile» nella redazione P del “Devisement dou monde”</title>».
+         				<author><surname>Conte</surname>, <forename>M.</forename></author>;
+         				<author><surname>Montefusco</surname>, <forename>A.</forename></author>;
+         				<author><surname>Simion</surname>, <forename>S.</forename></author> (a cura di),
          				<title rend="italic">«Ad consolationem legentium». Il Marco Polo dei Domenicani</title>.
          				<pubPlace>Venezia</pubPlace>: <publisher>Edizioni Ca’ Foscari</publisher>,
-         			<biblScope unit="page">117-42</biblScope>. <ref target="http://doi.org/10.30687/978-88-6969-439-4">http://doi.org/10.30687/978-88-6969-439-4</ref>
-         			</bibl>
+         				<biblScope unit="page">117-42</biblScope>. <ref target="http://doi.org/10.30687/978-88-6969-439-4">http://doi.org/10.30687/978-88-6969-439-4</ref>
+         		</bibl>
          		<bibl xml:id="simion2025">
          				<author><surname>Simion</surname>, <forename>S.</forename></author>
          				(<date>2025</date>).
-         				«<title>Un testimone ritrovato del Devisement dou monde (VA): il codice Foligno, Biblioteca “Lodovico Jacobilli”, A.II.9</title>».
+         				«<title>Un testimone ritrovato del <seg rend="italic">Devisement dou monde</seg> (VA): il codice Foligno, Biblioteca “Lodovico Jacobilli”, A.II.9</title>».
          				<title rend="italic">Medioevo Romanzo</title>,
          				<biblScope unit="volume">49</biblScope>(1),
          				<biblScope unit="page">139-64</biblScope>.
-         			</bibl>
+         		</bibl>
          		<bibl xml:id="simion-burgio2024">
-         				<editor><surname>Simion</surname>, <forename>S.</forename></editor>;
-         				<editor><surname>Burgio</surname>, <forename>E.</forename></editor>
-         				(a cura di) (<date>2024</date>).
-         				<title rend="italic">Marco Polo. Storia e mito di un viaggio e di un libro</title>.
-         				<pubPlace>Roma</pubPlace>: <publisher>Carocci</publisher>.
-         			</bibl>
-         			
+         			<author><surname>Simion</surname>, <forename>S.</forename></author>;
+         			<author><surname>Burgio</surname>, <forename>E.</forename></author>
+         			(a cura di) (<date>2024</date>).
+         			<title rend="italic">Marco Polo. Storia e mito di un viaggio e di un libro</title>.
+         			<pubPlace>Roma</pubPlace>: <publisher>Carocci</publisher>.
+         		</bibl>
          	</listBibl>
             <!-- Elenco degli antroponimi -->
             <listPerson>
@@ -5835,7 +5841,7 @@
       </surface>
    </facsimile>
    <text n="Devisement dou Monde" type="prose" xml:id="DEDM">
-   	<!-- numeri per apici:  VA¹ VA² VA³ VA⁴ VA⁵ VA⁶ VA⁷ VA⁸ VA⁹  -->
+   	<!-- numeri per apici:  VA¹ VA² VA³ VA⁴ VA⁵ VA⁶  -->
       <front>
       	<div type="title">
          	<head><seg rend="italic">«Milione settentrionale». Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9</seg> 
@@ -5878,6 +5884,7 @@
       		</p>
       	</div>
       	<div type="p1" xml:lang="en">
+      		<head>The Project</head>
       		<p>This digital edition presents for the first time the text 
       			of manuscript A.II.9 housed at the Biblioteca Lodovico 
       			Jacobilli in Foligno. The manuscript preserves a recension 
@@ -5971,17 +5978,69 @@
       			capostipite più attivo rispetto ai collaterali VA¹ e VA². </p>
       		<p>Sul piano linguistico, <ref target="#andreose2002">Andreose (2002)</ref> ha 
       			messo in discussione l’idea di una provenienza veneta di VA, 
-      			sostenuta da Pelaez (1906) e da <ref target="#benedetto1928">Benedetto (1928)</ref>, 
+      			sostenuta da <ref target="#pelaez1906">Pelaez (1906)</ref> e da <ref target="#benedetto1928">Benedetto (1928)</ref>, 
       			proponendo una definizione più cauta di «Milione veneto-emiliano», 
       			«lombardico» o «settentrionale» e individuando nel testimone più antico 
       			del gruppo (VA¹) tratti linguistici emiliani.</p>
+      	</div>
+      	<div type="p2" xml:lang="en">
+      		<head>The VA Version in the Tradition of <seg rend="italic">Devisement dou monde</seg></head>
+      		<p>The VA version occupies a prominent place in the textual history 
+      			of <seg rend="italic">Devisement dou monde</seg>. Although it survives 
+      			in only five direct witnesses (a sixth, VA⁴, has been missing since 
+      			the end of the Second World War), it is the most widely represented 
+      			version in the tradition, owing to its numerous translations into 
+      			other languages, including four distinct Latinized forms (designated P, 
+      			LB, LA, and LT; cf. <ref target="#andreose-mascherpa2024">Andreose, Mascherpa 2024</ref>).</p>
+      		<p>The distinctive features of VA within the Polian tradition, first 
+      			outlined by <ref target="#benedetto1928">Benedetto (1928, C-CXXXII)</ref> 
+      			and later elaborated by <ref target="#barbieri-andreose1999">Barbieri, Andreose (1999, 30-51; 2021)</ref>, 
+      			and <ref target="#simion2025">Simion (2025, 142-5)</ref>, may be summarised as 
+      			follows. Despite its cultural significance, VA plays a secondary role in 
+      			reconstructing the archetype of <seg rend="italic">Devisement dou monde</seg>. 
+      			Translated from a lost Franco-Italian exemplar (F³ in <ref target="#benedetto1928">Benedetto 1928, CXIII</ref>), 
+      			VA demonstrates a high degree of fidelity to its model; this fidelity, 
+      			however, should not be read as passive adherence. The redactor actively
+      			shapes the text through abbreviation, rewriting, and occasional 
+      			amplification.</p>
+      		<p>Reduction of material occurs at both macrostructural and microtextual 
+      			levels (see “The VA Version” in the Digital Ramusio Introduction: 
+      			<ref target="https://risorse-esterne.edizionicafoscari.it/main/intro_02.html">https://risorse-esterne.edizionicafoscari.it/main/intro_02.html</ref>; 
+      			cf. <ref target="#simion2025">Simion 2025, 142-5</ref>). The version contains 
+      			fewer chapters (155, compared with 233 in the reference Franco-Italian 
+      			recension, F; cf. <ref target="#eusebi-burgio2018">Eusebi, Burgio 2018</ref>) 
+      			and occasionally reorganises the presentation of information according to a 
+      			roughly discernible logic, for example through thematic groupings. At the 
+      			microtextual level, pruning is achieved primarily by reducing the formulaic 
+      			apparatus, such as addresses to the reader, rhetorical questions, transitions 
+      			between geographical entries, and veridictive interventions. At the same time, 
+      			the redactor eliminates or rewrites content that might be considered 
+      			problematic or heterodox, particularly passages relating to the body, 
+      			religious matters, or traditional encyclopaedic information that Polo 
+      			explicitly contradicts (for instance, the cases of the salamander-amianth 
+      			or the unicorn-rhinoceros; cf. <ref target="#calloni2024">Calloni 2024-25, 68-70</ref>). 
+      			Such interventions point to a provenance close to clerical contexts, 
+      			possibly confraternal circles.</p>
+      		<p>VA also displays a tendency towards interpolation, mainly in the 
+      			form of brief additions and exegetical glosses designed to 
+      			paraphrase the model, clarify implicit meanings, or specify 
+      			context. These insertions appear more frequently in VA³, VA⁵, and VA⁶, 
+      			which form a subgroup derived from a more active ancestor, compared with 
+      			the collateral witnesses VA¹ and VA².</p>
+      		<p>On the linguistic level, <ref target="#andreose2002">Andreose (2002)</ref> 
+      			challenged the traditional view of a Venetian origin for VA, as proposed by 
+      			<ref target="#pelaez1906">Pelaez (1906)</ref> and 
+      			<ref target="#benedetto1928">Benedetto (1928)</ref>. He suggested a 
+      			more cautious classification as “Veneto-Emilian,” “Lombardic,” 
+      			or broadly “northern,” identifying Emilian features in the earliest 
+      			witness of the group, VA¹.</p>
       	</div>
       	<div type="p3" xml:lang="it">
       		<head>La famiglia VA</head>
       		<p>Pur essendo possibile riconoscere alcuni tratti distintivi della 
       			redazione VA, la ricostruzione della sua fisionomia originaria
       			resta difficile, perché i testimoni diretti superstiti 
-      			sono tardi o frammentari:</p>
+      			sono tardi o frammentari:
       		<list>
       			<item>VA¹:il codice Roma, Biblioteca Casanatense 3999, 
       			pergamenaceo del primo Trecento edito da 
@@ -6020,7 +6079,7 @@
       			secondo <ref target="#benedetto1928">Benedetto (1928, CIII)</ref>, 
       			questo codice quattrocentesco, sparito alla fine della seconda 
       			guerra mondiale, era parte della collezione fiorentina dei 
-      			Venturi Ginori Lisci (cf. anche Bertolucci Pizzorusso 1983, 357-8 e 
+      			Venturi Ginori Lisci (cf. anche <ref target="#bertolucci1983">Bertolucci Pizzorusso 1983, 357-8</ref> e 
       			<ref target="#dutschke1993">Dutschke 1993, 489</ref>).</item>
       		<item>VA⁵: il cartaceo Bern, Burgerbibliothek, ms 557 risale 
       			alla seconda metà del XV secolo, e ha forse origine veronese 
@@ -6032,17 +6091,64 @@
       		<item>VA⁶: per la descrizione del manoscritto
       			vedi Ms Desc. La scheda catalografica, curata da Sara 
       			Bischetti, è disponibile su Manus Online 
-      			(<ref target="https://tinyurl.com/mpejsuv9">https://tinyurl.com/mpejsuv9</ref>).</item></list>
+      			(<ref target="https://tinyurl.com/mpejsuv9">https://tinyurl.com/mpejsuv9</ref>).</item></list></p>
       	</div>
       	<div type="p3" xml:lang="en">
-      		<head></head>
+      		<head>The VA Family</head>
+      		<p>Although certain distinctive traits of the VA recension can be 
+      			recognised, reconstructing its original form remains challenging, 
+      			since the surviving direct witnesses are either late or fragmentary:
       		<list>
-      			<item>•	VA¹:</item>
-      		<item>•	VA²: </item>
-      		<item>•	VA³: </item>
-      		<item>•	VA⁴: </item>
-      		<item>•	VA⁵: </item>
-      		<item>•	VA⁶: </item></list>
+      			<item>VA¹: Rome, Biblioteca Casanatense 3999, a 
+      				parchment manuscript from the early fourteenth century, 
+      				edited by <ref target="#barbieri2001">Barbieri (2001)</ref>, 
+      				is the oldest and most authoritative witness. Its Emilian, 
+      				possibly Bolognese, linguistic features arguably best reflect the 
+      				original language of the recension (<ref target="#andreose2002">Andreose 2002</ref>). 
+      				Its fragmentary state—preserving only 30 chapters out of the 155 
+      				found in the most complete witness, VA³—precludes its use as the base 
+      				text for a critical edition.</item>
+      			<item>VA²: Florence, Riccardiana 1924, a paper manuscript 
+      				from the mid-fourteenth century, is acephalous, mutilated, 
+      				and lacunose, containing only 83 chapters. <ref target="#benedetto1928">Benedetto (1928, CIV)</ref> 
+      				noted its structural “disorder,” caused by the displacement of 
+      				some chapters in the central portion of the text. Nevertheless, it 
+      				is significant both for the overall quality of its readings and 
+      				because a related manuscript gave rise to the Tuscan translation TB
+      				and the VL group. <ref target="#andreose2002">Andreose (2002, 666-7)</ref> 
+      				proposed a Lombard-eastern provenance (Bergamo-Brescia area). 
+      				For the edition, the version prepared by <ref target="#dinale1989">Dinale (1989-90)</ref> 
+      				was adopted.</item>
+      			<item>VA³: Padua, Biblioteca Civica, ms. CM 211, a paper codex of 
+      				74 folios, was copied in 1445 by the Venetian noble Nicolò 
+      				Vitturi (cf. <ref target="#folena1990">Folena 1990, 391</ref>; 
+      				<ref target="#simion2025">Simion 2025, 146-7, note 24</ref>). 
+      				The text is divided into 155 chapters, preceded by introductory 
+      				rubrics, and serves as the base text for the reference critical 
+      				edition (<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999</ref>). 
+      				A 1793 codex descriptus exists in Milan, Biblioteca Ambrosiana, 
+      				Y 161 sup., VA3bis, made for Abbot Giuseppe Toaldo as part of a 
+      				never-completed edition project of <seg rend="italic">Devisement dou monde</seg> 
+      				(<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999, 36</ref>; 
+      				and cf. <ref target="#simion2019">Simion 2019, 36-7, fnn. 54.5</ref>).</item>
+      			<item>VA⁴: Closely related to VA³ and preserving a complete text, this 
+      				fifteenth-century manuscript disappeared at the end of the Second 
+      				World War. According to <ref target="#benedetto1928">Benedetto (1928, CIII)</ref>, 
+      				it was formerly part of the Venturi Ginori Lisci collection in Florence 
+      				(cf. <ref target="#bertolucci1983">Bertolucci Pizzorusso 1983, 357-8</ref>; 
+      				<ref target="#dutschke1993">Dutschke 1993, 489</ref>).</item>
+      			<item>VA⁵: Bern, Burgerbibliothek, ms. 557, a paper manuscript from the 
+      				second half of the fifteenth century, possibly of Veronese origin 
+      				(<ref target="#andreose2002">Andreose 2002, 665</ref>), lacks 
+      				several chapters compared with VA³. The most detailed and recent 
+      				description is available online: <ref target="https://katalog.burgerbib.ch/detail.aspx?ID=129586">https://katalog.burgerbib.ch/detail.aspx?ID=129586</ref>. 
+      				For the edition, the version prepared 
+      				by <ref target="#sarto2024">Sarto (2024-25)</ref> was used.</item>
+      			<item>VA⁶: For a description of the manuscript, see Ms Desc. The 
+      				catalogue entry, prepared by Sara Bischetti, is available on 
+      				Manus Online (<ref target="https://tinyurl.com/mpejsuv9">https://tinyurl.com/mpejsuv9</ref>).
+      			</item></list>
+      		</p>
       	</div>
       	<div type="p4" xml:lang="it">
       		<head>La posizione di VA⁶ all'interno della famiglia VA</head>
@@ -6057,6 +6163,18 @@
       			tuttavia di collocare quest’ultimo su un ramo collaterale 
       			(cf. <ref target="#simion2025">Simion 2025, 162</ref> e 
       			Simion in corso di stampa).</p>
+      	</div>
+      	<div type="p4" xml:lang="en">
+      		<head>The Position of VA⁶ within the VA Family</head>
+      		<p>The relationships among the witnesses of the VA family were 
+      			mapped by <ref target="#benedetto1928">Benedetto (1928, CXXXII)</ref> 
+      			in a genealogical diagram, subsequently confirmed and refined by 
+      			<ref target="#barbieri-andreose1999">Barbieri, Andreose (1999, 42)</ref> and 
+      			<ref target="#andreose-mascherpa2024">Andreose, Mascherpa (2024, 141)</ref>. 
+      			Within this framework, considering only the direct witnesses of VA, VA⁶ can be 
+      			assigned to the y subgroup alongside VA³ (VA⁴) and VA⁵. However, the absence 
+      			in VA⁶ of certain errors shared by VA³ and VA⁵ suggests that it occupies a 
+      			collateral branch (cf. <ref target="#simion2025">Simion 2025, 162</ref>; Simion forthcoming).</p>
       	</div>
       	<div type="p5" xml:lang="it">
       		<head>Perché un'edizione digitale di VA⁶</head>
@@ -6102,6 +6220,47 @@
       			Manus Online ha assicurato assistenza per le operazioni di caricamento 
       			della scheda catalografica e per l’acquisizione delle immagini 
       			(in svolgimento).</p>
+      	</div>
+      	<div type="p5" xml:lang="en">
+      		<head>Why a Digital Edition of VA⁶</head>
+      		<p>Until now, the VA recension has been only partially represented in 
+      			editorial form. The reference edition is that of
+      			<ref target="#barbieri-andreose1999">Barbieri, Andreose (1999)</ref>, 
+      			based on VA³, the only surviving complete witness. As the editors
+      			explain, in 1999 the state of VA made it preferable, rather than 
+      			producing a critical edition, to produce an interpretative edition 
+      			that could present the text as it circulated at a particular time 
+      			within a specific social context; for this reason, VA³ was chosen as 
+      			the base, being the “only [witness] that preserves this recension
+      			[…] in its entirety” (p. 44-5).</p>
+      		<p>In subsequent years, VA¹ was published by <ref target="#barbieri2001">Barbieri (2001)</ref>, 
+      			accompanied by a linguistic study by <ref target="#andreose2002">Andreose (2002)</ref>, 
+      			while VA² and VA⁵ remain accessible only through unpublished theses 
+      			(<ref target="#dinale1989">Dinale 1989-90</ref>; 
+      			<ref target="#sarto2024">Sarto 2024-25</ref>; 
+      			<ref target="#bernardi1993">Bernardi 1993-94</ref>). To date, no critical 
+      			edition of the VA recension exists that is founded on a systematic analysis 
+      			and comparison of all surviving direct witnesses, and that also considers 
+      			its textual descendancy, including Latin and vernacular translations (notably 
+      			the P and TB branches, derived from VA witnesses superior to the extant 
+      			ones). The digital edition of VA⁶ represents a first step in this 
+      			direction, providing a tool of practical use for the scholarly 
+      			community and making available a witness essential for any future 
+      			comprehensive critical edition of the VA recension.</p>
+      		<p>The project’s strength also lies in the active collaboration between 
+      			institutions and the academic community—a principle at the heart of 
+      			the CHANGES project. By enhancing the Foligno manuscript through advanced
+      			digital tools, the edition integrates it into the corpus of Italian 
+      			manuscript resources available in open access and interoperable according 
+      			to international standards, supporting both research and conservation. 
+      			In line with CHANGES objectives, the project establishes a network in 
+      			which preservation, enhancement, and accessibility mutually reinforce 
+      			each other, generating tangible benefits for the local context. Within 
+      			this framework, all participants play an active role: the Biblioteca 
+      			“Lodovico Jacobilli” contributed to defining digitisation protocols;
+      			the Soprintendenza Archivistica e Bibliografica dell’Umbria ensured 
+      			alignment with heritage policies; and Manus Online provided support 
+      			for cataloguing and image acquisition, which is still ongoing.</p>
       	</div>
       	<div type="p6" xml:lang="it">
       		<head>Criteri di Edizione</head>
@@ -6190,7 +6349,75 @@
       			<item><seg rend="italic">se</seg> = «se», «si» (particella pronominale e congiunzione); <seg rend="italic">sé</seg> = «sé»</item>
       			<item><seg rend="italic">si</seg> = «si», «se» (particella pronominale e congiunzione), «sé» (pronome); <seg rend="italic">sì</seg> = «così» (avverbio rafforzativo)</item>
       			<item><seg rend="italic">suo</seg> = «suo», <seg rend="italic">suo’</seg> = «suoi», «sue».</item>
-      		</list></p>	
+      		</list></p>
+      		<p>In linea con un’impostazione sostanzialmente conservativa, si è in genere 
+      			mantenuta la lezione del manoscritto anche in casi in cui, in base al 
+      			confronto con gli altri testimoni, essa risulta erronea, purché dotata 
+      			di senso (cf. <ref target="#barbieri-andreose1999">Barbieri, Andreose 1999, 55</ref>). 
+      			Gli interventi correttivi sono limitati ai passi in cui il testo si presenta 
+      			oscuro o incoerente. In tali circostanze, le proposte di correzione si fondano 
+      			sul confronto con gli altri testimoni della tradizione VA e con la redazione 
+      			F, e sono indicate nelle note espandibili.</p>
+      		<p>Le parentesi uncinate ‹ › indicano le integrazioni di lettere e parole; 
+      			le graffe { } le espunzioni; le quadre [ ] le correzioni; 
+      			le lacune (comprese quelle dovute alla mancanza di alcune carte) sono 
+      			indicate con ‹…›; le lezioni corrotte e quelle che richiederebbero 
+      			interventi di restauro eccessivamente onerose sono indicate tra cruces. 
+      			Le autocorrezioni del copista sono indicate tramite note espandibili, 
+      			come pure i richiami presenti nel verso di ogni carta.</p>
+      		<p>Dal punto di vista della codifica, l’edizione è realizzata secondo gli 
+      			standard XML-TEI e si allinea al tracciato adottato da Manus Online, al 
+      			fine di garantire interoperabilità e coerenza descrittiva. Il file TEI è 
+      			articolato in tre componenti fondamentali: l’intestazione del documento 
+      			(‹teiHeader›), che raccoglie i metadati descrittivi, codicologici, 
+      			bibliografici, nonché le liste di antroponimi, toponimi e realia; la sezione 
+      			dedicata alla gestione delle immagini facsimili (‹facsimile›); e infine la 
+      			sezione dedicata al testo (‹text›), utilizzata in particolare per codificare il 
+      			testo nella sua versione diplomatica e in quella interpretativa. Le voci 
+      			contenute nelle liste codificate nel TEI Header saranno in un secondo momento 
+      			corredate da riferimenti a Linked Open Data 
+      			(<ref target="https://www.ontotext.com/knowledgehub/fundamentals/linked-data-linked-open-data/">LOD</ref>), con l’obiettivo di favorire 
+      			l’integrazione del testo in reti di relazioni semantiche e di potenziarne la 
+      			riusabilità in contesti di ricerca più ampi.</p>
+      		<p>Per quanto riguarda la resa del testo, la codifica riflette 
+      			sistematicamente le scelte editoriali illustrate sopra. In particolare, 
+      			la codifica dell’edizione diplomatica si limita a registrare in modo 
+      			conservativo la lezione del manoscritto, senza interventi di 
+      			normalizzazione grafica o linguistica. In questa modalità, la marcatura 
+      			TEI è impiegata per descrivere la struttura materiale del testo, 
+      			la disposizione su carta, le abbreviazioni, le aggiunte, le correzioni
+      			e gli altri fenomeni grafici e codicologici, in coerenza con i
+      			criteri illustrati sopra.</p>
+      		<p>Nell’interpretativa sono state registrate: la modernizzazione della 
+      			punteggiatura; la normalizzazione dell’uso delle maiuscole; l’aggiunta di 
+      			accenti e segni diacritici secondo l’uso moderno; la separazione delle 
+      			parole e lo scioglimento delle abbreviazioni.</p>
+      		<!-- #######PARTE ROSSA###### -->
+      		<p>La marcatura attraverso l’elemento ‹choice›, permette di accogliere da un 
+      			lato la lezione del manoscritto (‹orig›), visualizzata nella trascrizione 
+      			diplomatica, e dall’altro la forma normalizzata (‹reg›), impiegata per la 
+      			costruzione del testo interpretativo. Fa eccezione la modernizzazione 
+      			della punteggiatura, inserita in ‹reg› senza la scelta che caratterizza
+      			gli altri casi, poiché nel manoscritto questa è assente e quindi 
+      			l’opzione che offre ‹choice› non sarebbe operabile.</p>
+      		<p>Nella trascrizione interpretativa alcune lettere compaiono in corsivo 
+      			o con una colorazione diversa rispetto al resto del testo. Tale marcatura 
+      			segnala i punti in cui la forma della trascrizione interpretativa non 
+      			coincide esattamente con quella della trascrizione diplomatica. Ciò avviene, 
+      			per esempio, nei casi di scioglimento di abbreviazioni, di integrazioni o 
+      			di interventi editoriali: la marcatura grafica consente così di individuare 
+      			immediatamente gli elementi che non trovano un corrispettivo diretto nella 
+      			forma trascritta diplomaticamente.</p>
+      		<p>Per quanto riguarda le immagini, nell’edizione sono presentate versioni 
+      			ottimizzate per la lettura e l’allineamento con la trascrizione, mentre 
+      			le riproduzioni integrali, realizzate seguendo le linee del PND, sono 
+      			disponibili secondo il protocollo IIIF in una repository parallela. Il 
+      			software di visualizzazione adottato, EVT 2 (Edition Visualization 
+      			Technology, cf. <ref target="#rossellidelturco2019">Rosselli Del Turco 2019</ref>), 
+      			consente un allineamento preciso tra testo e immagine. Tutte le scelte 
+      			riferite alle immagini sono state concordate con la Biblioteca e con 
+      			la Soprintendenza Archivistica e Bibliografica dell’Umbria.</p>
+      		<!-- #######PARTE ROSSA###### -->
       		<p>
       			Si offre di seguito una legenda delle tipologie di note espandibili:
       			<lb/>(1) <note type="autoCorr">Questa nota indica gli <hi rend="bold">interventi 
@@ -6204,10 +6431,181 @@
       			del codice, Ludovico Jacobilli;
       			<lb/>(3) <note type="ric">Questa nota indica i richiami presenti sul 
       				verso di ogni carta</note> la nota di colore rosa, contrassegnata 
-      			dalla lettera L, indica i richiami presenti sul verso di ogni carta;
+      			dalla lettera R, indica i richiami presenti sul verso di ogni carta;
       			<lb/>(4) <note type="corrSim">Questa note indica le note di commento filologico dell’editore</note> 
       			la nota di colore verde, contrassegnata dalla lettera E, 
       			indica le note di commento filologico dell’editore.
+      		</p>
+      	</div>
+      	<div type="p6" xml:lang="en">
+      		<head>Editorial Principles</head>
+      		<p>As noted above, the text of VA⁶ is presented in both a diplomatic 
+      			and an interpretative edition. Given VA⁶’s overall fidelity to VA³, 
+      			including at the linguistic level, the edition follows as closely 
+      			as possible the editorial conventions established in the VA³ edition 
+      			by <ref target="#barbieri-andreose1999">Barbieri, Andreose (1999, 51-6)</ref>, 
+      			thereby facilitating the study of relationships among the various witnesses. 
+      			For a detailed analysis, we refer the reader to their Introduction; here we 
+      			provide only a general overview.</p>
+      		<p>The diplomatic edition adheres to conservative principles, preserving 
+      			the manuscript’s orthography while distinguishing u and v according 
+      			to modern conventions; both j and y have been retained.</p>
+      		<p>Folio layout is indicated via a dedicated controller, with recto and 
+      			verso clearly marked, while line divisions are indicated by progressive 
+      			numbering. Red initials are rendered in larger size than the surrounding 
+      			text. Word segmentation follows that of the manuscript, as do 
+      			conventions of capitalization. Abbreviations are reproduced faithfully. 
+      			Scribal errors—including letter substitutions, dittographies, and 
+      			haplographies—have been retained. Additions are encoded directly in 
+      			XML according to <ref target="https://tei-c.org/release/doc/tei-p5-doc/it/html/index.html">TEI</ref> 
+      			guidelines and displayed in <ref target="https://visualizationtechnology.wordpress.com/">EVT</ref> 
+      			in light green. Any lacunae, including those caused by missing 
+      			leaves, are marked by an ellipsis enclosed in angle brackets ‹…›. 
+      			Glosses by Jacobilli and the few interventions by a second hand 
+      			are recorded in expandable notes.</p>
+      		<p rend="bold">Interpretative Edition</p>
+      		<p>In the interpretative edition, line divisions are indicated, 
+      			as in the diplomatic edition, by progressive numbering. Chapters 
+      			have been numbered from 1 to 144, and the text has been divided 
+      			into pericopes, marked with Arabic numerals in square brackets. 
+      			Next to each chapter number, the correspondence with the chapters 
+      			of VA³ and the reference text, the Franco-Italian recension F 
+      			(ed. <ref target="#eusebi-burgio2018">Eusebi, Burgio 2018</ref>), is 
+      			provided in parentheses. Comma placement follows
+      			<ref target="#barbieri-andreose1999">Barbieri, Andreose (1999)</ref>, 
+      			except in the few cases where the two texts cannot be aligned.</p>
+      		<p>If a word is split across two folios, it has been unified at the 
+      			beginning of the following folio. In the rare instances where initials
+      			are missing and the scribe left a blank space, letters have been 
+      			supplied in angle brackets ‹› based on guiding letters. Word division,
+      			punctuation, accents, apostrophes, and capitalization follow modern 
+      			conventions. Abbreviations have been expanded. j has been normalized 
+      			to i, while y has been retained.</p>
+      		<p>In the manuscript, the grapheme ‹c› is used systematically in place of ‹ç› to 
+      			represent the voiced alveopalatal affricate and the alveolar fricatives,
+      			both voiced and voiceless. Examples include cente, vancelio, doncele, 
+      			beleca, cuche (for “zucche”), and this orthographic convention has 
+      			been preserved.</p>
+      		<p>Compound prepositions and conjunctions have been unified. <seg rend="italic">Chel</seg>, <seg rend="italic">sel</seg> 
+      			are rendered as <seg rend="italic">ch’el</seg>, <seg rend="italic">s’el</seg> when 
+      			<seg rend="italic">el</seg> is a pronoun; <seg rend="italic">che ’l</seg>, 
+      			<seg rend="italic">se ’l</seg> when it functions as an article. Similarly, 
+      			<seg rend="italic">chela</seg>, <seg rend="italic">sela</seg> are rendered 
+      			as <seg rend="italic">ch’ela</seg>, <seg rend="italic">s’ela</seg> in the case 
+      			of a pronoun; <seg rend="italic">che la</seg>, <seg rend="italic">se la</seg> 
+      			when functioning as an article. Unjustified consonant doubling has been 
+      			preserved, e.g., <seg rend="italic">fillo</seg>, <seg rend="italic">perichollo</seg>. 
+      			Roman numerals have been regularized in uppercase; the symbol ° has been
+      			retained only in dates. Direct speech is indicated by angular quotation 
+      			marks (« »).</p>
+      		<p>Accents have been applied to:
+      		<list>
+      			<item>forms of the verb avere (<seg rend="italic">ò</seg>, <seg rend="italic">à</seg>, <seg rend="italic">àno</seg>);</item>
+      			<item>apocopated past participles;</item>
+      			<item>perfect forms such as <seg rend="italic">menàno</seg>, <seg rend="italic">partìno</seg>, <seg rend="italic">intròno</seg>, <seg rend="italic">navegòno</seg>.</item>
+      		</list>
+      			To improve readability (<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999, 54</ref>), 
+      			clitic pronouns attached to verbs are indicated with a hyphen.</p>
+      		<p>Regarding the distinction of homographs, the following conventions have been applied:
+      			<list>
+      				<item><seg rend="italic">a</seg> = «a»; <seg rend="italic">à</seg> = «ha»; <seg rend="Italic">a’</seg> = «ai»</item>
+      				<item><seg rend="italic">da</seg> = «da»; <seg rend="italic">dà</seg> = «dà»; <seg rend="italic">da’</seg> = «dai»</item>
+      				<item><seg rend="italic">de</seg> = «di»; <seg rend="italic">de’</seg> = «dei»; <seg rend="italic">dè’</seg> = «diede»; <seg rend="italic">dè</seg> = «è»</item>
+      				<item><seg rend="italic">di</seg> = «di»; <seg rend="italic">d’i</seg> = «dei»; <seg rend="italic">dì</seg> = «dì»</item>
+      				<item><seg rend="italic">e</seg> = «e»; è = «è»; <seg rend="italic">e’</seg> = «io», «essi»</item>
+      				<item><seg rend="italic">fa</seg> = «(egli) fa»; <seg rend="italic">fa’</seg> = «fa’» (imper.)</item>
+      				<item><seg rend="italic">fè’</seg> = «fece»; <seg rend="italic">fe’</seg> = «fede»</item>
+      				<item><seg rend="italic">fi</seg> = «feci»; <seg rend="italic">fì</seg> = «fir» </item>
+      				<item><seg rend="italic">fu</seg> = «fu»; <seg rend="italic">fu’</seg> = «fui»</item>
+      				<item><seg rend="italic">i</seg> = «i», «ci»;<seg rend="italic"> i’</seg> = «io»</item>
+      				<item><seg rend="italic">la</seg> = «la»; <seg rend="italic">là</seg> = «là»; <seg rend="italic">’la</seg> = «ella», «essa»</item>
+      				<item><seg rend="italic">li</seg> = «i», «gli» (articolo determinativo e pronome personale); <seg rend="italic">lì</seg> = «lì»; <seg rend="italic">’li</seg> = «essi»</item>
+      				<item><seg rend="italic">lo</seg> = «lo» (articolo determinativo e pronome personale); <seg rend="italic">’lo</seg> = «egli»</item>
+      				<item><seg rend="italic">mie</seg> = «mie»; <seg rend="italic">mie’</seg> = «miei»</item>
+      				<item><seg rend="italic">mo</seg> = «ma»; <seg rend="italic">mo’</seg> = «ora»</item>
+      				<item><seg rend="italic">ne</seg> = «ne»; <seg rend="italic">né</seg> = «né»</item>
+      				<item><seg rend="italic">o</seg> = «o»; <seg rend="italic">ò</seg> = «ho»; <seg rend="italic">o’</seg> = «dove»</item>
+      				<item><seg rend="italic">po’</seg> = «poco»; <seg rend="italic">pò</seg> = «può»</item>
+      				<item><seg rend="italic">se</seg> = «se», «si» (particella pronominale e congiunzione); <seg rend="italic">sé</seg> = «sé»</item>
+      				<item><seg rend="italic">si</seg> = «si», «se» (particella pronominale e congiunzione), «sé» (pronome); <seg rend="italic">sì</seg> = «così» (avverbio rafforzativo)</item>
+      				<item><seg rend="italic">suo</seg> = «suo», <seg rend="italic">suo’</seg> = «suoi», «sue».</item>
+      			</list></p>
+      		<p>In line with a fundamentally conservative approach, the manuscript’s 
+      			readings have generally been preserved, even in cases where comparison 
+      			with other witnesses suggests they are erroneous, provided that they 
+      			remain intelligible (cf. <ref target="#barbieri-andreose1999">Barbieri, Andreose 1999, 55</ref>). 
+      			Corrective interventions are limited to passages where the text is 
+      			obscure or incoherent. In such instances, proposed emendations are 
+      			based on comparison with other VA witnesses and with the F recension, and 
+      			are indicated in expandable notes.</p>
+      		<p>Angle brackets ‹ › indicate inserted letters or words; braces { } mark 
+      			deletions; square brackets [ ] indicate corrections; lacunae—including 
+      			those caused by missing folios—are marked with ‹…›; and corrupt readings 
+      			or those requiring excessively invasive restoration are indicated 
+      			by cruces. The scribe’s self-corrections are noted in expandable 
+      			annotations, as are references appearing on the verso of each folio.</p>
+      		<p>From a technical standpoint, the edition is encoded according to
+      			XML-TEI standards and follows the schema adopted by Manus Online,
+      			ensuring both interoperability and descriptive consistency. 
+      			The TEI file is structured into three main components:
+      		<list>
+      			<item><seg rend="bold">‹teiHeader›</seg>,which gathers descriptive, codicological, 
+      				and bibliographical metadata, as well as lists of personal names, 
+      				place names, and realia;</item>
+      			<item><seg rend="bold">‹facsimile›</seg>, dedicated to the management 
+      				of high-resolution images;</item>
+      			<item><seg rend="bold">‹text›</seg>, used to encode both the 
+      				diplomatic and interpretative versions of the text.</item>
+      		</list>
+      			Entries in the TEI Header lists will subsequently be linked to 
+      			Linked Open Data (<ref target=" https://www.ontotext.com/knowledgehub/fundamentals/linked-data-linked-open-data/">LOD</ref>), 
+      			with the aim of integrating the text into semantic networks and enhancing 
+      			its reusability for broader research applications.</p>
+      		<p>Regarding the rendering of the text, the encoding systematically 
+      			reflects the editorial principles outlined above. In particular, 
+      			the diplomatic edition is encoded conservatively to record the 
+      			manuscript’s readings without any graphical or linguistic normalization. 
+      			In this mode, the TEI markup is used to describe the material 
+      			structure of the text, its layout on the folios, abbreviations, 
+      			additions, corrections, and other graphical and codicological 
+      			phenomena, in accordance with the criteria discussed above.</p>
+      		<p>In the interpretative edition, the following modifications have been 
+      			recorded: modernization of punctuation; standardization of capitalization; 
+      			addition of accents and diacritical marks according to contemporary usage; 
+      			word separation; and expansion of abbreviations.</p>
+      		<!-- #####PARTE ROSSA###### -->
+      		<p>The ‹choice› element is employed to accommodate, on the one hand, 
+      			the manuscript reading (‹orig›), as displayed in the diplomatic 
+      			transcription, and on the other, the normalized form (‹reg›), used to 
+      			construct the interpretative text. An exception is made for punctuation 
+      			modernization, which is encoded directly in ‹reg› without the ‹choice› 
+      			structure, as it is absent in the manuscript and therefore cannot 
+      			be offered as an alternative.</p>
+      		<p>In the interpretative transcription, certain letters appear in 
+      			italics or in a different color from the surrounding text. This 
+      			marking highlights instances where the interpretative form does not 
+      			exactly match the diplomatic transcription, such as in the expansion 
+      			of abbreviations, insertions, or editorial interventions. Graphical 
+      			markup thus allows readers to immediately identify elements that have
+      			no direct counterpart in the diplomatic form.</p>
+      		<p>With regard to images, the edition presents versions optimized for
+      			readability and alignment with the transcription, while full 
+      			reproductions, produced according to PND guidelines, are available via 
+      			IIIF in a parallel repository. The visualization software 
+      			employed, EVT 2 (Edition Visualization Technology, 
+      			cf. <ref target="#rossellidelturco2019">Rosselli Del Turco 2019</ref>), 
+      			allows precise alignment between text and image. All decisions
+      			concerning images were made in consultation with the Biblioteca 
+      			“Lodovico Jacobilli” and the Soprintendenza Archivistica e 
+      			Bibliografica dell’Umbria.</p>
+      		<p>
+      			<seg rend="bold">Legend of Expandable notes</seg>
+      			<list>
+      				<item>Yellow notes (C) <note type="autoCorr"/> indicate self-corrections made by the primary scribe.</item>
+      				<item>Blue notes (J) <note type="jacob"/> indicate self-corrections made by the primary scribe.</item>
+      				<item>Pink notes (R) <note type="ric"/> indicate references appearing on the verso of each folio.</item>
+      				<item>Green notes (E) <note type="corrSim"/> indicate the editor’s philological commentary.</item>
+      			</list>
       		</p>
       	</div>
       	<div type="p7" xml:lang="it">
@@ -6216,17 +6614,72 @@
       			<lb/><seg rend="bold">Coordinamento</seg>: Eugenio Burgio, Marina Buzzoni, Samuela Simion
       			<lb/><seg rend="bold">Codifica digitale</seg>: Giulia Fabbris, Fabio Soncin
       			<lb/><seg rend="bold">Allestimento dell’edizione</seg>: Samuela Simion
-      			<lb/><seg rend="bold">Enti e istituzioni partner</seg>:
-      			<lb/>•	Biblioteca “Lodovico Jacobilli” della Diocesi di Foligno 
-      			<lb/>•	Fondazione CHANGES
-      			<lb/>•	Soprintendenza Archivistica e Bibliografica dell’Umbria
-      			<lb/>•	Manus Online 
-      			<lb/>•	Comitato Nazionale per le celebrazioni del settimo centenario della morte di Marco Polo
+      			<seg rend="bold">Enti e istituzioni partner</seg>:
+      			<list>
+      				<item>Biblioteca “Lodovico Jacobilli” della Diocesi di Foligno</item>
+      				<item>Fondazione CHANGES</item>
+      				<item>Soprintendenza Archivistica e Bibliografica dell’Umbria</item>
+      				<item>Manus Online</item> 
+      				<item>Comitato Nazionale per le celebrazioni del settimo centenario della morte di Marco Polo</item>
+      			</list>
+      		</p>
+      	</div>
+      	<div type="p7">
+      		<head>Project Institutions and Team</head>
+      		<p>
+      			<lb/><seg rend="bold">Coordination</seg>: Eugenio Burgio, Marina Buzzoni, Samuela Simion
+      			<lb/><seg rend="bold">Digital Encoding</seg>: Giulia Fabbris, Fabio Soncin
+      			<lb/><seg rend="bold">Edition Preparation</seg>: Samuela Simion
+      			<seg rend="bold">Partner Institutions</seg>:
+      			<list>
+      				<item>Biblioteca “Lodovico Jacobilli” della Diocesi di Foligno</item>
+      				<item>CHANGES Foundation</item>
+      				<item>Soprintendenza Archivistica e Bibliografica dell’Umbria</item>
+      				<item>Manus Online</item> 
+      				<item>National Committee for the Commemoration of the Seventh Centenary of Marco Polo’s Death</item>
+      			</list>
       		</p>
       	</div>
       	<div type="p8" xml:lang="it">
       		<head>Ringraziamenti</head>
-      		<p>Text</p>
+      		<p>Gli editori ringraziano la Biblioteca «Lodovico Jacobilli» della Diocesi 
+      			di Foligno per la concessione delle immagini del manoscritto; il 
+      			bibliotecario, dott. Ivan Petrini, per la grande disponibilità; la 
+      			Soprintendenza Archivistica e Bibliografica dell’Umbria, in particolare 
+      			la Soprintendente, dott.ssa Caterina Fontanella e la dott.ssa Francesca 
+      			Valentini (ora Soprintendente Archeologia, Belle Arti e Paesaggio per 
+      			l’Umbria); Manus Online e in particolare la dott.ssa Elisabetta Castro; 
+      			Sara Bischetti per la descrizione del codice; la segreteria del CESA per 
+      			il supporto organizzativo; la Fondazione CHANGES per il sostegno fornito al 
+      			progetto.</p>
+      		<p rend="italic">Piano Nazionale di Ripresa e Resilienza (PNRR), Missione 4 
+      			‘Istruzione e ricerca’ – Componente 2 ‘Dalla ricerca 
+      			all’impresa’ – Investimento 1.3, Partenariato Esteso ‘CHANGES’, 
+      			tematica ‘5. Humanities and cultural heritage as laboratories 
+      			of innovation and creativity’ codice identificativo PE 00000020, 
+      			(CUP n. H53C22000850006), finanziato dall’Unione Europea – 
+      			NextGenerationEU. </p>
+      	</div>
+      	<div type="p8" xml:lang="en">
+      		<head>Acknowledgements</head>
+      		<p>The editors wish to thank the Biblioteca “Lodovico Jacobilli” 
+      			of the Diocese of Foligno for granting permission to reproduce 
+      			images of the manuscript; the librarian, Dr Ivan Petrini, for 
+      			his generous availability; the Soprintendenza Archivistica e 
+      			Bibliografica dell’Umbria, in particular the Superintendent, Dr 
+      			Caterina Fontanella, and Dr Francesca Valentini (now 
+      			Superintendent of Archaeology, Fine Arts and Landscape for 
+      			Umbria); Manus Online, especially Dr Elisabetta Castro; Sara 
+      			Bischetti for the manuscript description; the CESA Secretariat 
+      			for organizational support; and the CHANGES Foundation for its 
+      			project support.</p>
+      		<p>This project has been funded by the 
+      			<seg rend="bold">National Recovery and Resilience Plan (PNRR), Mission 4 
+      			‘Education and Research’ – Component 2 ‘From Research to Business’ – 
+      			Investment 1.3, Extended Partnership ‘CHANGES’</seg>, under the theme 
+      			“Humanities and Cultural Heritage as Laboratories of Innovation 
+      			and Creativity” (ID code PE 00000020, CUP H53C22000850006), 
+      			financed by the <seg rend="bold">European Union – NextGenerationEU</seg>.</p>
       	</div>
       	<div type="p9">
       		<head>Riferimenti bibliografici</head>
@@ -6257,7 +6710,7 @@
       				<author><surname>Mascherpa</surname>, <forename>G.</forename></author>
       				(<date>2024</date>).
       				«<title>Il “Devisement dou monde” come problema filologico</title>».
-      				In: <title rend="italic">Simion, Burgio 2024</title>,
+      				<title rend="italic">Simion, Burgio 2024</title>,
       				<biblScope unit="page">131-63</biblScope>.
       			</bibl></p>
       			<p><bibl ref="#barbieri2001">
@@ -6308,7 +6761,7 @@
       			<p><bibl ref="#calloni2024">
       				<author><surname>Calloni</surname>, <forename>C.G.</forename></author>
       				(<date>2024-25</date>).
-      				<title rend="italic">Per un’edizione critica della traduzione latina del “Devisement dou monde” di Francesco Pipino. Rapporto con la fonte, recensio della tradizione manoscritta e parziale saggio d’edizione</title>
+      				<title><seg rend="italic">Per un’edizione critica della traduzione latina del “Devisement dou monde” di Francesco Pipino. Rapporto con la fonte,</seg> recensio <seg rend="italic">della tradizione manoscritta e parziale saggio d’edizione</seg></title>
       				[tesi di dottorato].
       				<pubPlace>Venezia</pubPlace>: <publisher>Università Ca’ Foscari Venezia</publisher>.
       			</bibl></p>
@@ -6333,13 +6786,13 @@
       				<author><surname>Folena</surname>, <forename>G.</forename></author>
       				(<date>1990</date>).
       				«<title>La cultura volgare e l’“umanesimo cavalleresco” nel Veneto</title>».
-      				In: <editor><surname>Folena</surname>, <forename>G.</forename></editor> (a cura di),
+      				<editor><surname>Folena</surname>, <forename>G.</forename></editor> (a cura di),
       				<title rend="italic">Culture e lingue nel Veneto medievale</title>.
       				<pubPlace>Padova</pubPlace>: <publisher>Editoriale Programma</publisher>,
       				<biblScope unit="page">377-94</biblScope>.
       			</bibl></p>
       			<p><bibl ref="#mazzatinti1930">
-      				<editor><surname>Mazzatinti</surname>, <forename>G.</forename></editor>
+      				<author><surname>Mazzatinti</surname>, <forename>G.</forename></author>
       				(a cura di) (<date>1930</date>).
       				<title rend="italic">Inventario dei manoscritti delle biblioteche d’Italia</title>.
       				<pubPlace>Firenze</pubPlace>: <publisher>Olschki</publisher>,
@@ -6361,6 +6814,13 @@
       				<biblScope unit="volume">20</biblScope>,
       				<biblScope unit="page">55-65</biblScope>.
       			</bibl></p>
+      		    <p><bibl ref="#rossellidelturco2019">
+      				<author><surname>Rosselli Del Turco</surname>, <forename>R.</forename></author> 
+      				(<date>2019</date>). 
+      				«<title>Designing an Advanced Software Tool for Digital Scholarly Editions: The Inception and Development of EVT (Edition Visualization Technology)</title>». 
+      				<title rend="italic">Textual Cultures</title>, 12 (2) 91–111. 
+      				<ref target="https://doi.org/10.14434/textual.v12i2.27690">https://doi.org/10.14434/textual.v12i2.27690</ref>
+      		</bibl></p>
       			<p><bibl ref="#sarto2024">
       				<author><surname>Sarto</surname>, <forename>E.</forename></author>
       				(<date>2024-25</date>).
@@ -6368,8 +6828,8 @@
       				[tesi di laurea].
       				<pubPlace>Verona</pubPlace>: <publisher>Università degli Studi</publisher>.
       			</bibl></p>
-      		<p><bibl ref="#simion2019">
-      				<editor><surname>Simion</surname>, <forename>S.</forename></editor>
+      		    <p><bibl ref="#simion2019">
+      				<author><surname>Simion</surname>, <forename>S.</forename></author>
       				(a cura di) (<date>2019</date>).
       				<title rend="italic">Marco Polo: Il “Devisement dou monde” nella redazione veneziana V (cod. Hamilton 424 della Staatsbibliothek di Berlino)</title>.
       				<pubPlace>Venezia</pubPlace>: <publisher>Edizioni Ca’ Foscari</publisher>. ARCA: <ref target="https://iris.unive.it/handle/10278/3720805">https://iris.unive.it/handle/10278/3720805</ref>
@@ -6377,10 +6837,10 @@
       			<p><bibl ref="#simion2020">
       				<author><surname>Simion</surname>, <forename>S.</forename></author>
       				(<date>2020</date>).
-      				«<title>«Gerarchie del riferibile» nella redazione P del “Devisement dou monde”</title>».
-      				In: <editor><surname>Conte</surname>, <forename>M.</forename></editor>;
-      				<editor><surname>Montefusco</surname>, <forename>A.</forename></editor>;
-      				<editor><surname>Simion</surname>, <forename>S.</forename></editor> (a cura di),
+      				«<title>Gerarchie del riferibile» nella redazione P del “Devisement dou monde”</title>».
+      				<author><surname>Conte</surname>, <forename>M.</forename></author>;
+      				<author><surname>Montefusco</surname>, <forename>A.</forename></author>;
+      				<author><surname>Simion</surname>, <forename>S.</forename></author> (a cura di),
       				<title rend="italic">«Ad consolationem legentium». Il Marco Polo dei Domenicani</title>.
       				<pubPlace>Venezia</pubPlace>: <publisher>Edizioni Ca’ Foscari</publisher>,
       				<biblScope unit="page">117-42</biblScope>. <ref target="http://doi.org/10.30687/978-88-6969-439-4">http://doi.org/10.30687/978-88-6969-439-4</ref>
@@ -6388,14 +6848,14 @@
       			<p><bibl ref="#simion2025">
       				<author><surname>Simion</surname>, <forename>S.</forename></author>
       				(<date>2025</date>).
-      				«<title>Un testimone ritrovato del Devisement dou monde (VA): il codice Foligno, Biblioteca “Lodovico Jacobilli”, A.II.9</title>».
+      				«<title>Un testimone ritrovato del <seg rend="italic">Devisement dou monde</seg> (VA): il codice Foligno, Biblioteca “Lodovico Jacobilli”, A.II.9</title>».
       				<title rend="italic">Medioevo Romanzo</title>,
       				<biblScope unit="volume">49</biblScope>(1),
       				<biblScope unit="page">139-64</biblScope>.
       			</bibl></p>
       			<p><bibl ref="#simion-burgio2024">
-      				<editor><surname>Simion</surname>, <forename>S.</forename></editor>;
-      				<editor><surname>Burgio</surname>, <forename>E.</forename></editor>
+      				<author><surname>Simion</surname>, <forename>S.</forename></author>;
+      				<author><surname>Burgio</surname>, <forename>E.</forename></author>
       				(a cura di) (<date>2024</date>).
       				<title rend="italic">Marco Polo. Storia e mito di un viaggio e di un libro</title>.
       				<pubPlace>Roma</pubPlace>: <publisher>Carocci</publisher>.
