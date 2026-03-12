@@ -14614,25 +14614,69 @@
                      </choice><reg>.</reg></term>
                   </seg>
                <seg n="2">
-                  <reg>[2] </reg>eli ano lece de <persName ref="#maomet">macho <lb n="9"
-                        xml:id="A.II.9_lb_17v_09" facs="#A.II.9_line_17v_09"/>meto</persName>
-                  <reg>.</reg></seg>
+                  <reg>[2] </reg><choice>
+                  	<orig>eli</orig>
+                  	<reg>Eli</reg>
+                  </choice> <choice>
+                  	<orig>ano</orig>
+                  	<reg>àno</reg>
+                  </choice> lece de <persName ref="#maomet"><choice>
+                  		<orig>macho<lb n="9" xml:id="A.II.9_lb_17v_09_orig" facs="#A.II.9_line_17v_09_orig"/>meto</orig>
+                  		<reg>Machometo<reg>.</reg><lb n="9" xml:id="A.II.9_lb_17v_09_reg" facs="#A.II.9_line_17v_09_reg"/></reg>
+                  </choice></persName>
+                  </seg>
                <seg n="3">
-                  <reg>[3] </reg>in quela provencia sie citade Echaste <lb n="10"
-                     xml:id="A.II.9_lb_17v_10" facs="#A.II.9_line_17v_10"/>ly asay lapluy nobely
-                  citade delo reame sie <placeName ref="#cascar2">chasc<g ref="#atilde"/>
-                  </placeName>
-                  <lb n="11" xml:id="A.II.9_lb_17v_11" facs="#A.II.9_line_17v_11"/>
-                  <reg>.</reg></seg>
+                  <reg>[3] </reg><choice>
+                  	<orig>in</orig>
+                  	<reg>In</reg>
+                  </choice> quela provencia si<reg>&#173; </reg><choice>
+                  	<orig>e</orig>
+                  	<reg>è</reg>
+                  </choice> citade <choice>
+                  	<orig>E</orig>
+                  	<reg>e</reg>
+                  </choice><reg>&#173; </reg><choice>
+                  	<orig>chaste<lb n="10" xml:id="A.II.9_lb_17v_10_orig" facs="#A.II.9_line_17v_10_orig"/>ly</orig>
+                  	<reg>chastely<lb n="10" xml:id="A.II.9_lb_17v_10_reg" facs="#A.II.9_line_17v_10_reg"/></reg>
+                  </choice> asay<reg>;</reg> la<reg>&#173; </reg>pluy <choice>
+                  	<sic>nobely</sic>
+                  	<corr>nobel{y}</corr>
+                  </choice>
+               	citade delo reame si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> <placeName ref="#cascar2"><choice>
+               			<abbr>chasc<am><g ref="#atilde"/></am></abbr>
+               			<expan>chasc<g ref="#atilde"/><ex>r</ex></expan>
+               	</choice><reg>.</reg></placeName></seg>
                <seg n="4">
-                  <reg>[4] </reg>questa provencia sie dentro <term ref="#grec">griego</term>
-                  <term ref="#levant">elevante</term>
-                  <reg>.</reg></seg>
+               	<lb n="11" xml:id="A.II.9_lb_17v_11" facs="#A.II.9_line_17v_11"/><reg>[4] </reg><choice>
+               		<orig>questa</orig>
+               		<reg>Questa</reg>
+               	</choice> provencia si<reg>&#173; </reg><choice>
+               		<orig>e</orig>
+               		<reg>è</reg>
+               	</choice> dentro <term ref="#grec">griego</term>
+               	e<reg>&#173; </reg><term ref="#levant">levante</term><reg>.</reg></seg>
                <seg n="5">
                   <reg>[5] </reg>Elly <lb n="12" xml:id="A.II.9_lb_17v_12"
-                     facs="#A.II.9_line_17v_12"/>viveno de marchadantie Et de arte Et ano mol <lb
-                     n="13" xml:id="A.II.9_lb_17v_13" facs="#A.II.9_line_17v_13"/>te bele vigne
-                  Eposesione chon cardiny <reg>.</reg></seg>
+                     facs="#A.II.9_line_17v_12"/>viveno de marchadantie <choice>
+                     	<orig>Et</orig>
+                     	<reg>et</reg>
+                     </choice> de arte <choice>
+                     	<orig>Et</orig>
+                     	<reg>et</reg>
+                     </choice> <choice>
+                     	<orig>ano</orig>
+                     	<reg>àno</reg>
+                     </choice> <choice>
+                     	<orig>mol<lb n="13" xml:id="A.II.9_lb_17v_13_orig" facs="#A.II.9_line_17v_13_orig"/>te</orig>
+                     	<reg>molte<lb n="13" xml:id="A.II.9_lb_17v_13_reg" facs="#A.II.9_line_17v_13_reg"/></reg>
+                     </choice> bele vigne
+               	<choice>
+               		<orig>E</orig>
+               		<reg>e</reg>
+               	</choice><reg>&#173; </reg>posesione chon cardiny<reg>.</reg></seg>
                <seg n="6">
                   <reg>[6] </reg>la nase <lb n="14" xml:id="A.II.9_lb_17v_14"
                      facs="#A.II.9_line_17v_14"/>
