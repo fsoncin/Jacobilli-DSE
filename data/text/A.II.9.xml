@@ -8397,8 +8397,17 @@
                <seg n="1">
                   <reg>[1] </reg>
                   <placeName ref="#sanmarcan">
-                     <hi rend="init3.1">S</hi>An marchan</placeName> euna citade grandisima eno <lb
-                     n="22" xml:id="A.II.9_lb_17v_22" facs="#A.II.9_line_17v_22"/>inlaquale abita
+                     <choice>
+                                             <orig><hi rend="init3.1">S</hi>An marchan</orig>
+                                             <reg><hi rend="init3.1">S</hi>anmarchan</reg>
+                                          </choice></placeName> <choice>
+                                                                                       <orig>e</orig>
+                                                                                       <reg>è</reg>
+                                                                                    </choice><reg>&#173; </reg>una citade grandisima 
+                                                                                    e<reg>&#173; </reg><choice>
+                                                                                    	<orig>no<lb n="22" xml:id="A.II.9_lb_17v_22_orig" facs="#A.II.9_line_17v_22_orig"/>bele</orig>
+                                                                                    	<reg>nobele<reg>,</reg><lb n="22" xml:id="A.II.9_lb_17v_22_reg" facs="#A.II.9_line_17v_22_reg"/></reg>
+                                                                                    </choice> in<reg>&#173; </reg>la<reg>&#173; </reg>quale abita
                      <term ref="#cristienc">x<g ref="#pmacr"/>iany</term> e<term ref="#saracinz"
                      >sarasiny</term>
                   <reg>.</reg></seg>
