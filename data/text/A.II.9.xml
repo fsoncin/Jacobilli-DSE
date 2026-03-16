@@ -9547,26 +9547,69 @@
                                        cattiva lettura di un sintagma come in aere: spesse fiate incontra che 
                                        ello odirà in aere missi de demonii. Il verbo ‘trarre’ è presente anche 
                                        in VA3, </note> de demony che par che <lb
-                     n="22" xml:id="A.II.9_lb_19v_22" facs="#A.II.9_line_19v_22"/>queli sia suo
-                  chonpagny<reg>.</reg></seg>
-               <seg n="12">
-                  <reg>[12] </reg>etal fiata quelly <lb n="23" xml:id="A.II.9_lb_19v_23"
-                     facs="#A.II.9_line_19v_23"/>demony chiamano quelo homo per nome <lb n="24"
-                     xml:id="A.II.9_lb_19v_24" facs="#A.II.9_line_19v_24"/>etal fiada lifarano
-                  devixare intal muodo <lb n="25" xml:id="A.II.9_lb_19v_25"
-                     facs="#A.II.9_line_19v_25"/>chello non trovera may li chonpagny e <lb n="26"
-                     xml:id="A.II.9_lb_19v_26" facs="#A.II.9_line_19v_26"/>deluy non sende olde may
-                  novela per qu <lb n="27" xml:id="A.II.9_lb_19v_27" facs="#A.II.9_line_19v_27"
-                  />esto muodo molty eno cia peridi in quelo <lb n="28" xml:id="A.II.9_lb_19v_28"
-                     facs="#A.II.9_line_19v_28"/>deserto etal fiada olde lomo de beldi chi <lb
-                     n="29" xml:id="A.II.9_lb_19v_29" facs="#A.II.9_line_19v_29"/>aro mesi de demony
-                  etal fiada par chely <lb n="30" xml:id="A.II.9_lb_19v_30"
-                     facs="#A.II.9_line_19v_30"/>soneno istormenty in aiere Espicial men <lb n="31"
-                     xml:id="A.II.9_lb_19v_31" facs="#A.II.9_line_19v_31"/>te <term ref="#tanbur"
-                     >tanburli</term>
-                  <reg>.</reg></seg>
+                     n="22" xml:id="A.II.9_lb_19v_22" facs="#A.II.9_line_19v_22"/>queli sia suo<reg>'</reg>
+                  chonpagny<reg></reg> e<reg>&#173; </reg>tal fiata quelly <lb n="23" xml:id="A.II.9_lb_19v_23"
+                     facs="#A.II.9_line_19v_23"/>demony chiamano quelo homo per nome<reg>.</reg></seg>
+               <seg n="12"><lb n="24"
+                     xml:id="A.II.9_lb_19v_24" facs="#A.II.9_line_19v_24"/><reg>[12] </reg><choice>
+                                             <orig>e</orig>
+                                             <reg>E</reg>
+                                          </choice><reg>&#173; </reg>tal fiada li<reg>&#173; </reg>farano
+                  devixare<note type="corrSim">La lezione è l’esito di una banalizzazione 
+                     per desviare, come si evince dal confronto con gli altri testimoni 
+                     del gruppo; cf. VA3 XLIII, 12 desviare VA1 19, 22 desviare VA5 I 43,
+                     13 desviare; F LVI, 13 devoier. La si conserva interpretando il verbo 
+                     nell’accezione di ‘modificare l’aspetto esteriore di qsa rendendolo 
+                     irriconoscibile (anche fig.)’ (cf. TLIO, s.v. «devisare 2»). Il 
+                     capitolo manca in VA2. </note> in<reg>&#173; </reg>tal muodo <lb n="25" xml:id="A.II.9_lb_19v_25"
+                     facs="#A.II.9_line_19v_25"/>ch<reg>'</reg>ello non <choice>
+                                             <orig>trovera</orig>
+                                             <reg>troverà</reg>
+                                          </choice> may li chonpagny e <lb n="26"
+                     xml:id="A.II.9_lb_19v_26" facs="#A.II.9_line_19v_26"/>de<reg>&#173; </reg>luy non se<reg>&#173; </reg><reg>'</reg>nde olde may
+                  novela<reg>.</reg>
+                                       </seg>
                <seg n="13">
-                  <reg>[13] </reg>in questo muodo sepasa quello <pb n="20r" xml:id="A.II.9_fol_20r"/>
+                  <reg>[13] </reg><choice>
+                                       <orig>per</orig>
+                                       <reg>Per</reg>
+                                    </choice> <choice>
+                                    	<orig>qu<lb n="27" xml:id="A.II.9_lb_19v_27_orig" facs="#A.II.9_line_19v_27_orig"/>esto</orig>
+                                    	<reg>questo<lb n="27" xml:id="A.II.9_lb_19v_27_reg" facs="#A.II.9_line_19v_27_reg"/></reg>
+                                    </choice> muodo molty <choice>
+                                                                           <orig>eno</orig>
+                                                                           <reg>èno</reg>
+                                                                        </choice> <choice>
+                                                                                    <orig>cia</orig>
+                                                                                    <reg>cià</reg>
+                                                                                 </choice> peridi in quelo <lb n="28" xml:id="A.II.9_lb_19v_28"
+                     facs="#A.II.9_line_19v_28"/>deserto<reg>.</reg>
+               </seg>
+                  <seg n="14">
+                     <reg>[14] </reg><choice>
+                                       <orig>e</orig>
+                                       <reg>E</reg>
+                                    </choice><reg>&#173; </reg>tal fiada olde l<reg>'</reg>omo<reg>,</reg> de bel<reg>&#173; </reg><choice>
+                                                                           <orig>di</orig>
+                                                                           <reg>dì</reg>
+                                                                        </choice> <choice>
+                                                                        	<orig>chi<lb n="29" xml:id="A.II.9_lb_19v_29_orig" facs="#A.II.9_line_19v_29_orig"/>aro</orig>
+                                                                        	<reg>chiaro<reg>,</reg><lb n="29" xml:id="A.II.9_lb_19v_29_reg" facs="#A.II.9_line_19v_29_reg"/></reg>
+                                                                        </choice> mesi de demony<reg>;</reg><note>la lezione è comune a 
+                                                                           VA1 19, 24 missi de demonii e a VA5 I 43, 15 messi de demonii, 
+                                                                           contro VA3 XLIII, 14 voxe di demonii, confermato però da F LVI, 
+                                                                           13 ceste voices de espiriti. Il capitolo manca in VA2.</note>
+                  e<reg>&#173; </reg>tal fiada par ch<reg>'</reg>ely <lb n="30" xml:id="A.II.9_lb_19v_30"
+                     facs="#A.II.9_line_19v_30"/>soneno istormenty in aiere<reg>,</reg> <choice>
+                                             <orig>E</orig>
+                                             <reg>e</reg>
+                                          </choice><reg>&#173; </reg><choice>
+                                          	<orig>spicial men<lb n="31" xml:id="A.II.9_lb_19v_31_orig" facs="#A.II.9_line_19v_31_orig"/>te</orig>
+                                          	<reg>spicialmente<lb n="31" xml:id="A.II.9_lb_19v_31_reg" facs="#A.II.9_line_19v_31_reg"/></reg>
+                                          </choice> <term ref="#tanbur"
+                     >tanburli</term><reg>.</reg></seg>
+               <seg n="15">
+                  <reg>[15] </reg>in questo muodo sepasa quello <pb n="20r" xml:id="A.II.9_fol_20r"/>
                   <lb n="1" xml:id="A.II.9_lb_20r_01" facs="#A.II.9_line_20r_01"/>deserto con granda
                   paura <reg>.</reg></seg>
             </p>
