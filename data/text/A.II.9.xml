@@ -10134,7 +10134,7 @@
                                        <orig>perche</orig>
                                        <reg>perché</reg>
                                     </choice> <reg>'</reg>li<reg>&#173; </reg>trovano tal<reg>&#173; </reg>fiada <lb n="20"
-                     xml:id="A.II.9_lb_21r_20" facs="#A.II.9_line_21r_20"/><orig><del rend="overstrike" status="unremarkable"> ali parenty</del></orig> per<reg>&#173; </reg>stella<note ref="autoCorr">Ms ali parenty (cassato) per stella.</note> o<reg>&#173; </reg>per
+                     xml:id="A.II.9_lb_21r_20" facs="#A.II.9_line_21r_20"/><orig><del rend="overstrike" status="unremarkable"> ali parenty</del></orig> per<reg>&#173; </reg>stella<note type="autoCorr">Ms ali parenty (cassato) per stella.</note> o<reg>&#173; </reg>per
                   altra chasone che <lb n="21" xml:id="A.II.9_lb_21r_21" facs="#A.II.9_line_21r_21"
                   />quela porta non<reg>&#173; </reg><choice>
                                        <orig>a</orig>
@@ -11078,7 +11078,7 @@
                                     </choice> la<reg>&#173; </reg>lece de<reg>&#173; </reg><persName ref="#maomet"><choice>
                                                                            <orig>machometo</orig>
                                                                            <reg>Machometo</reg>
-                                                                        </choice></persName> e<reg>&#173; </reg<choice>
+                                                                        </choice></persName> e<reg>&#173; </reg><choice>
                                                                         	<orig>>de<lb
                      n="9" xml:id="A.II.9_lb_23r_09_orig" facs="#A.II.9_line_23r_09_orig"/>li</orig>
                                                                         	<reg>>deli<lb
@@ -11162,14 +11162,14 @@
                   <reg>[6] </reg><choice>
                                        <orig>questi</orig>
                                        <reg>Questi</reg>
-                                    </choice> grandi caseno e<reg>&#173; </reg><reg>'</reglge>l<reg>&#173; </reg>g<reg>'</reg><choice>
+                                    </choice> grandi caseno e<reg>&#173; </reg><reg>'</reg>l<reg>&#173; </reg>g<reg>'</reg><choice>
                                                                            <orig>e</orig>
-                                                                           <reg>e</reg>
+                                                                           <reg>è</reg>
                                                                         </choice> <choice>
                                                                         	<orig><abbr>at<am><g ref="#otilde"/></am><lb n="17" xml:id="A.II.9_lb_23r_17_orig" facs="#A.II.9_line_23r_17_orig"/>no</abbr></orig>
-                                                                        	<reg><expan>at<g ref="#otilde"/><ex>r</exno>no</expan><lb n="17" xml:id="A.II.9_lb_23r_17_reg" facs="#A.II.9_line_23r_17_reg"/></reg>
+                                                                        	<reg><expan>at<g ref="#otilde"/><ex>r</ex>no</expan><lb n="17" xml:id="A.II.9_lb_23r_17_reg" facs="#A.II.9_line_23r_17_reg"/></reg>
                                                                         </choice> altre <term
-                     ref="#ydres">idole</term> picole che<reg>&#173; </reg></reg>par ch<reg>'</reg>ele facano <lb n="18"
+                     ref="#ydres">idole</term> picole che<reg>&#173; </reg>par ch<reg>'</reg>ele facano <lb n="18"
                      xml:id="A.II.9_lb_23r_18" facs="#A.II.9_line_23r_18"/>reverencia <choice>
                                              <orig>Ale</orig>
                                              <reg>ale</reg>
@@ -11219,7 +11219,7 @@
                   <reg>[9] </reg><choice>
                                        <orig>el</orig>
                                        <reg>El</reg>
-                                    </choice><reg>&#173; </reg>g<reg>'</rege><choice>
+                                    </choice><reg>&#173; </reg>g<reg>'</reg><choice>
                                                                            <orig>e</orig>
                                                                            <reg>è</reg>
                                                                         </choice> tale <choice>
@@ -11230,7 +11230,7 @@
                                                                         </choice> cheli non alciderave bestia <choice>
                                                                                                                                                    <orig>ni</orig>
                                                                                                                                                    <reg>nì</reg>
-                                                                                                                                                </choice> osello<reg>,</reg></reg> <choice>
+                                                                                                                                                </choice> osello<reg>,</reg> <choice>
                                                                                                                                                                                                                                                                                                    <orig>.v.</orig>
                                                                                                                                                                                                                                                                                                    <reg>.V.</reg>
                                                                                                                                                                                                                                                                                                 </choice> <lb
@@ -11770,9 +11770,9 @@
                                                                         </choice> soy anbasadory <choice>
                                                                                                                                                    <orig>Et</orig>
                                                                                                                                                    <reg>et</reg>
-                                                                                                                                                </choice> volse<reg>-</regli>li <choice>
+                                                                                                                                                </choice> volse<reg>-</reg>li <choice>
                                                                                                                                                 	<orig><abbr>p<am><g ref="#atilde"/></am><lb n="24" xml:id="A.II.9_lb_24r_24_orig" facs="#A.II.9_line_24r_24_orig"/>tire</abbr></orig>
-                                                                                                                                                	<reg><expan>p<g ref="#atilde"/><ex>r</extire>tire</expan><lb n="24" xml:id="A.II.9_lb_24r_24_reg" facs="#A.II.9_line_24r_24_reg"/></reg>
+                                                                                                                                                	<reg><expan>p<g ref="#atilde"/><ex>r</ex>tire</expan><lb n="24" xml:id="A.II.9_lb_24r_24_reg" facs="#A.II.9_line_24r_24_reg"/></reg>
                                                                                                                                                 </choice> desieme <choice>
                                                                                                                                                                     <orig>E</orig>
                                                                                                                                                                     <reg>e</reg>
@@ -11862,8 +11862,8 @@
                <seg n="9">
                   <reg>[9] </reg>Et in <lb n="2" xml:id="A.II.9_lb_24v_02"
                      facs="#A.II.9_line_24v_02"/>quelo muodo in<reg>&#173; </reg>quele chontrade steteno <choice>
-                                             <abbr>plux<am><gref="#otilde"/></am></abbr>
-                                             <expan>plux<gref="#otilde"/><ex>r</ex></expan>
+                                             <abbr>plux<am><g ref="#otilde"/></am></abbr>
+                                             <expan>plux<g ref="#otilde"/><ex>r</ex></expan>
                                           </choice>
                   <lb n="3" xml:id="A.II.9_lb_24v_03" facs="#A.II.9_line_24v_03"/>any in<reg>&#173; </reg>luogo seguro<reg>.</reg>
                </seg>
@@ -11947,7 +11947,7 @@
                                                                         </choice></persName> vide ch<reg>'</reg>elo
                   aveva <choice>
                   	<orig><abbr>chot<am><g ref="#amacr"/></am><lb n="14" xml:id="A.II.9_lb_24v_14_orig" facs="#A.II.9_line_24v_14_orig"/>ta</abbr></orig>
-                  	<reg><expan>chot<g ref="#amacr"/><ex>n</exta>ta</expan><lb n="14" xml:id="A.II.9_lb_24v_14_reg" facs="#A.II.9_line_24v_14_reg"/></reg>
+                  	<reg><expan>chot<g ref="#amacr"/><ex>n</ex>ta</expan><lb n="14" xml:id="A.II.9_lb_24v_14_reg" facs="#A.II.9_line_24v_14_reg"/></reg>
                   </choice> cente<reg>,</reg> <choice>
                                        <orig>El</orig>
                                        <reg>el</reg>
@@ -12301,7 +12301,7 @@
                      xml:id="A.II.9_lb_25r_22" facs="#A.II.9_line_25r_22"/><choice>
                                              <orig>si</orig>
                                              <reg>sì</reg>
-                                          </choice><reg>&#173; </reg>grandisima ch<reg>'</regel>el no<reg>&#173; </reg></reg>se
+                                          </choice><reg>&#173; </reg>grandisima ch<reg>'</reg>el no<reg>&#173; </reg>se
                   podeva saver el<reg>&#173; </reg><choice>
                   	<orig>nu<lb n="23" xml:id="A.II.9_lb_25r_23_orig" facs="#A.II.9_line_25r_23_orig"
                   />mero</orig>
@@ -12330,7 +12330,7 @@
                                                          Cane</reg>
                                                                         </choice></persName> ave inteso che <persName ref="#cinchinchan"><choice>
                                                                         	<orig><abbr>ch<am><g ref="#imacr"/></am><lb n="26" xml:id="A.II.9_lb_25r_26_orig" facs="#A.II.9_line_25r_26_orig"/>chis</abbr></orig>
-                                                                        	<reg><expan>ch<g ref="#imacr"/><ex>n</exchis>chis</expan><lb n="26" xml:id="A.II.9_lb_25r_26_reg" facs="#A.II.9_line_25r_26_reg"/></reg>
+                                                                        	<reg><expan>ch<g ref="#imacr"/><ex>n</ex>chis</expan><lb n="26" xml:id="A.II.9_lb_25r_26_reg" facs="#A.II.9_line_25r_26_reg"/></reg>
                                                                         </choice></persName> era <choice>
                                                                                                                                                    <abbr>At<am><g ref="#emacr"/></am>duto</abbr>
                                                                                                                                                    <expan>at<g ref="#emacr"/><ex>n</ex>duto</expan>
