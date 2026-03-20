@@ -245,10 +245,13 @@ PRIMA:
 }
 
 .popover {
-    font-family: "Garamond", serif;
+    font-family: "Times New Roman", serif;
     font-size: 18px;
     line-height: 1;
-    max-width: 1200px;
-    width: max-content;
-    border-radius: 6px;
 }
+
+.popover_tooltip {
+    width: auto !important;
+    max-width: 450px !important;
+}
+

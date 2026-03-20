@@ -1,5 +1,5 @@
 {
-    "indexTitle": "Edizione Digitale del Devisement dou Monde (A.II.9, Foligno)",
+    "indexTitle": "«Milione settentrionale». Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9",
     "webSite": "",
     "logoUrl": "",
     "dataUrl": "data/text/A.II.9.xml",
@@ -257,5 +257,13 @@
          ],
          "nextID": ""
       }
-   }
+   },
+
+    "modules": [
+        {
+            "name": "popover",
+            "tooltipMaxWidth": 600,
+            "tooltipMaxHeight": 170
+        }
+    ]
 }
