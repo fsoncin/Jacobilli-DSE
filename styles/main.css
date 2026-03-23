@@ -5905,6 +5905,10 @@ span.quote {
     display: none
 }
 
+.diplomaticEdition .corr {
+    display: none
+}
+
 .diplomaticEdition .choice .orig {
     color: #69513a
 }
@@ -6128,6 +6132,10 @@ span.quote {
 
 .interpretativeEdition .choice .sic {
     left: 3em !important
+}
+
+.interpretativeEdition .sic {
+    display: none
 }
 
 .interpretativeEdition .choice .sic:before {
