@@ -22242,7 +22242,7 @@
 						<reg>[1] </reg>
 						<hi rend="init3.1">Q</hi>uando lo<reg>&#173; </reg><term ref="#grantKaan"><choice>
 								<orig>gran ch<g ref="#amacr"/></orig>
-								<reg><expan>Gran Ch<g ref="#amacr"/><ex>n</ex></expan></reg>
+								<reg>Gran <expan>Ch<g ref="#amacr"/><ex>n</ex></expan></reg>
 							</choice></term> ave abudo <choice>
 							<orig><g ref="#qmacr"/><lb n="10" xml:id="A.II.9_lb_37v_10_orig" facs="#A.II.9_line_37v_10_orig"/>sta</orig>
 							<reg><expan><g ref="#qmacr"/><ex>ue</ex>sta</expan><lb n="10" xml:id="A.II.9_lb_37v_10_reg"
@@ -22305,9 +22305,12 @@
 							<orig>ave</orig>
 							<reg>avé</reg>
 						</choice> inteso chomo lo<reg>&#173; </reg><term ref="#grantKaan"><choice>
-								<orig>gr<g ref="#amacr"/><lb n="19" xml:id="A.II.9_lb_37v_19_orig" facs="#A.II.9_line_37v_19_orig"/>chan</orig>
-								<reg><expan>Gr<g ref="#amacr"/><ex>n</ex></expan> Chan<lb n="19" xml:id="A.II.9_lb_37v_19_reg"
-										facs="#A.II.9_line_37v_19_reg"/></reg>
+								<abbr>gr<am><g ref="#amacr"/></am></abbr>
+								<expan>gr<g ref="#amacr"/><ex>n</ex></expan>
+						</choice>
+							<lb n="19" xml:id="A.II.9_lb_37v_19" facs="#A.II.9_line_37v_19"/><choice>
+								<orig>chan</orig>
+								<reg>Chan</reg>
 							</choice></term> non <choice>
 							<orig>ando</orig>
 							<reg>andò</reg>
@@ -22696,7 +22699,7 @@
 							<orig>ni</orig>
 							<reg>nì</reg>
 						</choice><reg>&#173; </reg>grando<reg>,</reg> ma de<reg>&#173; </reg>meca <lb n="24" xml:id="A.II.9_lb_38v_24"
-							facs="#A.II.9_line_38v_24"/>statura <reg>.</reg></seg>
+							facs="#A.II.9_line_38v_24"/>statura<reg>.</reg></seg>
 					<seg n="2">
 						<reg>[2] </reg><choice>
 							<orig>ed</orig>
@@ -22890,7 +22893,10 @@
 							<reg>dii</reg>
 						</choice><reg>.</reg></seg>
 					<seg n="10">
-						<reg>[10] </reg>anchora <choice>
+						<reg>[10] </reg><choice>
+							<orig>anchora</orig>
+							<reg>Anchora</reg>
+						</choice> <choice>
 							<orig>sapie</orig>
 							<reg>sapié</reg>
 						</choice> che <lb n="26" xml:id="A.II.9_lb_39r_26" facs="#A.II.9_line_39r_26"/>
@@ -22908,9 +22914,9 @@
 							<orig>.iiij.°</orig>
 							<reg>.IIII.°</reg>
 						</choice>
-						<lb n="27" xml:id="A.II.9_lb_39r_27" facs="#A.II.9_line_39r_27"/>moier .<choice>
-							<orig>xxij.</orig>
-							<reg>XXII.</reg>
+						<lb n="27" xml:id="A.II.9_lb_39r_27" facs="#A.II.9_line_39r_27"/>moier <choice>
+							<orig>.xxij.</orig>
+							<reg>.XXII.</reg>
 						</choice> fioly e<reg>&#173; </reg>femene<reg>.</reg><note type="corrSim">E' innovazione isolata di VA⁶ (e F LXXXII, 2 precisa al
 							contrario che si tratta di figli maschi: .XXII. "filz masles").</note>
 						</seg>
@@ -22946,7 +22952,10 @@
 								<reg>Tamur</reg>
 							</choice></persName><reg>.</reg></seg>
 					<seg n="12">
-						<lb n="5" xml:id="A.II.9_lb_39v_05" facs="#A.II.9_line_39v_05"/><reg>[12] </reg>e<reg>&#173; </reg><choice>
+						<lb n="5" xml:id="A.II.9_lb_39v_05" facs="#A.II.9_line_39v_05"/><reg>[12] </reg><choice>
+							<orig>e</orig>
+							<reg>E</reg>
+						</choice><reg>&#173; </reg><choice>
 							<orig>questo</orig>
 							<reg>Questo</reg>
 						</choice> die<reg>'</reg> eser <term ref="#grantKaan"><choice>
@@ -22958,11 +22967,10 @@
 						</choice> de <persName ref="#cublai"><choice>
 								<orig>chublay</orig>
 								<reg>Chublay</reg>
-							</choice></persName><reg>,</reg>
-						<choice>
-							<orig>perco</orig>
-							<reg>percoché</reg>
-						</choice> che lo<reg>&#173; </reg><choice>
+							</choice></persName><reg>,</reg> <choice>
+								<orig>perco che</orig>
+								<reg>percoché</reg>
+							</choice> lo<reg>&#173; </reg><choice>
 							<sic>so</sic>
 							<corr>[f]o</corr>
 						</choice> fiolo delo <lb n="7" xml:id="A.II.9_lb_39v_07" facs="#A.II.9_line_39v_07"/>primo<orig>&#173; </orig><reg/>cenito<reg>.</reg></seg>
@@ -23388,9 +23396,9 @@
 							<reg>è</reg>
 						</choice> le<reg>&#173; </reg>altre arnise del <choice>
 							<orig>grando ch<g ref="#amacr"/><lb n="8" xml:id="A.II.9_lb_40v_08_orig" facs="#A.II.9_line_40v_08_orig"/></orig>
-							<reg><expan>Grando Ch<g ref="#amacr"/><ex>n</ex></expan><lb n="8" xml:id="A.II.9_lb_40v_08_reg" facs="#A.II.9_line_40v_08_reg"/></reg>
+							<reg><expan>Grando Ch<g ref="#amacr"/><ex>n</ex></expan><reg>.</reg><lb n="8" xml:id="A.II.9_lb_40v_08_reg" facs="#A.II.9_line_40v_08_reg"/></reg>
 						</choice>
-						<reg>.</reg></seg>
+						</seg>
 					<seg n="12">
 						<reg>[12] </reg><choice>
 							<orig>et</orig>
