@@ -158,14 +158,18 @@
 						</objectDesc>
 						<handDesc>
 							<p xml:lang="it"><seg rend="bold">Scrittura e mani</seg>
-								<lb/><seg>La copia è attribuibile a un’unica mano, che adopera una scrittura ibrida dal ductus semi-corsivo, di base
-									cancelleresca con elementi di littera textualis. La scrittura è ben spaziata, dal tratteggio marcato, appena
-									sollevata dal rigo e complessivamente regolare, pur con alcune variazioni nel modulo e nell’interlineo.</seg></p>
+								<lb/><seg>La copia è attribuibile a un’unica mano, che adopera una littera textualis dal ductus semi-corsivo. 
+									La scrittura è ben spaziata, dal tratteggio marcato, appena sollevata dal rigo e complessivamente regolare, 
+									pur con alcune variazioni nel modulo e nell’interlineo. Accanto alla mano principale si possono rilevare 
+									piccoli interventi di altre mani, che intervengono con piccole integrazioni/correzioni 
+									(p. es. vedi c. 58v; 64v e passim), o con postille più ampie (margine superiore di c. 32v e 37v), 
+									oltre gli interventi di Ludovico Jacobilli.</seg></p>
 							<p xml:lang="en"><seg rend="bold">Script and Hands</seg>
-								<lb/><seg>The manuscript is written throughout by a single scribe employing a hybrid script with a semi-cursive
-									ductus, essentially chancery-based but incorporating elements of <seg rend="italic">littera textualis</seg>. The
-									writing is well spaced, firmly executed, slightly raised above the line, and generally regular, though with some
-									variation in module and interlinear spacing.</seg></p>
+								<lb/><seg>The copy is attributable to a single hand, employing a littera textualis with a semi-cursive ductus. 
+									The script is well-spaced, with a pronounced stroke, sits slightly above the baseline, and is generally regular, 
+									though with some variation in letter size and line spacing. Alongside the main hand, minor interventions by other 
+									hands can be identified: small additions and corrections (e.g. fols. 58v, 64v, and passim), as well as more substantial 
+									marginal annotations (upper margin of fols. 32v and 37v), in addition to the interventions of Ludovico Jacobilli.</seg></p>
 							<p xml:lang="it"><seg rend="bold">Richiami</seg>
 								<lb/><seg>Ogni carta presenta sul verso un richiamo, collocato al centro del margine inferiore, elemento che
 									suggerisce che il codice non fosse originariamente destinato a una legatura definitiva. Il modesto allestimento
@@ -5964,10 +5968,10 @@
 					sono sovrapponibili. Se una parola è divisa tra due carte, questa viene unificata nella prima riga della carta successiva. Infine,
 					nei pochi casi in cui i capilettera mancano e il copista ha predisposto lo spazio vuoto, le lettere vengono integrate tra
 					parentesi uncinate ‹› sulla base delle lettere guida. Divisione delle parole, punteggiatura, accenti, apostrofi e maiuscole
-					rispecchiano l’uso moderno. Le abbreviazioni sono state sciolte. j è stata ricondotta a i, mentre è stata mantenuta y. Nel
-					manoscritto la grafia ‹c› è sistematicamente impiegata in luogo di ‹ç› per rappresentare l’affricata alveopalatale sonora e le
-					fricative alveolari sonora o sorda. Troviamo così «cente», «vancelio»,«doncele»,«beleca», «cuche» (per ‘zucche’), ecc.: tale
-					soluzione è stata conservata.</p>
+					rispecchiano l’uso moderno. Le abbreviazioni sono state sciolte. j è stata ricondotta a i, mentre è stata mantenuta y. Nel 
+					manoscritto la grafia ‹c› è sistematicamente impiegata in luogo di ‹ç› per rappresentare l’affricata alveo-palatale sonora, 
+					l’affricata dentale sorda e sonora. Troviamo così «cente», «vancelio»,«doncele»,«beleca», «cuche» (per ‘zucche’), ecc.: 
+					tale soluzione è stata conservata.</p>
 				<p>Sono state univerbate le preposizioni articolate e le congiunzioni composte. <seg rend="italic">Chel</seg>, <seg rend="italic"
 						>sel</seg> sono resi come <seg rend="Italic">ch’el</seg>, <seg rend="italic">s’el</seg> quando <seg rend="italic">el</seg> è
 					pronome; <seg rend="italic">che ’l</seg>, <seg rend="italic">se ’l</seg> quando si tratta di articolo; analogamente, <seg
@@ -5980,7 +5984,7 @@
 						<item>le voci del verbo «avere» (<seg rend="italic">ò</seg>, <seg rend="italic">à</seg>, <seg rend="Italic">àno</seg>); </item>
 						<item>i participi perfetti apocopati;</item>
 						<item>i perfetti come «menàno», «partìno», «intròno», «navegòno»;</item>
-					</list> Per rendere il testo più leggibile (Barbieri, Andreose 1999, 54), i pronomi clitici posposti al verbo sono segnalati con
+				</list> Si adotta il punto alto (·) per segnalare la caduta di lettere in contesto di possibile assimilazione fonosintattica; l’apostrofo è riservato ai casi di semplice elisione. Per rendere il testo più leggibile (<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999, 54</ref>), i pronomi clitici posposti al verbo sono segnalati con
 					un trattino. </p>
 				<p>Per quanto riguarda la distinzione degli omografi, segnaliamo: <list>
 						<item><seg rend="italic">a</seg> = «a»; <seg rend="italic">à</seg> = «ha»; <seg rend="Italic">a’</seg> = «ai»</item>
@@ -6019,7 +6023,9 @@
 				<p>Le parentesi uncinate ‹ › indicano le integrazioni di lettere e parole; le graffe { } le espunzioni; le quadre [ ] le correzioni;
 					le lacune (comprese quelle dovute alla mancanza di alcune carte) sono indicate con ‹…›; le lezioni corrotte e quelle che
 					richiederebbero interventi di restauro eccessivamente onerose sono indicate tra cruces. Le autocorrezioni del copista sono
-					indicate tramite note espandibili, come pure i richiami presenti nel verso di ogni carta.</p>
+					indicate tramite note espandibili, come pure i richiami presenti nel verso di ogni carta. Una descrizione linguistica dettagliata 
+					sarà offerta nell’edizione cartacea in preparazione, insieme a una discussione puntuale delle caratteristiche 
+					del testo e delle lezioni divergenti rispetto alla famiglia VA.</p>
 				<p>Dal punto di vista della codifica, l’edizione è realizzata secondo gli standard XML-TEI e si allinea al tracciato adottato da Manus
 					Online, al fine di garantire interoperabilità e coerenza descrittiva. Il file TEI è articolato in tre componenti fondamentali:
 					l’intestazione del documento (‹teiHeader›), che raccoglie i metadati descrittivi, codicologici, bibliografici, nonché le liste di
@@ -6108,7 +6114,8 @@
 						<item>apocopated past participles;</item>
 						<item>perfect forms such as <seg rend="italic">menàno</seg>, <seg rend="italic">partìno</seg>, <seg rend="italic"
 								>intròno</seg>, <seg rend="italic">navegòno</seg>.</item>
-					</list> To improve readability (<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999, 54</ref>), clitic pronouns attached
+				</list> A raised point (·) marks letters dropped through phonosyntactic assimilation; the apostrophe is used for simple elision. 
+					To improve readability (<ref target="#barbieri-andreose1999">Barbieri, Andreose 1999, 54</ref>), clitic pronouns attached
 					to verbs are indicated with a hyphen.</p>
 				<p>Regarding the distinction of homographs, the following conventions have been applied: <list>
 						<item><seg rend="italic">a</seg> = «a»; <seg rend="italic">à</seg> = «ha»; <seg rend="Italic">a’</seg> = «ai»</item>
@@ -6143,11 +6150,12 @@
 					comparison with other witnesses suggests they are erroneous, provided that they remain intelligible (cf. <ref
 						target="#barbieri-andreose1999">Barbieri, Andreose 1999, 55</ref>). Corrective interventions are limited to passages where the
 					text is obscure or incoherent. In such instances, proposed emendations are based on comparison with other VA witnesses and with
-					the F recension, and are indicated in expandable notes.</p>
-				<p>Angle brackets ‹ › indicate inserted letters or words; braces { } mark deletions; square brackets [ ] indicate corrections;
+					the F recension, and are indicated in expandable notes. Angle brackets ‹ › indicate inserted letters or words; braces { } mark deletions; 
+					square brackets [ ] indicate corrections;
 					lacunae—including those caused by missing folios—are marked with ‹…›; and corrupt readings or those requiring excessively invasive
-					restoration are indicated by cruces. The scribe’s self-corrections are noted in expandable annotations, as are references
-					appearing on the verso of each folio.</p>
+					restoration are indicated by cruces. The scribe’s self-corrections are noted in expandable annotations. References appearing on the verso 
+					of each folio are likewise recorded. For a detailed linguistic description of the text, including a thorough discussion of its 
+					features and its divergent readings with respect to the VA family, the reader is referred to the forthcoming print edition.</p>
 				<p>From a technical standpoint, the edition is encoded according to XML-TEI standards and follows the schema adopted by Manus Online,
 					ensuring both interoperability and descriptive consistency. The TEI file is structured into three main components: <list>
 						<item><seg rend="bold">‹teiHeader›</seg>,which gathers descriptive, codicological, and bibliographical metadata, as well as
