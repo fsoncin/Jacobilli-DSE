@@ -6525,7 +6525,7 @@
 						<reg>[3] </reg>E<reg>&#173; </reg>puo<reg>'</reg> fese aparechiare <choice>
 							<orig>.xiiij</orig>
 							<reg>.XIIII.</reg>
-						</choice>° nave<reg>,</reg>
+						</choice> nave<reg>,</reg>
 						<lb n="18" xml:id="A.II.9_lb_01r_18" facs="#A.II.9_line_01r_18"/>le<reg>&#173; </reg>quale chaschaduna <choice>
 							<orig>Aveva</orig>
 							<reg>aveva</reg>
@@ -6631,7 +6631,10 @@
 						<lb n="3" xml:id="A.II.9_lb_01v_03" facs="#A.II.9_line_01v_03"/>se<reg>&#173; </reg><choice>
 							<orig>partino</orig>
 							<reg>partìno</reg>
-						</choice> de questa isola e<reg>&#173; </reg>si<reg>&#173; </reg><choice>
+						</choice> de questa isola e<reg>&#173; </reg><choice>
+							<orig>si</orig>
+							<reg>sì</reg>
+						</choice><reg>&#173; </reg><choice>
 							<orig>navegono</orig>
 							<reg>navegòno</reg>
 						</choice> per lo <placeName ref="#oceanoInd"><choice>
@@ -7212,10 +7215,7 @@
 						<lb n="17" xml:id="A.II.9_lb_02v_17" facs="#A.II.9_line_02v_17"/>che adorono <persName ref="#maomet"><choice>
 								<orig>machometo</orig>
 								<reg>Machometo</reg>
-							</choice></persName> et <choice>
-							<sic>una</sic>
-							<corr>[àno]</corr>
-						</choice> soa lece<reg>,</reg>
+							</choice></persName> et una soa lece<reg>,</reg>
 						<choice>
 							<orig>Et</orig>
 							<reg>et</reg>
@@ -7267,7 +7267,10 @@
 							</choice></term><reg>,</reg> li<reg>&#173; </reg>quali vi<orig>&#173; </orig>ve <choice>
 							<orig>Et</orig>
 							<reg>et</reg>
-						</choice> si abita <choice>
+						</choice> <choice>
+							<orig>si</orig>
+							<reg>sì</reg>
+						</choice> abita <choice>
 							<orig>inse<lb n="25" xml:id="A.II.9_lb_02v_25_orig" facs="#A.II.9_line_02v_25_orig"/>nbre</orig>
 							<reg>insenbre<lb n="25" xml:id="A.II.9_lb_02v_25_reg" facs="#A.II.9_line_02v_25_reg"/></reg>
 						</choice> mesedata<orig>&#173; </orig>mente in citade <choice>
@@ -7607,8 +7610,8 @@
 							<reg>Se</reg>
 						</choice><reg>&#173; </reg>tu avesi speso <lb n="11" xml:id="A.II.9_lb_03v_11" facs="#A.II.9_line_03v_11"/>lo<reg>&#173;
 						</reg>to tresoro per la<reg>&#173; </reg>cente toa<reg>,</reg>fursi <choice>
-							<orig>cheli</orig>
-							<reg>che {li}</reg>
+							<sic>cheli</sic>
+							<corr>ch'el {i}</corr>
 						</choice> te <lb n="12" xml:id="A.II.9_lb_03v_12" facs="#A.II.9_line_03v_12"/>averesty de fesa la<reg>&#173;
 							</reg>tera<reg>»</reg><reg>.</reg></seg>
 					<seg n="15"><reg>[15] </reg><choice>
@@ -7698,7 +7701,10 @@
 						</choice>lo<reg>&#173; </reg><term ref="#calif"><choice>
 								<orig>chali<lb n="23" xml:id="A.II.9_lb_03v_23_orig" facs="#A.II.9_line_03v_23_orig"/>fo</orig>
 								<reg>chalifo<lb n="23" xml:id="A.II.9_lb_03v_23_reg" facs="#A.II.9_line_03v_23_reg"/>fo</reg>
-							</choice></term> mory<reg>.</reg></seg>
+							</choice></term> <choice>
+								<orig>mory</orig>
+								<reg>morý</reg>
+							</choice><reg>.</reg></seg>
 					<seg n="22"><reg>[22] </reg><choice>
 							<orig>da</orig>
 							<reg>Da</reg>
@@ -8036,8 +8042,8 @@
 							<orig>Ala</orig>
 							<reg>ala</reg>
 						</choice><reg>&#173; </reg>montagna che se<reg>&#173; </reg>toia de<reg>&#173; </reg>sulo<reg>&#173; </reg><choice>
-							<orig>la<lb n="6" xml:id="A.II.9_lb_04v_06_orig" facs="#A.II.9_line_04v_06_orig"/>go</orig>
-							<reg>lago<lb n="6" xml:id="A.II.9_lb_04v_06_reg" facs="#A.II.9_line_04v_06_reg"/></reg>
+							<orig><sic>la<lb n="6" xml:id="A.II.9_lb_04v_06_orig" facs="#A.II.9_line_04v_06_orig"/>go</sic></orig>
+							<reg><corr>l[o]go</corr><lb n="6" xml:id="A.II.9_lb_04v_06_reg" facs="#A.II.9_line_04v_06_reg"/></reg>
 						</choice> e<reg>&#173; </reg>vada dal<reg>'</reg>altro ladi<reg>,</reg> ch<reg>'</reg>ela se<reg>&#173; </reg><choice>
 							<orig>partira</orig>
 							<reg>partirà</reg>
@@ -8660,7 +8666,10 @@
 						<lb n="12" xml:id="A.II.9_lb_06r_12" facs="#A.II.9_line_06r_12"/><term ref="#cristienc"><choice>
 								<abbr>x<am><g ref="#pmacr"/></am>o</abbr>
 								<expan><ex>Christ</ex>o</expan>
-							</choice></term><reg>,</reg> la<reg>&#173; </reg>montagna separty e<reg>&#173; </reg><choice>
+						</choice></term><reg>,</reg> la<reg>&#173; </reg>montagna se<reg>&#173; </reg><choice>
+							<orig>party</orig>
+							<reg>partý</reg>
+						</choice> e<reg>&#173; </reg><choice>
 							<orig>si</orig>
 							<reg>sì</reg>
 						</choice>
@@ -8713,7 +8722,10 @@
 									/>do</abbr></orig>
 							<reg><expan>qu<g ref="#amacr"/><ex>n</ex>do</expan><lb n="16" xml:id="A.II.9_lb_06r_16_reg" facs="#A.II.9_line_06r_16_reg"
 								/></reg>
-						</choice> ello mory<reg>,</reg> li<reg>&#173; </reg><term ref="#saracinz">sarasiny</term> no<reg>&#173; </reg>lovolse sopolir
+						</choice> ello <choice>
+							<orig>mory</orig>
+							<reg>morý</reg>
+						</choice><reg>,</reg> li<reg>&#173; </reg><term ref="#saracinz">sarasiny</term> no<reg>&#173; </reg>lo<reg>&#173; </reg>volse sopolir
 							<lb n="17" xml:id="A.II.9_lb_06r_17" facs="#A.II.9_line_06r_17"/>in quelo luogo <choice>
 							<orig>la</orig>
 							<reg>là</reg>
@@ -8816,7 +8828,10 @@
 						<placeName ref="#saba"><choice>
 								<orig>saba</orig>
 								<reg>Saba</reg>
-							</choice></placeName><reg>,</reg> dela<reg>&#173; </reg>quale se<reg>&#173; </reg>party li <term ref="#magi">tre<choice>
+							</choice></placeName><reg>,</reg> dela<reg>&#173; </reg>quale se<reg>&#173; </reg><choice>
+								<orig>party</orig>
+								<reg>partý</reg>
+							</choice> li <term ref="#magi">tre<choice>
 								<orig>magi</orig>
 								<reg>Magi</reg>
 							</choice></term>
@@ -8900,7 +8915,7 @@
 								<orig>chalasata peristrane</orig>
 								<reg>Chalasata Peristrane</reg>
 							</choice></placeName>,<lb n="9" xml:id="A.II.9_lb_06v_09" facs="#A.II.9_line_06v_09"/>che a<reg>&#173;
-							</reg>dir i<reg>·</reg>nostra lengua<note type="autoCorr">Con ‹-o-› corretta in ‹-u-›. </note>
+							</reg>dir i<reg><g ref="#middot"/></reg>nostra lengua<orig><note type="autoCorr">Con ‹-o-› corretta in ‹-u-›. </note></orig>
 						<reg>‘</reg>chastelo de<choice>
 							<orig>que<lb n="10" xml:id="A.II.9_lb_06v_10_orig" facs="#A.II.9_line_06v_10_orig"/>li</orig>
 							<reg>queli<lb n="10" xml:id="A.II.9_lb_06v_10_reg" facs="#A.II.9_line_06v_10_reg"/></reg>
@@ -9220,7 +9235,10 @@
 							</choice></placeName><reg>;</reg> lo<reg>&#173; </reg>setimo<placeName ref="#soncara"><choice>
 								<orig>son chara</orig>
 								<reg>Sochara</reg>
-							</choice></placeName><reg>;</reg> l<reg>'</reg>otavo si<reg>&#173; </reg><choice>
+							</choice></placeName><reg>;</reg> l<reg>'</reg>otavo <choice>
+								<orig>si</orig>
+								<reg>sì</reg>
+							</choice><reg>&#173; </reg><choice>
 							<orig>a</orig>
 							<reg>à</reg>
 						</choice>
@@ -9358,7 +9376,7 @@
 								<reg>Echurmosa</reg>
 							</choice></placeName><reg>,</reg> ch<reg>'</reg><choice>
 							<orig>eve</orig>
-							<reg>ène</reg>
+							<reg>è[n]e</reg>
 						</choice>
 						<choice>
 							<orig>do<lb n="14" xml:id="A.II.9_lb_07v_14_orig" facs="#A.II.9_line_07v_14_orig"/>e</orig>
@@ -9755,7 +9773,7 @@
 					<seg n="1"><reg>[1] </reg><choice><orig><hi rend="init3.1">E</hi>T</orig><reg><hi rend="init3.1">E</hi>t</reg></choice> quando l<reg>'</reg>omo se<reg>&#173; </reg>parte dala<reg>&#173; </reg><choice><orig>cita</orig><reg>cità</reg></choice><reg>&#173; </reg>de <placeName ref="#crermain"><choice><orig>chreri<lb n="10" xml:id="A.II.9_lb_08v_10_orig" facs="#A.II.9_line_08v_10_orig"/>na</orig><reg>Chrerina,<lb n="10" xml:id="A.II.9_lb_08v_10_reg" facs="#A.II.9_line_08v_10_reg"/></reg></choice></placeName> el chavalcha sete cornade<reg>&#173; </reg>trovando <choice><orig>sen<lb n="11" xml:id="A.II.9_lb_08v_11_orig" facs="#A.II.9_line_08v_11_orig"/>pre</orig><reg>senpre<lb n="11" xml:id="A.II.9_lb_08v_11_reg" facs="#A.II.9_line_08v_11_reg"/></reg></choice>citade <choice><orig>E</orig><reg>e</reg></choice><reg>&#173; </reg>chastelle <choice><orig>Et</orig><reg>et</reg></choice> abitacion asay<reg>.</reg></seg>
 					<seg n="2"><reg>[2] </reg><choice><orig>ed</orig><reg>Ed</reg></choice><reg>&#173; </reg><choice><orig>e</orig><reg>è</reg></choice> tropo <lb n="12" xml:id="A.II.9_lb_08v_12" facs="#A.II.9_line_08v_12"/>bon chavalchar per quela
 						chontrada<reg>,</reg> e<orig>&#173; </orig>d<reg>&#173; </reg><choice><orig>e</orig><reg>è</reg></choice>
-						<choice><orig>gra<lb n="13" xml:id="A.II.9_lb_08v_13_orig" facs="#A.II.9_line_08v_13_orig"/>do</orig><reg>gra‹n›do<lb n="13" xml:id="A.II.9_lb_08v_13_reg" facs="#A.II.9_line_08v_13_reg"/></reg></choice> solaco<reg>;</reg> el<reg>&#173; </reg>se<reg>&#173; </reg><reg>'</reg>n<reg>&#173; </reg>ge<reg>&#173; </reg><choice><orig>pia</orig><reg>pìa</reg></choice>
+						<choice><orig>gra<lb n="13" xml:id="A.II.9_lb_08v_13_orig" facs="#A.II.9_line_08v_13_orig"/>do</orig><reg>gra<supplied>‹n›</supplied>do<lb n="13" xml:id="A.II.9_lb_08v_13_reg" facs="#A.II.9_line_08v_13_reg"/></reg></choice> solaco<reg>;</reg> el<reg>&#173; </reg>se<reg>&#173; </reg><reg>'</reg>n<reg>&#173; </reg>ge<reg>&#173; </reg><choice><orig>pia</orig><reg>pìa</reg></choice>
 						<term ref="#perdris">pernixe</term> asay<reg>.</reg></seg>
 					<seg n="3"><reg>[3] </reg><choice><orig>e</orig><reg>E</reg></choice><reg>&#173; </reg>quando <choice><orig>a</orig><reg>à</reg></choice><reg>&#173; </reg><choice><orig>cha<lb n="14" xml:id="A.II.9_lb_08v_14_orig" facs="#A.II.9_line_08v_14_orig"/>valchado</orig><reg>chavalchado<lb n="14" xml:id="A.II.9_lb_08v_14_reg" facs="#A.II.9_line_08v_14_reg"/></reg></choice> sete <term ref="#journee">cornade</term> per quela pianura<reg>,</reg>
 						<choice><orig>Alor<lb n="15" xml:id="A.II.9_lb_08v_15_orig" facs="#A.II.9_line_08v_15_orig"/>a</orig><reg>alora<lb n="15" xml:id="A.II.9_lb_08v_15_reg" facs="#A.II.9_line_08v_15_reg"/></reg></choice> se<reg>&#173; </reg>truova una<reg>&#173; </reg>grandisima desesa<reg>,</reg>
@@ -9766,7 +9784,10 @@
 						<lb n="21" xml:id="A.II.9_lb_08v_21" facs="#A.II.9_line_08v_21"/>la<reg>&#173; </reg>citade de <placeName ref="#crermain"><choice><orig>chrerina</orig><reg>Chrerina</reg></choice></placeName> de<orig>&#173; </orig>fina questa<reg>&#173; </reg>desesa si<reg>&#173; </reg><choice><orig>e</orig><reg>è</reg></choice>
 						<lb n="22" xml:id="A.II.9_lb_08v_22" facs="#A.II.9_line_08v_22"/><choice><orig>si</orig><reg>sì</reg></choice><reg>&#173; </reg>grando fredo lo in<orig>&#173; </orig>verno che apena se<reg>&#173; </reg>ge<reg>&#173; </reg><choice><orig>po<lb n="23" xml:id="A.II.9_lb_08v_23_orig" facs="#A.II.9_line_08v_23_orig"/>sa</orig><reg>posa<lb n="23" xml:id="A.II.9_lb_08v_23_reg" facs="#A.II.9_line_08v_23_reg"/></reg></choice> schanpar<reg>,</reg> chon tuto <choice><orig>co</orig><reg>cò</reg></choice><reg>&#173; </reg>che l<reg>'</reg>omo abiade<reg>&#173; </reg><choice><orig>m<lb n="24" xml:id="A.II.9_lb_08v_24_orig" facs="#A.II.9_line_08v_24_orig"/>olti</orig><reg>molti<lb n="24" xml:id="A.II.9_lb_08v_24_reg" facs="#A.II.9_line_08v_24_reg"/></reg></choice>
 						<term ref="#drap">drapy</term><reg>.</reg></seg>
-					<seg n="5"><reg>[5] </reg><choice><orig>quando</orig><reg>Quando</reg></choice> l<reg>'</reg>omo si<reg>&#173; </reg><choice><orig>e</orig><reg>è</reg></choice> deseso quelle do<reg>&#173; </reg><choice><orig><abbr>c<am><g ref="#otilde"/></am><lb n="25" xml:id="A.II.9_lb_08v_25_orig" facs="#A.II.9_line_08v_25_orig"/>nate</abbr></orig><reg><expan>c<g ref="#otilde"/><ex>r</ex>nate</expan><lb n="25" xml:id="A.II.9_lb_08v_25_reg" facs="#A.II.9_line_08v_25_reg"/></reg></choice> ch<reg>'</reg>io ve<reg>&#173; </reg><choice><orig>o</orig><reg>ò</reg></choice><reg>&#173; </reg>dito de<reg>&#173; </reg>sora<reg>,</reg> l<reg>'</reg>omo si<reg>&#173; </reg>truova una <lb n="26" xml:id="A.II.9_lb_08v_26" facs="#A.II.9_line_08v_26"/>gran pianura<reg>,</reg> e a<reg>&#173; </reg>chomencamento
+					<seg n="5"><reg>[5] </reg><choice><orig>quando</orig><reg>Quando</reg></choice> l<reg>'</reg>omo si<reg>&#173; </reg><choice><orig>e</orig><reg>è</reg></choice> deseso quelle do<reg>&#173; </reg><choice><orig><abbr>c<am><g ref="#otilde"/></am><lb n="25" xml:id="A.II.9_lb_08v_25_orig" facs="#A.II.9_line_08v_25_orig"/>nate</abbr></orig><reg><expan>c<g ref="#otilde"/><ex>r</ex>nate</expan><lb n="25" xml:id="A.II.9_lb_08v_25_reg" facs="#A.II.9_line_08v_25_reg"/></reg></choice> ch<reg>'</reg>io ve<reg>&#173; </reg><choice><orig>o</orig><reg>ò</reg></choice><reg>&#173; </reg>dito de<reg>&#173; </reg>sora<reg>,</reg> l<reg>'</reg>omo <choice>
+							<orig>si</orig>
+							<reg>sì</reg>
+					</choice><reg>&#173; </reg>truova una <lb n="26" xml:id="A.II.9_lb_08v_26" facs="#A.II.9_line_08v_26"/>gran pianura<reg>,</reg> e a<reg>&#173; </reg>chomencamento
 						de<reg>&#173; </reg>quelo<reg>&#173; </reg><choice><orig>pi<lb n="27" xml:id="A.II.9_lb_08v_27_orig" facs="#A.II.9_line_08v_27_orig"/>ano</orig><reg>piano<lb n="27" xml:id="A.II.9_lb_08v_27_reg" facs="#A.II.9_line_08v_27_reg"/></reg></choice> si<reg>&#173; </reg><choice><orig>e</orig><reg>è</reg></choice> una citade che<reg>&#173; </reg><choice><orig>a</orig><reg>à</reg></choice><reg>&#173; </reg>nome <placeName ref="#camandi"><choice><orig>chomandi</orig><reg>Chomandi</reg><reg>,</reg></choice></placeName> la<reg>&#173; </reg><choice><orig>qu<lb n="28" xml:id="A.II.9_lb_08v_28_orig" facs="#A.II.9_line_08v_28_orig"/>al</orig><reg>qual<lb n="28" xml:id="A.II.9_lb_08v_28_reg" facs="#A.II.9_line_08v_28_reg"/></reg></choice> fo in antigo tenpo<reg>&#173; </reg>nobele <choice><orig>E</orig><reg>e</reg></choice><reg>&#173; </reg>granda molto<reg>,</reg>
 						<lb n="29" xml:id="A.II.9_lb_08v_29" facs="#A.II.9_line_08v_29"/>mo<reg>&#173; </reg>par mo<reg>'</reg> non<reg>&#173; </reg><choice><orig>e</orig><reg>è</reg></choice>
 						<choice><orig>chosi</orig><reg>chosì</reg></choice><reg>:</reg>
@@ -9888,8 +9909,8 @@
 							<reg>.V.</reg>
 						</choice>
 						<term ref="#journee">cornade</term> se<reg>&#173; </reg>truova un<reg>'</reg>altra<choice>
-							<orig>de<orig>&#173; </orig>cli<lb n="6" xml:id="A.II.9_lb_10r_06_orig" facs="#A.II.9_line_10r_06_orig"/>nar</orig>
-							<reg>de<orig>&#173; </orig>clinar<lb n="6" xml:id="A.II.9_lb_10r_06_reg" facs="#A.II.9_line_10r_06_reg"/></reg>
+							<orig>de cli<lb n="6" xml:id="A.II.9_lb_10r_06_orig" facs="#A.II.9_line_10r_06_orig"/>nar</orig>
+							<reg>declina{r}<lb n="6" xml:id="A.II.9_lb_10r_06_reg" facs="#A.II.9_line_10r_06_reg"/></reg>
 						</choice> che <choice>
 							<orig>El</orig>
 							<reg>el</reg>
@@ -10108,7 +10129,10 @@
 						<!-- ##### FOLIO 10v ##### --><pb n="10v" xml:id="A.II.9_fol_10v"/><lb n="1" xml:id="A.II.9_lb_10v_01"
 							facs="#A.II.9_line_10v_01"/>elo li<reg>&#173; </reg>fa<reg>&#173; </reg>veniregrando fluxo e<reg>&#173; </reg>purga molto
 						lo <lb n="2" xml:id="A.II.9_lb_10v_02" facs="#A.II.9_line_10v_02"/>ventre<reg>,</reg> mo posa li<reg>&#173; </reg>fa ben
-							asay<reg>;</reg> quelo si<reg>&#173; </reg>fa<choice>
+							asay<reg>;</reg> quelo <choice>
+								<orig>si</orig>
+								<reg>sì</reg>
+							</choice><reg>&#173; </reg>fa<choice>
 							<orig>in<lb n="3" xml:id="A.II.9_lb_10v_03_orig" facs="#A.II.9_line_10v_03_orig"/>grasar</orig>
 							<reg>ingrasar<lb n="3" xml:id="A.II.9_lb_10v_03_reg" facs="#A.II.9_line_10v_03_reg"/></reg>
 						</choice> la<reg>&#173; </reg>persona<reg>.</reg></seg>
@@ -10199,10 +10223,10 @@
 							<reg>e</reg>
 						</choice><reg>&#173; </reg>una chuverta<reg>.</reg><note type="corrSim">La lezione di VA⁶ è comune a VA³ XXIII, 14 (gli editori
 							correggono in [no è] coverta) e VA⁵ I 24, 14 "e una coverta". La lezione corretta è conservata da VA¹ 1, 16 "e no ae coverta";
-							VA² 4, r. 31 "e no è coverta".</note></seg>
+							VA² 4, r. 31 "e no è coverta"; cf. F XXXVI, 14 "et ne unt cuverte".</note></seg>
 					<seg n="15"><reg>[15] </reg><choice>
 							<orig>mo</orig>
-							<reg>mo</reg>
+							<reg>Mo</reg>
 						</choice> quando elly <lb n="20" xml:id="A.II.9_lb_10v_20" facs="#A.II.9_line_10v_20"/><choice>
 							<orig>ano</orig>
 							<reg>àno</reg>
@@ -11480,10 +11504,7 @@
 						</choice> davanty dal <term ref="#viel"><choice>
 								<orig>vechio</orig>
 								<reg>Vechio</reg>
-							</choice></term> etelo <choice>
-							<sic>domandavano</sic>
-							<corr>domandava{no}</corr>
-						</choice><choice>
+							</choice></term> etelo domandavano
 							<orig><abbr>d<am><g ref="#omacr"/></am><lb n="13" xml:id="A.II.9_lb_13v_13_orig" facs="#A.II.9_line_13v_13_orig"
 									/>de</abbr></orig>
 							<reg><expan>d<g ref="#omacr"/><ex>n</ex>de</expan><lb n="13" xml:id="A.II.9_lb_13v_13_reg" facs="#A.II.9_line_13v_13_reg"
@@ -12638,7 +12659,10 @@
 						</choice><reg>&#173; </reg><choice>
 							<orig>si</orig>
 							<reg>sì</reg>
-						</choice> va tutolo<reg>&#173; </reg>dy per montagne<reg>.</reg></seg>
+						</choice> va tutolo<reg>&#173; </reg><choice>
+							<orig>dy</orig>
+							<reg>dý</reg>
+						</choice> per montagne<reg>.</reg></seg>
 					<seg n="13"><reg>[13] </reg><choice>
 							<orig>anchora</orig>
 							<reg>Anchora</reg>
@@ -13649,7 +13673,10 @@
 						<reg>[10] </reg><choice>
 							<orig>la</orig>
 							<reg>La</reg>
-						</choice><reg>&#173; </reg>cente dela provencia si<reg>&#173; </reg><choice>
+						</choice><reg>&#173; </reg>cente dela provencia <choice>
+							<orig>si</orig>
+							<reg>sì</reg>
+						</choice><reg>&#173; </reg><choice>
 							<orig>a</orig>
 							<reg>à</reg>
 						</choice> lenguaco <lb n="20" xml:id="A.II.9_lb_17v_20" facs="#A.II.9_line_17v_20"/>per<reg>&#173; </reg>si<reg>.</reg></seg>
@@ -14766,11 +14793,10 @@
 					<seg n="12"><lb n="24" xml:id="A.II.9_lb_19v_24" facs="#A.II.9_line_19v_24"/><reg>[12] </reg><choice>
 							<orig>e</orig>
 							<reg>E</reg>
-						</choice><reg>&#173; </reg>tal fiada li<reg>&#173; </reg>farano devixare<note type="corrSim">La lezione è l’esito di una
-							banalizzazione per desviare, come si evince dal confronto con gli altri testimoni del gruppo; cf. VA³ XLIII, 12 "desviare"
-							VA¹ 19, 22 "desviare" VA⁵ I 43, 13 "desviare"; F LVI, 13 "devoier". La si conserva interpretando il verbo nell’accezione di
-							‘modificare l’aspetto esteriore di qsa rendendolo irriconoscibile (anche fig.)’ (cf. TLIO, s.v. «devisare 2»). Il capitolo
-							manca in VA².</note> in<reg>&#173; </reg>tal muodo <lb n="25" xml:id="A.II.9_lb_19v_25" facs="#A.II.9_line_19v_25"
+					</choice><reg>&#173; </reg>tal fiada li<reg>&#173; </reg>farano devixare<note type="corrSim">la lezione è l’esito di 
+						una banalizzazione per "desviare", come si evince dal confronto con gli altri testimoni del gruppo; cf. VA3 XLIII, 12 
+						"desviare" VA1 19, 22 "desviare" VA5 I 43,13 "desviare"; F LVI, 13 "devoier". La si conserva interpretando il verbo 
+						nell’accezione di ‘separare, dividere’ (cf. TLIO, s.v. «divisare 1»). Il capitolo manca in VA2. </note> in<reg>&#173; </reg>tal muodo <lb n="25" xml:id="A.II.9_lb_19v_25" facs="#A.II.9_line_19v_25"
 							/>ch<reg>'</reg>ello non <choice>
 							<orig>trovera</orig>
 							<reg>troverà</reg>
@@ -14805,9 +14831,8 @@
 						<choice>
 							<orig>chi<lb n="29" xml:id="A.II.9_lb_19v_29_orig" facs="#A.II.9_line_19v_29_orig"/>aro</orig>
 							<reg>chiaro,<lb n="29" xml:id="A.II.9_lb_19v_29_reg" facs="#A.II.9_line_19v_29_reg"/></reg>
-						</choice> mesi de demony<reg>;</reg><note type="corrSim">La lezione è comune a VA¹ 19, 24 "missi de demonii" e a VA⁵ I 43, 15 "messi de demonii",
-							contro VA³ XLIII, 14 "voxe di demonii", confermato però da F LVI, 13 "ceste voices de espiriti". Il capitolo manca in
-							VA².</note> e<reg>&#173; </reg>tal fiada par ch<reg>'</reg>ely <lb n="30" xml:id="A.II.9_lb_19v_30"
+						</choice> mesi de demony<reg>;</reg><note type="corrSim">La lezione è condivisa da VA1 19, 24 "missi de demonii" e VA5 I 43, 
+							15 "messi de demonii", contro VA3 XLIII, 14 "voxe di demonii", confermato però da F LVI, 13 "ceste voices de espiriti". Il capitolo manca in VA2. </note> e<reg>&#173; </reg>tal fiada par ch<reg>'</reg>ely <lb n="30" xml:id="A.II.9_lb_19v_30"
 							facs="#A.II.9_line_19v_30"/>soneno istormenty in aiere<reg>,</reg>
 						<choice>
 							<orig>E</orig>
@@ -14818,7 +14843,10 @@
 						</choice>
 						<term ref="#tanbur">tanburli</term><reg>.</reg></seg>
 					<seg n="15">
-						<reg>[15] </reg>in questo muodo sepasa quello<note type="ric">Richiamo nel margine inferiore: deserto con.</note> <pb n="20r" xml:id="A.II.9_fol_20r"/>
+						<reg>[15] </reg><choice>
+							<orig>in</orig>
+							<reg>In</reg>
+						</choice> questo muodo sepasa quello<note type="ric">Richiamo nel margine inferiore: deserto con.</note> <pb n="20r" xml:id="A.II.9_fol_20r"/>
 						<lb n="1" xml:id="A.II.9_lb_20r_01" facs="#A.II.9_line_20r_01"/>deserto con granda paura<reg>.</reg></seg>
 				</p>
 			</div>
@@ -15166,7 +15194,7 @@
 						</choice><reg>&#173; </reg>quando l<reg>'</reg>omo <choice>
 							<orig>e</orig>
 							<reg>è</reg>
-						</choice><reg>&#173; </reg>morto<reg>,</reg> li<reg>&#173; </reg>so<reg>'</reg>
+						</choice><reg>&#173; </reg>morto<reg>,</reg> li<reg>&#173; </reg>so
 						<choice>
 							<orig>paren<lb n="25" xml:id="A.II.9_lb_20v_25_orig" facs="#A.II.9_line_20v_25_orig"/>ti</orig>
 							<reg>parenti<lb n="25" xml:id="A.II.9_lb_20v_25_reg" facs="#A.II.9_line_20v_25_reg"/></reg>
@@ -15274,7 +15302,10 @@
 						</reg>tavola dananci dala chasa <choice>
 							<orig>o<lb n="12" xml:id="A.II.9_lb_21r_12_orig" facs="#A.II.9_line_21r_12_orig"/>gni</orig>
 							<reg>ogni<lb n="12" xml:id="A.II.9_lb_21r_12_reg" facs="#A.II.9_line_21r_12_reg"/></reg>
-						</choice> dy<reg>,</reg>
+						</choice> <choice>
+							<orig>dy</orig>
+							<reg>dý</reg>
+						</choice><reg>,</reg>
 						<choice>
 							<orig>si</orig>
 							<reg>sì</reg>
@@ -15289,8 +15320,14 @@
 						chosse <choice>
 							<orig>E</orig>
 							<reg>e</reg>
-						</choice><reg>&#173; </reg>sta tanto la<reg>&#173; </reg>mesa da <lb n="15" xml:id="A.II.9_lb_21r_15"
-							facs="#A.II.9_line_21r_15"/>da<orig>&#173; </orig>manty la<reg>&#173; </reg>chasa chomo uno porave <choice>
+						</choice><reg>&#173; </reg>sta tanto la<reg>&#173; </reg>mesa <choice>
+							<sic>da</sic>
+							<corr>{da}</corr>
+						</choice> <lb n="15" xml:id="A.II.9_lb_21r_15"
+							facs="#A.II.9_line_21r_15"/><choice>
+								<sic>da manty</sic>
+								<corr>davanty</corr>
+							</choice> la<reg>&#173; </reg>chasa chomo uno porave <choice>
 							<abbr>disn<am><g ref="#atilde"/></am></abbr>
 							<expan>disn<g ref="#atilde"/><ex>r</ex></expan>
 						</choice>
@@ -17581,7 +17618,10 @@
 						</choice><reg>&#173; </reg>quelo chastelo<reg>,</reg> e<reg>&#173; </reg>fo ferido in<reg>&#173; </reg>lo <choice>
 							<orig>cenoch<lb n="27" xml:id="A.II.9_lb_25v_27_orig" facs="#A.II.9_line_25v_27_orig"/>io</orig>
 							<reg>cenochio<lb n="27" xml:id="A.II.9_lb_25v_27_reg" facs="#A.II.9_line_25v_27_reg"/></reg>
-						</choice> de una saita<reg>,</reg> e<reg>&#173; </reg>de quela ferida mory <reg>.</reg>
+						</choice> de una saita<reg>,</reg> e<reg>&#173; </reg>de quela ferida <choice>
+							<orig>mory</orig>
+							<reg>morý</reg>
+						</choice><reg>.</reg>
 					</seg>
 					<seg n="13">
 						<lb n="28" xml:id="A.II.9_lb_25v_28" facs="#A.II.9_line_25v_28"/><reg>[12] </reg><choice>
@@ -20074,8 +20114,10 @@
 						<choice>
 							<orig>Ala</orig>
 							<reg>ala</reg>
-						</choice> moier<reg>.</reg><note type="jacob">Nel margine superiore, di altra mano e poco leggibile: "lameta nostro p(er) voy
-							n(ostr)i"?</note></seg>
+						</choice> moier<reg>.</reg><note type="corrSim">Ma "madre" in VA2 26; "sa mier" in F LXXI, 25. Manca negli altri testimoni di VA.</note></seg>
+					
+					
+					<!-- ################# QUI -->
 				</p>
 			</div>
 			<div type="chapter" n="48" xml:id="VA58_VAvi.48">
@@ -21528,7 +21570,7 @@
 							<orig>se</orig>
 							<reg>sè</reg>
 						</choice>
-						<reg><supplied>‹re›</supplied></reg>
+						<reg><supplied>‹re›</supplied><note type="corrSim">Integrazione fondata su VA3 LXII, 1 e VA5 II 2, 1; cf. F LXXVI, 2 "sire". Manca in VA2.</note></reg>
 						d<reg>'</reg>i <term ref="#tartars">Tartary</term><reg>.</reg></seg>
 					<seg n="2">
 						<reg>[2] </reg><choice>
@@ -21565,7 +21607,10 @@
 						<persName ref="#cublai"><choice>
 								<orig>chublai</orig>
 								<reg>Chublai</reg>
-							</choice></persName><reg>,</reg> e ave la<reg>&#173; </reg>signoria per suo <reg>‹…›</reg>
+						</choice></persName><reg>,</reg> e ave la<reg>&#173; </reg>signoria per suo<reg> ‹…›<note type="corrSim">Lacuna: cf. VA3 LXII, 3 "e ave la
+								segnioria per el so gran seno e per soa valentixia e prodeza, ché li suo’ fradelli e lli suo’ parenti"; VA5 II 2, 3 "et have 
+								la signoria per suo seno e valentia e prodeza, ché li soi fratelli e parenti"; e cf. F LXXVI, 5 "Et sachiés q’il ot la segnorie 
+								por son valor et por sa proece et por son grant senz, car sez parenz et seç freres la le defendoient". Manca in VA2.</note></reg>
 						<choice>
 							<orig>paren<lb n="23" xml:id="A.II.9_lb_35v_23_orig" facs="#A.II.9_line_35v_23_orig"/>ti</orig>
 							<reg>parenti<lb n="23" xml:id="A.II.9_lb_35v_23_reg" facs="#A.II.9_line_35v_23_reg"/></reg>
@@ -21606,10 +21651,14 @@
 							<reg>.XIII.</reg>
 						</choice> any<reg>,</reg> el<reg>&#173; </reg>puol eser de etade de <!-- ##### FOLIO 36r ##### -->
 						<pb n="36r" xml:id="A.II.9_fol_36r"/>
-						<lb n="1" xml:id="A.II.9_lb_36r_01" facs="#A.II.9_line_36r_01"/><choice>
+						<lb n="1" xml:id="A.II.9_lb_36r_01" facs="#A.II.9_line_36r_01"/><note type="jacob">Nell’angolo superiore destro è presente una numerazione più antica: 49.</note><choice>
 							<orig>.lxxv.</orig>
 							<reg>.LXXV.</reg>
-						</choice> any<reg>.</reg></seg>
+						</choice> any<reg>.</reg><note type="corrSim">"E chomencò […] .LXXV. any" Il periodo risulta meno lineare rispetto agli altri testimoni del gruppo VA, 
+							che riformulano il corrispondente passo di F LXXVI, 7-8 "Il a, qu’il comance a regner, .XLII. anç jusque a cestui point qe core .M.CC.LXXXXVIII. Il puet
+							bien avoir d’aajes quatrevins |34b| et cinq anz"; e cf. VA3 LXII, 4 "E chomenzò a regniar innel milleximo che chore, MCCLXXXVIII, sì che ello, regniando 
+							XLII ani, e pò esser de etade de LXXXV"; VA5 II 2, 4 "E comenzò a regnare nel tempo dito de sopra, e sì regnava fin al milesimo che corre, 
+							cioè M°.CC.LXXXXVIII, sì ch’elo havea regnà za 42 anni, e po’ esser de età de LXXXV anni". Manca in VA2.</note></seg>
 					<seg n="5">
 						<reg>[5] </reg><choice>
 							<orig>avanti</orig>
@@ -21854,7 +21903,7 @@
 						<reg>[15] </reg><choice>
 							<orig>la</orig>
 							<reg>La</reg>
-						</choice><reg>&#173; </reg>chason per ch<reg>'</reg>elo no<reg>&#173; </reg><choice>
+						</choice><reg>&#173; </reg>chason<orig><note type="autoCorr">Con ‹c-› corretta dal copista.</note></orig> per ch<reg>'</reg>elo no<reg>&#173; </reg><choice>
 							<orig>fe</orig>
 							<reg>fè'</reg>
 						</choice> macor <choice>
@@ -21894,13 +21943,10 @@
 						</choice> in altre <choice>
 							<orig>pr<lb n="15" xml:id="A.II.9_lb_36v_15_orig" facs="#A.II.9_line_36v_15_orig"/>ovencie</orig>
 							<reg>provencie<lb n="15" xml:id="A.II.9_lb_36v_15_reg" facs="#A.II.9_line_36v_15_reg"/></reg>
-						</choice> per chonq<add>i</add>ustar tere<reg>,</reg> e<reg>&#173; </reg>s<reg>'</reg>el<reg>&#173; </reg>avese <choice>
+						</choice> per chonq<add>i</add>ustar<orig><note type="autoCorr">Con ‹-i-› aggiunta dal copista, ma nella posizione sbagliata, dopo la ‹-q-›.</note></orig> tere<reg>,</reg> e<reg>&#173; </reg>s<reg>'</reg>el<reg>&#173; </reg>avese <choice>
 							<orig>m<lb n="16" xml:id="A.II.9_lb_36v_16_orig" facs="#A.II.9_line_36v_16_orig"/>andato</orig>
 							<reg>mandato<lb n="16" xml:id="A.II.9_lb_36v_16_reg" facs="#A.II.9_line_36v_16_reg"/></reg>
-						</choice> per loro elo no<reg>&#173; </reg>li<reg>&#173; </reg><choice>
-							<sic>averaveno</sic>
-							<corr>averave{no}</corr>
-						</choice>
+						</choice> per loro elo no<reg>&#173; </reg>li<reg>&#173; </reg>averaveno<note type="corrSim"></note>
 						<choice>
 							<orig>ab<lb n="17" xml:id="A.II.9_lb_36v_17_orig" facs="#A.II.9_line_36v_17_orig"/>udi</orig>
 							<reg>abudi<lb n="17" xml:id="A.II.9_lb_36v_17_reg" facs="#A.II.9_line_36v_17_reg"/></reg>
@@ -21986,7 +22032,9 @@
 						<!-- ##### FOLIO 37r ##### -->
 						<pb n="37r" xml:id="A.II.9_fol_37r"/>
 					<seg n="21">
-						<lb n="1" xml:id="A.II.9_lb_37r_01" facs="#A.II.9_line_37r_01"/><reg>[21] </reg><reg>‹…› </reg>
+						<lb n="1" xml:id="A.II.9_lb_37r_01" facs="#A.II.9_line_37r_01"/><note type="jacob">Nell’angolo superiore destro è presente una numerazione più antica: 47.</note><reg>[21] </reg><reg>‹…› <note type="corrSim">Sono cadute alcune cc., 
+								(probabilmente una), con la conseguente perdita del testo 
+								corrispondente a VA3 LXII 20- LXII 35.</note></reg>
 						<choice>
 							<sic>se chel non voleva quela sangue dela tu<lb n="2" xml:id="A.II.9_lb_37r_02_sic" facs="#A.II.9_line_37r_02_sic"/>ta</sic>
 							<corr>{se ch'el non voleva quela sangue dela tuta}<lb n="2" xml:id="A.II.9_lb_37r_02_corr" facs="#A.II.9_line_37r_02_corr"/></corr>
@@ -22022,7 +22070,14 @@
 							<orig>ni</orig>
 							<reg>nì</reg>
 						</choice><reg>&#173; </reg>tera vedese morir niuno <lb n="6" xml:id="A.II.9_lb_37r_06" facs="#A.II.9_line_37r_06"/>dela chasa
-							in<orig>&#173; </orig>perial a<reg>&#173; </reg>mala morte<reg>.</reg></seg>
+						in<orig>&#173; </orig>perial a<reg>&#173; </reg>mala morte<reg>.</reg><note type="corrSim">{se […] morte: il periodo è segnato da 
+							alcune incomprensioni, che rendono necessarie le due espunzioni, come si evince dal confronto con VA3 LXII, 36 "La chaxion per che lo fexe 
+							morir in cotal maniera si fo perché el disse el Tartaro ch’el non voleva che ’l sangue dela soa chaxa inperial fosse sparsso,
+							nì che sula tera el vedeseno morir a mala morte alchuno della chaxa". Il testo di VA5 II 2, 34 omette la pericope "el disse el Tartaro", 
+							ma, come VA6, conserva la lezione corrispondente a "ne que le soleil ne l’air le voie" di F, banalizzata da VA3: "La cason per che lo
+							fece morir a tal partido si fo perché el non volea el Tartaro che ’l suo sangue imperial fosse sparto, né che ’l sole né la
+							terra vedesse morir alcuno de casa soa a mala morte". Cf. F LXXIX, 4 "Et por ce le fist morir en tel mainere: 
+							que il ne vuelen que le sanc dou leingnajes de l’enperer soit espandu sor la terre, ne que le soleil ne l’air le voie". Manca in VA2.</note></seg>
 					<seg n="22">
 						<reg>[22] </reg><choice>
 							<orig>quan<lb n="7" xml:id="A.II.9_lb_37r_07_orig" facs="#A.II.9_line_37r_07_orig"/>do</orig>
@@ -22193,7 +22248,10 @@
 						che abia <choice>
 							<orig>tor<lb n="2" xml:id="A.II.9_lb_37v_02_orig" facs="#A.II.9_line_37v_02_orig"/>to</orig>
 							<reg>torto,<lb n="2" xml:id="A.II.9_lb_37v_02_reg" facs="#A.II.9_line_37v_02_reg"/></reg>
-						</choice> anche die<reg>'</reg> senpre mantegnir iustisia e <lb n="3" xml:id="A.II.9_lb_37v_03"
+						</choice> <choice>
+							<sic>anche</sic>
+							<corr>anc[i]</corr>
+						</choice><note type="corrSim">Ma "anzi" in VA3 LXII, 42 e in VA5 II 2, 40. Manca in VA2.</note> die<reg>'</reg> senpre mantegnir iustisia e <lb n="3" xml:id="A.II.9_lb_37v_03"
 							facs="#A.II.9_line_37v_03"/>rason<reg>.</reg></seg>
 					<seg n="28">
 						<reg>[28] </reg>
@@ -22363,7 +22421,7 @@
 							inferiore: "bene in oste".</note>
 						<!-- ##### FOLIO 38r ##### -->
 						<pb n="38r" xml:id="A.II.9_fol_38r"/>
-						<lb n="1" xml:id="A.II.9_lb_38r_01" facs="#A.II.9_line_38r_01"/>bene in oste et in<reg>&#173; </reg>bataia<reg>,</reg> quelo
+						<lb n="1" xml:id="A.II.9_lb_38r_01" facs="#A.II.9_line_38r_01"/><note type="jacob">Nell’angolo superiore destro è presente una numerazione più antica: 49. </note>bene in oste et in<reg>&#173; </reg>bataia<reg>,</reg> quelo
 							ch<reg>'</reg><choice>
 							<orig>e</orig>
 							<reg>è</reg>
@@ -23110,10 +23168,9 @@
 						<choice>
 							<orig>coe</orig>
 							<reg>coè</reg>
-						</choice> de<reg>&#173; </reg><choice>
-							<sic>setenbro</sic>
-							<corr>[decenbro]</corr>
-						</choice><reg>,</reg>
+						</choice> de<reg>&#173; </reg>setenbro<reg>,</reg><note type="corrSim">La lezione, benché difficilmente conciliabile 
+							con la sequenza dei mesi (gennaio, febbraio), è conservata nel testo; 
+							ci si attenderebbe piuttosto decenbro, come nel resto del gruppo VA.</note>
 						<choice>
 							<orig>ce<lb n="28" xml:id="A.II.9_lb_39v_28_orig" facs="#A.II.9_line_39v_28_orig"/>naro</orig>
 							<reg>cenaro<lb n="28" xml:id="A.II.9_lb_39v_28_reg" facs="#A.II.9_line_39v_28_reg"/></reg>
@@ -23122,11 +23179,11 @@
 						<placeName ref="#canbalu"><choice>
 								<orig>chanibalu</orig>
 								<reg>Chanibalu</reg>
-							</choice></placeName><reg>,</reg> la<reg>&#173; </reg>quale si<reg>&#173; </reg><choice>
+						</choice></placeName><reg>,</reg><note type="corrSim">Lettura incerta; possibile anche chanbalu.</note> la<reg>&#173; </reg>quale si<reg>&#173; </reg><choice>
 							<orig>e</orig>
 							<reg>è</reg>
-							</choice><reg>&#173; </reg>in<reg>&#173; </reg>la provencia de<note type="ric">Richiamo nel margine inferiore: chatay inquesta.</note> <pb n="40r" xml:id="A.II.9_fol_40r"/>
-						<lb n="1" xml:id="A.II.9_lb_40r_01" facs="#A.II.9_line_40r_01"/>
+							</choice><reg>&#173; </reg>in<reg>&#173; </reg>la provencia de<note type="ric">Richiamo nel margine inferiore: "chatay inquesta".</note> <pb n="40r" xml:id="A.II.9_fol_40r"/>
+						<lb n="1" xml:id="A.II.9_lb_40r_01" facs="#A.II.9_line_40r_01"/><note type="jacob">Nell’angolo superiore destro è presente una numerazione più antica: 50. Nell’angolo inferiore destro, c 2.</note>
 						<placeName ref="#catai"><choice>
 								<orig>chatay</orig>
 								<reg>Chatay</reg>
