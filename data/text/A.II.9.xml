@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>«Milione settentrionale». Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9</title>
+				<title>«Milione» settentrionale. Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9</title>
 				<respStmt>
 					<resp>Edizione digitale a cura di</resp>
 					<name xml:id="samuela">Samuela Simion</name>
@@ -5684,7 +5684,7 @@
 		<!-- numeri per apici:  VA¹ VA² VA³ VA⁴ VA⁵ VA⁶  -->
 		<front>
 			<div type="title">
-				<head><seg rend="italic">«Milione settentrionale». Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9</seg>
+				<head><seg rend="italic">«Milione» settentrionale. Edizione digitale del ms. Foligno, Bibl. «Lodovico Jacobilli», A.II.9</seg>
 					<seg>(a cura di Samuela Simion. Cura editoriale digitale di Marina Buzzoni, Giulia Fabbris, Fabio Soncin Venezia: ECF – Edizioni
 						Ca’ Foscari / Venice University Press, 2026)</seg></head>
 			</div>
