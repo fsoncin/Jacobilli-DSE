@@ -55,7 +55,6 @@ PRIMA:
 */
 /* 2) Se l'HTML conserva type */
 
-.popover .popover_trigger i.evt_note > span.lac,
 .popover .popover_trigger i.evt_note > span.ric,
 .popover .popover_trigger i.evt_note > span.jacob,
 .popover .popover_trigger i.evt_note > span.autoCorr,
@@ -117,32 +116,6 @@ PRIMA:
 
   color: #ffffff;
   background-color: #ff8c00;
-
-  vertical-align: super;
-}
-/* LETTERA NOTE lacune */
-.evt_note .lac {
-  font-size: 0;   /* nasconde il testo senza eliminarlo */
-}
-
-/* Stile comune del badge (una sola volta) */
-.evt_note .lac::before {
-  content: "L";   /* <- lettera desiderata */
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-
-  width: 1em;
-  height: 1em;
-  border-radius: 30%;
-
-  font-size: 0.90rem;
-  font-weight: 999;
-  font-style: normal;
-  line-height: 1;
-
-  color: #ffffff;
-  background-color: #ab0000;
 
   vertical-align: super;
 }

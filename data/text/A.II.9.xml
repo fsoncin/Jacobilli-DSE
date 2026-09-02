@@ -3749,9 +3749,10 @@
 					</item>
 					<item xml:id="castiaus">
 						<term xml:lang="fr" type="lemma">Castiaus</term>
-						<term xml:lang="en">Wooden frame arranged atop an elephant</term>
+						<term xml:lang="en">Castle</term>
 						<!-- Tag abuse: non si tratta di un term, ma di una <note>! -->
 						<term xml:lang="it">Castello</term>
+						<note>Wooden frame arranged atop an elephant</note>
 					</item>
 					<item xml:id="cators">
 						<term xml:lang="fr" type="lemma">Cators</term>
