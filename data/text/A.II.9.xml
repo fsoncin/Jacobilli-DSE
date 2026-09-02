@@ -16819,7 +16819,7 @@
 						<lb n="32" xml:id="A.II.9_lb_17v_32" facs="#A.II.9_line_17v_32"/><reg>[6] </reg><choice>
 							<orig>la</orig>
 							<reg>La</reg>
-						</choice><reg>&#173; </reg>gliesia<orig><note type="autocorr">Ms gliesie,
+						</choice><reg>&#173; </reg>gliesia<orig><note type="autoCorr">Ms gliesie,
 								con ‹-e› corretta dal copista.</note></orig> era fata per tale
 						mainiera che una<orig><note type="ric">Richiamo nel margine inferiore:
 								"cholona de".</note></orig>
@@ -62116,9 +62116,7 @@
 			<pb n="112v" xml:id="A.II.9_fol_112v"/>
 		</body>
 		<back>
-			<!-- Note delle corrispondenze dei capitoli -->
-			<note type="corrispondenza" xml:id="corr_cap1">Il capitolo 1 del testimone A.II.9
-				corrisponde al capitolo VII della redazione VA</note>
+			
 		</back>
 	</text>
 </TEI>
