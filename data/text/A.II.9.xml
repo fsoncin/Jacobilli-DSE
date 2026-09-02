@@ -13908,7 +13908,7 @@
 						</choice><reg>&#173; </reg><choice>
 							<orig>feva<lb n="24" xml:id="A.II.9_lb_13r_24_orig"
 									facs="#A.II.9_line_13r_24_orig"/>li</orig>
-							<reg>feva-li<lb n="24" xml:id="A.II.9_lb_13r_24_Reg"
+							<reg>feva-li<lb n="24" xml:id="A.II.9_lb_13r_24_reg"
 									facs="#A.II.9_line_13r_24_reg"/></reg>
 						</choice> meter inlo cardino e<reg>&#173; </reg>possa lifeva
 							desedar<reg>.</reg></seg>
@@ -13924,7 +13924,7 @@
 						</choice> queli coveny se trovaveno in quelo<choice>
 							<orig>car<lb n="26" xml:id="A.II.9_lb_13r_26_orig"
 									facs="#A.II.9_line_13r_26_orig"/>dino</orig>
-							<reg>cardino<lb n="26" xml:id="A.II.9_lb_13r_26_Reg"
+							<reg>cardino<lb n="26" xml:id="A.II.9_lb_13r_26_reg"
 									facs="#A.II.9_line_13r_26_reg"/></reg>
 						</choice> e<reg>&#173; </reg>vedevano quelechose <choice>
 							<orig>chossi</orig>
@@ -25956,7 +25956,7 @@
 									facs="#A.II.9_line_35r_03_reg"/></reg>
 						</choice> chota dananci ale <term ref="#ydres">idole</term><reg>,</reg>
 							e<reg>&#173; </reg>spande ine<orig>&#173; </orig>l<reg>&#173; </reg><choice>
-							<orig>a<lb n="4" xml:id="A.II.9_lb_35r_04_orig_orig"
+							<orig>a<lb n="4" xml:id="A.II.9_lb_35r_04_orig"
 									facs="#A.II.9_line_35r_04_orig"/>iere</orig>
 							<reg>a<lb n="4" xml:id="A.II.9_lb_35r_04_reg"
 									facs="#A.II.9_line_35r_04_reg"/>iere</reg>
@@ -36195,7 +36195,7 @@
 							<orig>Omo</orig>
 							<reg>omo</reg>
 						</choice> quando elo se<reg>&#173; </reg>parte da<reg>&#173; </reg><choice>
-							<orig>qu <lb n="24" xml:id="A.II.9_lb_56r_24_oric"
+							<orig>qu <lb n="24" xml:id="A.II.9_lb_56r_24_orig"
 									facs="#A.II.9_line_56r_24"/>esto</orig>
 							<reg>questo<lb n="24" xml:id="A.II.9_lb_56r_24_reg"
 									facs="#A.II.9_line_56r_24"/></reg>
@@ -54484,7 +54484,7 @@
 						</choice>.° grosi <term ref="#robin"><choice>
 								<orig>ro <lb n="10" xml:id="A.II.9_lb_95r_10_orig"
 										facs="#A.II.9_line_95r_10"/>biny</orig>
-								<reg>robiny,<lb n="10" xml:id="A.II.9_lb_95r_10_Reg"
+								<reg>robiny,<lb n="10" xml:id="A.II.9_lb_95r_10_reg"
 										facs="#A.II.9_line_95r_10"/></reg>
 							</choice></term> e<reg>&#173; </reg>choviene ch<reg>'</reg>elo
 							diga<reg>,</reg> la<reg>&#173; </reg><choice>
@@ -59502,7 +59502,7 @@
 							<orig>sapie</orig>
 							<reg>Sapiè</reg>
 						</choice> verasia<orig>&#173; </orig>mente che in<reg>&#173; </reg><choice>
-							<orig>qu <lb n="27" xml:id="A.II.9_lb_104v_2_orig7"
+							<orig>qu <lb n="27" xml:id="A.II.9_lb_104v_2_orig"
 									facs="#A.II.9_line_104v_27"/> esto</orig>
 							<reg>questo<lb n="27" xml:id="A.II.9_lb_104v_27_reg"
 									facs="#A.II.9_line_104v_27"/></reg>
